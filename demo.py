@@ -11,7 +11,7 @@ class View(flask.views.MethodView):
 		return flask.render_template('index.html')
 
 	def get('/sickOS'):
-		return flask.render_template('/sickOS/sickOS.html')
+		return flask.render_template('sickOS/sickOS.html')
 
 	def post(self):
 		#return flask.request.form['expression']
