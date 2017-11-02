@@ -1,7 +1,4 @@
 
-
-
-
 import flask, flask.views
 import os
 
@@ -12,6 +9,9 @@ app.secret_key="Jaffa"
 class View(flask.views.MethodView):
 	def get(self):
 		return flask.render_template('index.html')
+
+	def get('/sickOS'):
+		return flask.render_template('/sickOS/sickOS.html')
 
 	def post(self):
 		#return flask.request.form['expression']
