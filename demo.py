@@ -7,7 +7,7 @@ def index():
 
 @app.route('/sickOS')
 def sickOS():
-	return render_template("/sickOS/sickOS.html")
+	return render_template("sickOS.html")
 
 if __name__ == '__main__':
 	app.run(debug=True);
