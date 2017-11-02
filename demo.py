@@ -5,7 +5,7 @@ app = Flask(__name__)
 def index():
 	return render_template("index.html")
 
-@app.route('/')
+@app.route('/sickOS')
 def sickOS():
 	return render_template("/sickOS/sickOS.html")
 
