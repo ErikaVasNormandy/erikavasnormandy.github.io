@@ -4,34 +4,120 @@
   <title>ClickJacking</title>
   <style>
 
-    body {
-
-        background-image: url("https://orig00.deviantart.net/e8e0/f/2011/247/6/e/old_paper_stock_02_by_ftourini-d48ubt0.png");
-
-        background-color:#000000;
-        background-attachment: fixed;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-        white-space:inherit;
-        font-size:1vw;
-
-    }
+  @font-face {
+        font-family:"Cardinal";
+        src: url('../fonts/Cardinal.ttf');
 
 
-    .page{
-      width: 50%;
-      margin: auto;
+  }
+  @font-face{
+    font-family:"typewriter";
+    src: url('../fonts/typewriter-royal-200.regular.ttf');
+  }
+
+
+  body{
+    background-color: black;
+    background-image:url("https://img00.deviantart.net/782d/i/2014/180/9/a/arda_hyperion_by_asci_red-d7oj6hm.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+  }
+
+  .bookpage {
+      background-image: url(https://orig00.deviantart.net/e8e0/f/2011/247/6/e/old_paper_stock_02_by_ftourini-d48ubt0.png);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position-y: 10px;
+
+      min-height: 1700px;
+
+      width: 1000px;
+
+
       display: block;
-      padding-top: 10px;
-      padding-bottom: 10px;
+
+      padding-top:200px;
+      padding-left:200px;
+      padding-right:200px;
+      padding-bottom: 200px;
+      margin-left: auto;
+      margin-right: auto;
+      /*border-style: solid;
+      border-color:rgba(0,0,0,0.1);*/
+      font-family: "typewriter";
+
+    }
+    .centerIllustration{
+      display: block;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
     }
 
+    .mainTitle{
+      font-family:"Cardinal";
+      text-align: center;
+      margin-top: 10%;
+      font-size:5em;
+    }
+    .subTitle{
+      font-family:"Cardinal";
+      text-align: center;
+      font-size:2em;
+    }
+
+  p{
+      font-size: 2em;
+    }
   </style>
 </head>
 
 <body>
+  <div id="0" class="bookpage">
+    <h1 class="mainTitle">Pen Testing My Own Site:: ClickJacking</h1>
+    <img class="centerIllustration" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/Eye+Sketch.png"> </img>
+    <h3 class="subTitle">Scanning and Exploiting Your Personal Site</h3>
+    <h3 class="subTitle">Nov 7, 2017</h3>
+    <h3 class="subTitle">scavengers-repo.com</h3>
+  </div>
+
+
+  <div id="1" class="bookpage">
+    <p>On the road of making Scavengers-Repo, I figured it would be interesting to actually see just how secure the site was. Usually vulnerabilities are a byproduct of mistakes on the developer's part, and since I was the time-crunched developer, security took second priority over production </p>
+    <p>Used this site: <a href="https://www.wordfence.com/learn/penetration-testing-your-wordpress-website/"></a> to get started on some of the basic steps of securing your own web application.  </p>
+    <p>There are 4 steps they outline:
+      <ol>
+        <li>Reconaissance</li>
+        <li>Scanning</li>
+          <li>Exploitation</li>
+            <li>Mitigation</li>
+      </ol>
+    </p>
+
+    <p>
+      Overall, it's very comprehensive and hands-on without too much jargon. I used their steps as a guideline to scan my own site.
+
+    </p>
+
+
+  </div>
+
+
+  <div id="2" class="bookpage">
+  </div>
+
+lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
+lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
+lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
+lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
+lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
+lorem ipsumlorem ipsumlorem ipsumlorem ipsum
+lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
+lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
 
 </body>
 
