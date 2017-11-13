@@ -87,7 +87,15 @@
   }
   div.quoteBox{
     border-style: double;
-    background-color: rgba(255, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 20px 20px 20px 20px;
+    font-size: 1.5em;
+    text-align: center;
+
+  }
+  img.screenshot{
+    width: 100%;
+
   }
 
   </style>
@@ -138,22 +146,40 @@
   <div id="2" class="bookpage">
     <p><strong>>nslookup</strong></p>
     <p><img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack0.png"></p>
-    <p><i>"Nslookup is a program to query Internet domain name servers"</i></p>
-
+    <div class="quoteBox">"Nslookup is a program to query Internet domain name servers" <p style="font-size: .8em;">(>man lookup)</p></div>
+    <p>&nbsp</p>
     <p>Use this tool to match Internet URL's to their server IP's</p>
     <p>I found a web url, maybe a website that a client wants me to test, and ran <strong>nslookup</strong> on it to get an IP</p>
+    <img class= "screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack1.png"></img>
+    <p>I've also run a <strong>whois</strong> just to see some more (public!) information about the url</p>
 
+    <p>Usually, I would also run an <strong>nmap</strong>scan on the IP we've just found.</p>
+      <p> Nmap is a Terminal tool that let's us see the services on a particular address (ergo, what kinds of programs is this machine running?). We might be able to exploit them, such as a web server on port 80 that allows uploading files onto it.
+
+      Since I'm going to be brief, I'll just move on to the Scanning stage to see what we can do with that IP address for this website </p>
+  </div>
+
+  <div id ="3" class="bookpage">
+    <h2 style="font-size: 3em;">2. Scanning</h2>
+    <p>The tutorial in the link says that at this stage, pen-testers use <strong>Fuzzing</strong> on the target. This boils down to sending large amounts of random data to the application</p>
+    <p>Hopefully the results will reveal even more information about the target, although this can generate a lot of traffic that an IDS can pick up</p>
+      <p>-->How exactly does the application work?</p>
+
+    <p>-->Where did the developer make a mistake?</p>
+
+    <p>The tutorial goes in depth on some available tools, such as SQLMap, WPScan, and Burpsuite.</p>
+    <p>For this tutorial, I picked Nikto because it sounded like the least time-consuming with minimal setup </p>
+      <p><strong>>nikto</strong></p>
+    <img class="Screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack2_1.png"></img>
+
+    <p>Well what do you know? the site is on an nginx server, and the developer (me) has not given this site protection against <strong>clickjacking</strong></p>
+    <div class="quoteBox">"...The “clickjacking” attack allows an evil page to click on a “victim site” on behalf of the visitor."
+    </div>
+    https://javascript.info/clickjacking
+    <p>This site gives a pretty good demo of how clickjacking works, but the basic gist is that the bad guy places an invisible iframe over a link or a button you intend to click. It's positioned in a way that clicking on the supposed button will actually cause you to click on the invisible iframe's link instead. </p>
 
   </div>
 
-lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
-lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
-lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
-lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
-lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
-lorem ipsumlorem ipsumlorem ipsumlorem ipsum
-lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
-lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
 
 </body>
 
