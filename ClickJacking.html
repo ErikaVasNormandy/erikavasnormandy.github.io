@@ -31,7 +31,6 @@
       background-repeat: no-repeat;
       background-size: cover;
       background-position-y: 10px;
-
       min-height: 1700px;
 
       width: 1000px;
@@ -47,8 +46,6 @@
       /*border-style: solid;
       border-color:rgba(0,0,0,0.1);*/
       font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-
-
     }
     .centerIllustration{
       display: block;
@@ -61,8 +58,10 @@
     .rightIllustration{
       width: 50%;
       float: right;
-
-
+    }
+    .leftIllustration{
+      width: 50%;
+      float: left;
     }
 
     .mainTitle{
@@ -79,6 +78,7 @@
 
   p{
       font-size: 2em;
+      font-weight: bold;
     }
 
 
@@ -144,10 +144,11 @@
 
 
   <div id="2" class="bookpage">
+    <img style="width:80%;" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/GreyCat.png"></img>
     <p><strong>>nslookup</strong></p>
     <p><img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack0.png"></p>
     <div class="quoteBox">"Nslookup is a program to query Internet domain name servers" <p style="font-size: .8em;">(>man lookup)</p></div>
-    <p>&nbsp</p>
+
     <p>Use this tool to match Internet URL's to their server IP's</p>
     <p>I found a web url, maybe a website that a client wants me to test, and ran <strong>nslookup</strong> on it to get an IP</p>
     <img class= "screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack1.png"></img>
@@ -162,6 +163,7 @@
   <div id ="3" class="bookpage">
     <h2 style="font-size: 3em;">2. Scanning</h2>
     <p>The tutorial in the link says that at this stage, pen-testers use <strong>Fuzzing</strong> on the target. This boils down to sending large amounts of random data to the application</p>
+    <img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/bilbobunny.png"class="leftIllustration"/>
     <p>Hopefully the results will reveal even more information about the target, although this can generate a lot of traffic that an IDS can pick up</p>
       <p>-->How exactly does the application work?</p>
 
@@ -177,8 +179,43 @@
     </div>
     https://javascript.info/clickjacking
     <p>This site gives a pretty good demo of how clickjacking works, but the basic gist is that the bad guy places an invisible iframe over a link or a button you intend to click. It's positioned in a way that clicking on the supposed button will actually cause you to click on the invisible iframe's link instead. </p>
+  </div>
+
+  <div id ="4" class="bookpage">
+      <p>Since according to our <strong>nikto</strong> scan, the client site is vulnerable to clickjacking, let's test this out to see for sure. </p>
+      <p>Based off of what javascript.info mentioned, there's a simple way to test this out</p>
+      <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack2_2.png"/>
+      <p>Just made a random html file with an iframe set to display the client's site. If the iframe vulnerability is present, the iframe will actually display the intended site, such as what we see below</p>
+      <img style="width: 50%; position: inline-flex;" class = "screenshot" src ="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack3.png"></img>
+      <p>It doesn't look like much, but we now have loaded the client site into an iframe </p>
+      <img style="width: 50%;"src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/tree1.png" class="rightIllustration"></img>
 
   </div>
+  <div id ="5" class="bookpage">
+   <p>If we gradually decrease the opacity</p>
+   <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack4.png">
+   <p>&nbsp</p>
+   <p>Add a button over the other button </p>
+   <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack5.png">
+   <p style="font-size: 1.4em">Notice how the current page is set to "Home" and how the iframe has been placed in front of the button so that when we click on that grey button, we really end up clicking on the 'Projects' button in the iframe</p>
+   <p></p>
+  </div>
+
+  <div id="6" class="bookpage">
+    <p>Looks like it's just a button we can click, but looking at the console shows that the iframe is still there</p>
+    <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack6.png">
+    <p>The iframe is indeed placed over the button as shown when we up the opacity in the console</p>
+    <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack7.png">
+  </div>
+
+  <div id="7" class="bookpage">
+    <p>Set the opacity of the iframe back to 0, and click the button and see what happens</p>
+    <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack8.png"></img>
+
+    <p>So we might have thought we were clicking on that button, but in reality we clicked on the 'Projects' tab</p>
+    <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack9.png">
+  </div>
+
 
 
 </body>
