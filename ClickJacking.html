@@ -98,6 +98,11 @@
 
   }
 
+  h1.wordart{
+    font-family :"Courier New", Courier, monospace;
+    font-size: 10%;
+  }
+
   </style>
 </head>
 
@@ -137,28 +142,33 @@
     <p>&nbsp</p>
 
     <h2 style="font-size: 3em;">1. Reconaissance</h2>
-    <p>What can we do with a <strong>Terminal</strong> and a <strong>url</strong>?</p>
-    <p><strong><img style="width: 70%; float: right;" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/NSLookup.png"></strong></p>
+    <p>What can we do with a Terminal and a url?</p>
+    <p style="margin-left: 10%;"> ==>What information can we gather with a url and a Terminal</p>
+    <h1 class="wordart">NsLookup WhoIs + NMap</h1>
+    <!-- <p><strong><img style="width: 70%; float: right;" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/NSLookup.png"></strong></p> -->
   </div>
 
 
 
   <div id="2" class="bookpage">
-    <img style="width:80%;" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/GreyCat.png"></img>
     <p><strong>>nslookup</strong></p>
     <p><img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack0.png"></p>
-    <div class="quoteBox">"Nslookup is a program to query Internet domain name servers" <p style="font-size: .8em;">(>man lookup)</p></div>
+    <div class="quoteBox">"Nslookup is a program to query Internet domain name servers" <p style="font-size: .8em;">(>man nslookup)</p></div>
 
     <p>Use this tool to match Internet URL's to their server IP's</p>
     <p>I found a web url, maybe a website that a client wants me to test, and ran <strong>nslookup</strong> on it to get an IP</p>
     <img class= "screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack1.png"></img>
     <p>I've also run a <strong>whois</strong> just to see some more (public!) information about the url</p>
+    <img class="rightIllustration" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/GreyCat.png"></img>
 
     <p>Usually, I would also run an <strong>nmap</strong>scan on the IP we've just found.</p>
-      <p> Nmap is a Terminal tool that let's us see the services on a particular address (ergo, what kinds of programs is this machine running?). We might be able to exploit them, such as a web server on port 80 that allows uploading files onto it.
+        <p> Nmap is a Terminal tool that let's us see the services on a particular address (ergo, what kinds of programs is this machine running?). We might be able to exploit them, such as a web server on port 80 that allows uploading files onto it.
 
-      Since I'm going to be brief, I'll just move on to the Scanning stage to see what we can do with that IP address for this website </p>
+          Since I'm going to be brief, I'll just move on to the Scanning stage to see what we can do with that IP address for this website </p>
+
   </div>
+
+
 
   <div id ="3" class="bookpage">
     <h2 style="font-size: 3em;">2. Scanning</h2>
