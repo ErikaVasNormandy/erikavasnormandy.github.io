@@ -4,44 +4,114 @@
   <title>Fixing Nginx</title>
   <style>
 
+  @font-face {
+      font-family:"Cardinal";
+      src: url('../fonts/Cardinal.ttf');
+
+
+  }
+  @font-face{
+    font-family:"typewriter";
+    src: url('../fonts/typewriter-royal-200.regular.ttf');
+  }
+
+
   body{
     background-color: black;
     background-image:url("https://img00.deviantart.net/782d/i/2014/180/9/a/arda_hyperion_by_asci_red-d7oj6hm.jpg");
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    margin-top: auto;
+
   }
 
   .bookpage {
       background-image: url(https://orig00.deviantart.net/e8e0/f/2011/247/6/e/old_paper_stock_02_by_ftourini-d48ubt0.png);
       background-position: center;
       background-repeat: no-repeat;
-      background-size: contain;
+      background-size: cover;
       background-position-y: 10px;
+      min-height: 1700px;
 
-      min-height: 100%;
-      width: 40%;
+      width: 1000px;
+
       display: block;
-      margin-top: 10px;
-      padding: 200px 200px 200px 200px;
+
+      padding-top:200px;
+      padding-left:200px;
+      padding-right:200px;
+      padding-bottom: 200px;
       margin-left: auto;
       margin-right: auto;
-
-      font-size: 1.5em;
+      /*border-style: solid;
+      border-color:rgba(0,0,0,0.1);*/
+      font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     }
-
     .centerIllustration{
       display: block;
-      width: 50%;
+      width: 80%;
       margin-left: auto;
       margin-right: auto;
       margin-top: auto;
     }
 
-    h1.title{
-      text-align: center;
+    .rightIllustration{
+      width: 50%;
+      float: right;
     }
+    .leftIllustration{
+      width: 50%;
+      float: left;
+    }
+
+    .mainTitle{
+      font-family:"Cardinal";
+      text-align: center;
+      margin-top: 10%;
+      font-size:5em;
+    }
+    .subTitle{
+      font-family:"Cardinal";
+      text-align: center;
+      font-size:2em;
+    }
+
+  p{
+      font-size: 1.5em;
+      font-weight: bold;
+    }
+  p.subLI{
+      font-size: .8em;
+  }
+  ul{
+      font-size: 40px;
+      font-weight: bold;
+    }
+  li{
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+  ol{
+    font-size: 1.5em;
+  }
+  div.quoteBox{
+    border-style: double;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 20px 20px 20px 20px;
+    font-size: 1.5em;
+    text-align: center;
+
+  }
+  img.screenshot{
+    width: 100%;
+
+  }
+
+  h1.wordart{
+    font-family :"Courier New", Courier, monospace;
+    font-size: 10%;
+  }
 
 
   </style>
@@ -51,22 +121,134 @@
 
 
   <div class="bookpage">
-    <h1 class="title">Fixing Nginx</h1>
-    <img class="centerIllustration" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/Eye+Sketch.png"> </img>
+    <h1 class="maintitle">Fixing Nginx</h1>
+    <img class="centerIllustration" src=""> </img>
+    <p>Be warned, this will not have as much neatness as other pages because this is mainly for me (and cleaning up my desktop)</p>
   </div>
 
 
   <div class="bookpage">
+    <div class="resourcesBox">
+      <h1>Resources Used</h1>
+      <ul>
+        <li>https://stackoverflow.com/questions/44212134/an-error-configuring-nginx-with-angular-2-failed-to-load-resource-neterr-con</li>
+            <ul>
+                <li>Failed to load resource: net::ERR_CONTENT_LENGTH_MISMATCH</li>
+                <li>This only happened when loading "scavengers-repo.com", and did not occur with "scavengers-repo.com:8081", indicating an error on either the nginx side or python end</li>
+                <li>Post advises looking into error logs in logs/nginx_error.log; (must be enabled) </li>
+                <li>Turns out this is primarily a permissions issue</li>
+            </ul>
+        </li>
+
+        <li>https://github.com/dockerfile/nginx/issues/4
+            <ul>
+                <li>How do we change the permissions in nginx then?</li>
+                <li>"Failed to load resource: net::ERR_CONTENT_LENGTH_MISMATCH"</li>
+                <li>chown -R [username]:[username] /var/lib/nginx </li>
+                <li>SOLVED</li>
+            </ul>
+        </li>
+
+        <li>https://stackoverflow.com/questions/1706111/where-can-i-find-the-error-logs-of-nginx-using-fastcgi-and-django</li>
+        <li>https://www.nginx.com/resources/admin-guide/debug/</li>
+      </ul>
+    </div>
+
+
+
+
+
+
+    <div class="resourcesBox">
+      <h1>Resources Used</h1>
+
+      <ul>
+        <li>https://github.com/JMStudiosJoe/ReactPractice/blob/JMStudiosReact/nginx/nginx.conf
+          <ul>
+            <li>Example config file of where to put add_header and proxy_pass</li>
+            <li>proxy_pass http://localhost:[80xx]</li>
+
+          </ul>
+        </li>
+
+        <li>https://serverfault.com/questions/852626/configuring-google-domains-ec2-and-nginx/852642
+          <ul>
+            <li>Example config of nginx.conf</li>
+          </ul>
+        </li>
+
+      </ul>
+    </div>
+
+    <div class="resourcesBox">
+      <h1>Resources Used (for npm on aws ugh)</h1>
+      <ul>
+        <li>https://github.com/olefredrik/FoundationPress/issues/780
+          <p class="subLI">/usr/lib/node_modules/npm/lib/utils/unsupported.js:27
+              console.error(`a bug known to break npm. Please update to at least ${r
+                      ^
+                      SyntaxError: Unexpected token ILLEGAL
+                      at Module._compile (module.js:439:25)
+                      at Object.Module._extensions..js (module.js:474:10)
+                      at Module.load (module.js:356:32)
+                      at Function.Module._load (module.js:312:12)
+                      at Module.require (module.js:364:17)
+                      at require (module.js:380:17)
+                      at /usr/lib/node_modules/npm/bin/npm-cli.js:19:21
+                      at Object.<anonymous> (/usr/lib/node_modules/npm/bin/npm-cli.js:92:3)
+                      at Module._compile (module.js:456:26)
+                      at Object.Module._extensions..js (module.js:474:10)
+                      apps /home:nvm use 8,2 -g
+                      N/A: version "-g -> N/A" is not yet installed.
+          </p>
+          <p class="subLI">Error appears on running any kind of 'npm' command specifically
+        </li>
+
+        <li>http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
+          <p class="subLI">Sort of works? </p>
+        </li>
+
+        <li>https://stanko.github.io/webpack-babel-react-revisited/
+          <p class="subLI">Install Webpack</p>
+        </li>
+
+        <li> ./node_modules/.bin/webpack -d --watch
+          <p class="subLI">EXACTLY like this, in the directory next to node_modules. No need to edit otherwise</p>
+          <p class="subLI">https://www.codementor.io/tamizhvendan/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack-du107r9zr</p>
+        </li>
+      </ul>
+    </div>
 
   </div>
 
 
 
   <div class="bookpage">
+    <h1 class="subTitle">npm output</h1>
+    <p>ERROR: npm is known not to run on Node.js v4.4.5
+      Node.js 4 is supported but the specific version you're running has
+      a bug known to break npm. Please update to at least ${rel.min} to use this
+      version of npm. You can find the latest release of Node.js at https://nodejs.org/
+      nvm is not compatible with the npm config "prefix" option: currently set to ""
+      Run `npm config delete prefix` or `nvm use --delete-prefix v4.4.5 --silent` to unset it.
 
+
+      apps /home:nvm use 8,2 -g
+        N/A: version "-g -> N/A" is not yet installed.
+          You need to run "nvm install -g" to install it before using it.
+      apps /home:nvm install 8,2 -g
+              Version '8,2' not found - try `nvm ls-remote` to browse available versions.
+      apps /home:
+      apps /home:nvm ls-remote
+
+      apps /home:nvm install v8.2.1 -g
+        v8.2.1 is already installed.
+        Now using node v8.2.1 (npm v5.3.0)
+
+
+
+    </p>
   </div>
-
-
 
 
 

@@ -1,0 +1,491 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 AndaleMono;}
+{\colortbl;\red255\green255\blue255;\red47\green255\blue18;\red0\green0\blue0;\red192\green192\blue192;
+\red64\green11\blue217;\red47\green180\blue29;}
+{\*\expandedcolortbl;;\cssrgb\c15686\c99608\c7843;\csgray\c0\c90000;\cssrgb\c79890\c79891\c79890;
+\cssrgb\c32309\c18668\c88228;\cssrgb\c20239\c73899\c14948;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \CocoaLigature0 ^[[ALast login: Wed Nov 22 09:01:31 on ttys004\
+^[[AASCI-Blue-5:Desktop ASCI-Blue$ ssh -i ./secondkeypair.pem ec2-user@ec2-54-153-124-128.us-westompute.amazonaws.com\
+Last login: Wed Nov 22 16:55:33 2017 from 24.6.140.19\
+\
+       __|  __|_  )\
+       _|  (     /   Amazon Linux AMI\
+      ___|\\___|___|\
+\
+https://aws.amazon.com/amazon-linux-ami/2017.09-release-notes/\
+[ec2-user@ip-172-31-7-40 ~]$ cd ..\
+[ec2-user@ip-172-31-7-40 home]$ sudo su apps\
+ERROR: npm is known not to run on Node.js v4.4.5\
+Node.js 4 is supported but the specific version you're running has\
+a bug known to break npm. Please update to at least $\{rel.min\} to use this\
+version of npm. You can find the latest release of Node.js at https://nodejs.org/\
+nvm is not compatible with the npm config "prefix" option: currently set to ""\
+Run `npm config delete prefix` or `nvm use --delete-prefix v4.4.5 --silent` to unset it.\
+apps /home:ls\
+apps  ec2-user\
+apps /home:npm\
+\
+/usr/lib/node_modules/npm/lib/utils/unsupported.js:27\
+        console.error(`a bug known to break npm. Please update to at least $\{r\
+                      ^\
+SyntaxError: Unexpected token ILLEGAL\
+    at Module._compile (module.js:439:25)\
+    at Object.Module._extensions..js (module.js:474:10)\
+    at Module.load (module.js:356:32)\
+    at Function.Module._load (module.js:312:12)\
+    at Module.require (module.js:364:17)\
+    at require (module.js:380:17)\
+    at /usr/lib/node_modules/npm/bin/npm-cli.js:19:21\
+    at Object.<anonymous> (/usr/lib/node_modules/npm/bin/npm-cli.js:92:3)\
+    at Module._compile (module.js:456:26)\
+    at Object.Module._extensions..js (module.js:474:10)\
+apps /home:nvm use 8,2 -g\
+N/A: version "-g -> N/A" is not yet installed.\
+\
+You need to run "nvm install -g" to install it before using it.\
+apps /home:nvm install 8,2 -g\
+Version '8,2' not found - try `nvm ls-remote` to browse available versions.\
+apps /home:\
+apps /home:\
+apps /home:\
+apps /home:\
+apps /home:\
+apps /home:\
+apps /home:\
+apps /home:nvm ls-remote\
+        v0.1.14\
+        v0.1.15\
+        v0.1.16\
+        v0.1.17\
+        v0.1.18\
+        v0.1.19\
+        v0.1.20\
+        v0.1.21\
+        v0.1.22\
+        v0.1.23\
+        v0.1.24\
+        v0.1.25\
+        v0.1.26\
+        v0.1.27\
+        v0.1.28\
+        v0.1.29\
+        v0.1.30\
+        v0.1.31\
+        v0.1.32\
+        v0.1.33\
+        v0.1.90\
+        v0.1.91\
+        v0.1.92\
+        v0.1.93\
+        v0.1.94\
+        v0.1.95\
+        v0.1.96\
+        v0.1.97\
+        v0.1.98\
+        v0.1.99\
+       v0.1.100\
+       v0.1.101\
+       v0.1.102\
+       v0.1.103\
+       v0.1.104\
+         v0.2.0\
+         v0.2.1\
+         v0.2.2\
+         v0.2.3\
+         v0.2.4\
+         v0.2.5\
+         v0.2.6\
+         v0.3.0\
+         v0.3.1\
+         v0.3.2\
+         v0.3.3\
+         v0.3.4\
+         v0.3.5\
+         v0.3.6\
+         v0.3.7\
+         v0.3.8\
+         v0.4.0\
+         v0.4.1\
+         v0.4.2\
+         v0.4.3\
+         v0.4.4\
+         v0.4.5\
+         v0.4.6\
+         v0.4.7\
+         v0.4.8\
+         v0.4.9\
+        v0.4.10\
+        v0.4.11\
+        v0.4.12\
+         v0.5.0\
+         v0.5.1\
+         v0.5.2\
+         v0.5.3\
+         v0.5.4\
+         v0.5.5\
+         v0.5.6\
+         v0.5.7\
+         v0.5.8\
+         v0.5.9\
+        v0.5.10\
+         v0.6.0\
+         v0.6.1\
+         v0.6.2\
+         v0.6.3\
+         v0.6.4\
+         v0.6.5\
+         v0.6.6\
+         v0.6.7\
+         v0.6.8\
+         v0.6.9\
+        v0.6.10\
+        v0.6.11\
+        v0.6.12\
+        v0.6.13\
+        v0.6.14\
+        v0.6.15\
+        v0.6.16\
+        v0.6.17\
+        v0.6.18\
+        v0.6.19\
+        v0.6.20\
+        v0.6.21\
+         v0.7.0\
+         v0.7.1\
+         v0.7.2\
+         v0.7.3\
+         v0.7.4\
+         v0.7.5\
+         v0.7.6\
+         v0.7.7\
+         v0.7.8\
+         v0.7.9\
+        v0.7.10\
+        v0.7.11\
+        v0.7.12\
+         v0.8.0\
+         v0.8.1\
+         v0.8.2\
+         v0.8.3\
+         v0.8.4\
+         v0.8.5\
+         v0.8.6\
+         v0.8.7\
+         v0.8.8\
+         v0.8.9\
+        v0.8.10\
+        v0.8.11\
+        v0.8.12\
+        v0.8.13\
+        v0.8.14\
+        v0.8.15\
+        v0.8.16\
+        v0.8.17\
+        v0.8.18\
+        v0.8.19\
+        v0.8.20\
+        v0.8.21\
+        v0.8.22\
+        v0.8.23\
+        v0.8.24\
+        v0.8.25\
+        v0.8.26\
+        v0.8.27\
+        v0.8.28\
+         v0.9.0\
+         v0.9.1\
+         v0.9.2\
+         v0.9.3\
+         v0.9.4\
+         v0.9.5\
+         v0.9.6\
+         v0.9.7\
+         v0.9.8\
+         v0.9.9\
+        v0.9.10\
+        v0.9.11\
+        v0.9.12\
+        v0.10.0\
+        v0.10.1\
+        v0.10.2\
+        v0.10.3\
+        v0.10.4\
+        v0.10.5\
+        v0.10.6\
+        v0.10.7\
+        v0.10.8\
+        v0.10.9\
+       v0.10.10\
+       v0.10.11\
+       v0.10.12\
+       v0.10.13\
+       v0.10.14\
+       v0.10.15\
+       v0.10.16\
+       v0.10.17\
+       v0.10.18\
+       v0.10.19\
+       v0.10.20\
+       v0.10.21\
+       v0.10.22\
+       v0.10.23\
+       v0.10.24\
+       v0.10.25\
+       v0.10.26\
+       v0.10.27\
+       v0.10.28\
+       v0.10.29\
+       v0.10.30\
+       v0.10.31\
+       v0.10.32\
+       v0.10.33\
+       v0.10.34\
+       v0.10.35\
+       v0.10.36\
+       v0.10.37\
+       v0.10.38\
+       v0.10.39\
+       v0.10.40\
+       v0.10.41\
+       v0.10.42\
+       v0.10.43\
+       v0.10.44\
+       v0.10.45\
+       v0.10.46\
+       v0.10.47\
+       v0.10.48\
+        v0.11.0\
+        v0.11.1\
+        v0.11.2\
+        v0.11.3\
+        v0.11.4\
+        v0.11.5\
+        v0.11.6\
+        v0.11.7\
+        v0.11.8\
+        v0.11.9\
+       v0.11.10\
+       v0.11.11\
+       v0.11.12\
+       v0.11.13\
+       v0.11.14\
+       v0.11.15\
+       v0.11.16\
+        v0.12.0\
+        v0.12.1\
+        v0.12.2\
+        v0.12.3\
+        v0.12.4\
+        v0.12.5\
+        v0.12.6\
+        v0.12.7\
+        v0.12.8\
+        v0.12.9\
+       v0.12.10\
+       v0.12.11\
+       v0.12.12\
+       v0.12.13\
+       v0.12.14\
+       v0.12.15\
+       v0.12.16\
+       v0.12.17\
+       v0.12.18\
+    iojs-v1.0.0\
+    iojs-v1.0.1\
+    iojs-v1.0.2\
+    iojs-v1.0.3\
+    iojs-v1.0.4\
+    iojs-v1.1.0\
+    iojs-v1.2.0\
+    iojs-v1.3.0\
+    iojs-v1.4.1\
+    iojs-v1.4.2\
+    iojs-v1.4.3\
+    iojs-v1.5.0\
+    iojs-v1.5.1\
+    iojs-v1.6.0\
+    iojs-v1.6.1\
+    iojs-v1.6.2\
+    iojs-v1.6.3\
+    iojs-v1.6.4\
+    iojs-v1.7.1\
+    iojs-v1.8.1\
+    iojs-v1.8.2\
+    iojs-v1.8.3\
+    iojs-v1.8.4\
+    iojs-v2.0.0\
+    iojs-v2.0.1\
+    iojs-v2.0.2\
+    iojs-v2.1.0\
+    iojs-v2.2.0\
+    iojs-v2.2.1\
+    iojs-v2.3.0\
+    iojs-v2.3.1\
+    iojs-v2.3.2\
+    iojs-v2.3.3\
+    iojs-v2.3.4\
+    iojs-v2.4.0\
+    iojs-v2.5.0\
+    iojs-v3.0.0\
+    iojs-v3.1.0\
+    iojs-v3.2.0\
+    iojs-v3.3.0\
+    iojs-v3.3.1\
+         v4.0.0\
+         v4.1.0\
+         v4.1.1\
+         v4.1.2\
+         v4.2.0  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.2.1  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.2.2  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.2.3  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.2.4  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf5 \cb3          v4.2.5\cf2 \cb3   \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.2.6  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.3.0  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.3.1  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.3.2  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.4.0  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.4.1  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+\cf5 \cb3          v4.4.2\cf2 \cb3   \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.4.3  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.4.4  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+\cf5 \cb3          v4.4.5\cf2 \cb3   \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.4.6  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.4.7  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.5.0  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.6.0  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.6.1  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.6.2  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.7.0  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.7.1  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.7.2  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.7.3  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.8.0  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.8.1  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.8.2  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.8.3  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.8.4  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.8.5  \cf4 \cb3  (LTS: Argon)\cf2 \cb3 \
+         v4.8.6  \cf6 \cb3  (Latest LTS: Argon)\cf2 \cb3 \
+         v5.0.0\
+         v5.1.0\
+         v5.1.1\
+         v5.2.0\
+         v5.3.0\
+         v5.4.0\
+         v5.4.1\
+         v5.5.0\
+         v5.6.0\
+         v5.7.0\
+         v5.7.1\
+         v5.8.0\
+         v5.9.0\
+         v5.9.1\
+        v5.10.0\
+        v5.10.1\
+        v5.11.0\
+        v5.11.1\
+        v5.12.0\
+         v6.0.0\
+         v6.1.0\
+         v6.2.0\
+         v6.2.1\
+         v6.2.2\
+         v6.3.0\
+         v6.3.1\
+         v6.4.0\
+         v6.5.0\
+         v6.6.0\
+         v6.7.0\
+         v6.8.0\
+         v6.8.1\
+         v6.9.0  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+         v6.9.1  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+         v6.9.2  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+         v6.9.3  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+         v6.9.4  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+         v6.9.5  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.10.0  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.10.1  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.10.2  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.10.3  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.11.0  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.11.1  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.11.2  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.11.3  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.11.4  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.11.5  \cf4 \cb3  (LTS: Boron)\cf2 \cb3 \
+        v6.12.0  \cf6 \cb3  (Latest LTS: Boron)\cf2 \cb3 \
+         v7.0.0\
+         v7.1.0\
+         v7.2.0\
+         v7.2.1\
+         v7.3.0\
+         v7.4.0\
+         v7.5.0\
+         v7.6.0\
+         v7.7.0\
+         v7.7.1\
+         v7.7.2\
+         v7.7.3\
+         v7.7.4\
+         v7.8.0\
+         v7.9.0\
+        v7.10.0\
+        v7.10.1\
+         v8.0.0\
+         v8.1.0\
+         v8.1.1\
+         v8.1.2\
+         v8.1.3\
+         v8.1.4\
+         v8.2.0\
+\cf5 \cb3          v8.2.1\cf2 \cb3 \
+         v8.3.0\
+         v8.4.0\
+         v8.5.0\
+\cf5 \cb3          v8.6.0\cf2 \cb3 \
+         v8.7.0\
+         v8.8.0\
+         v8.8.1\
+         v8.9.0  \cf4 \cb3  (LTS: Carbon)\cf2 \cb3 \
+         v8.9.1  \cf6 \cb3  (Latest LTS: Carbon)\cf2 \cb3 \
+         v9.0.0\
+         v9.1.0\
+\cf5 \cb3          v9.2.0\cf2 \cb3 \
+apps /home:nvm install v8.2.1 -g\
+v8.2.1 is already installed.\
+Now using node v8.2.1 (npm v5.3.0)\
+apps /home:npm\
+\
+Usage: npm <command>\
+\
+where <command> is one of:\
+    access, adduser, bin, bugs, c, cache, completion, config,\
+    ddp, dedupe, deprecate, dist-tag, docs, doctor, edit,\
+    explore, get, help, help-search, i, init, install,\
+    install-test, it, link, list, ln, login, logout, ls,\
+    outdated, owner, pack, ping, prefix, prune, publish, rb,\
+    rebuild, repo, restart, root, run, run-script, s, se,\
+    search, set, shrinkwrap, star, stars, start, stop, t, team,\
+    test, tst, un, uninstall, unpublish, unstar, up, update, v,\
+    version, view, whoami\
+\
+npm <command> -h     quick help on <command>\
+npm -l           display full usage info\
+npm help <term>  search for help on <term>\
+npm help npm     involved overview\
+\
+Specify configs in the ini-formatted file:\
+    /home/apps/.npmrc\
+or on the command line via: npm <command> --key value\
+Config info can be viewed via: npm help config\
+\
+npm@5.3.0 /home/apps/.nvm/versions/node/v8.2.1/lib/node_modules/npm\
+apps /home:\
+}
