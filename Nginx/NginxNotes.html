@@ -78,7 +78,7 @@
 
   p{
       font-size: 1.5em;
-      font-weight: bold;
+
     }
   p.subLI{
       font-size: .8em;
@@ -223,32 +223,38 @@
 
 
 
-  <div class="bookpage">
+  <div class="bookpage" id ="nodeOutput">
     <h1 class="subTitle">npm output</h1>
+    <p>This occurred on Nov 28, but we basically used <strong>nvm</strong> to go back a version in <strong>npm</strong> where the errors did not occur, aka v. 8.2.1</p>
     <p>ERROR: npm is known not to run on Node.js v4.4.5
       Node.js 4 is supported but the specific version you're running has
       a bug known to break npm. Please update to at least ${rel.min} to use this
       version of npm. You can find the latest release of Node.js at https://nodejs.org/
       nvm is not compatible with the npm config "prefix" option: currently set to ""
-      Run `npm config delete prefix` or `nvm use --delete-prefix v4.4.5 --silent` to unset it.
+      Run `npm config delete prefix` or `nvm use --delete-prefix v4.4.5 --silent` to unset it.</p>
 
-
+      <p>
       apps /home:nvm use 8,2 -g
         N/A: version "-g -> N/A" is not yet installed.
           You need to run "nvm install -g" to install it before using it.
+      </p>
+      <p>
       apps /home:nvm install 8,2 -g
-              Version '8,2' not found - try `nvm ls-remote` to browse available versions.
-      apps /home:
-      apps /home:nvm ls-remote
+              Version '8,2' not found - try `nvm ls-remote` to browse available versions.  </p>
+      <p>
+      apps /home:nvm ls-remote  </p>
 
+      <p>
       apps /home:nvm install v8.2.1 -g
         v8.2.1 is already installed.
-        Now using node v8.2.1 (npm v5.3.0)
+        Now using node v8.2.1 (npm v5.3.0) </p>
 
 
-
-    </p>
-  </div>
+      <h1 class="subTitle">npm output (old)</h1>
+      <p>sudo yum install nodejs npm --enablerepo=epel  </p>
+      <p>1151  npm install webpack</p>
+      <p>1152  npm </p>
+      <p>1153  ./node_modules/.bin/webpack -d --watch</p>
 
 
 

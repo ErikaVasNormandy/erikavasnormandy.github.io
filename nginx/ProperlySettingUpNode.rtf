@@ -1,0 +1,104 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 AndaleMono;}
+{\colortbl;\red255\green255\blue255;\red47\green255\blue18;\red0\green0\blue0;\red0\green0\blue0;
+\red0\green0\blue0;\red64\green11\blue217;}
+{\*\expandedcolortbl;;\cssrgb\c15686\c99608\c7843;\csgray\c0\c90000;\csgray\c0;
+\csgenericrgb\c0\c0\c0;\cssrgb\c32309\c18668\c88228;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Checking if it\'92s there (on any account, ec2-user or apps)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \cb3 \CocoaLigature0 cd /usr/local/bin/\cf4 \cb3           \cf2 \cb3 npm
+\f0\fs24 \cf0 \cb1 \CocoaLigature1 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://stackoverflow.com/questions/31472755/sudo-npm-command-not-found"}}{\fldrslt \cf0 https://stackoverflow.com/questions/31472755/sudo-npm-command-not-found}}\
+\
+\
+Installation\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \cb3 \CocoaLigature0 sudo yum install nodejs npm --enablerepo=epel\cf2 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://stackoverflow.com/questions/8205369/installing-npm-on-aws-ec2"}}{\fldrslt \cf2 https://stackoverflow.com/questions/8205369/installing-npm-on-aws-ec2}}\
+\
+\cf5 Check\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 \cb3 sudo node -v\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf5 \cb1 \
+Set Up Sudoers for existing User\
+sudo visudo\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 \cb3 ## Allow root to run any commands anywhere \
+root	ALL=(ALL) 	ALL\
+apps 	ALL=(ALL) 	ALL\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://equivalence.co.uk/archives/1521"}}{\fldrslt \cf5 \cb1 http://equivalence.co.uk/archives/1521}}\cf5 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 \cb3 Defaults    secure_path = /sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf5 \cb1 ?\
+\
+\
+Nginx\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.scalescale.com/tips/nginx/8-nginx-commands/"}}{\fldrslt \cf5 https://www.scalescale.com/tips/nginx/8-nginx-commands/}}\
+\
+Pm2\
+{\field{\*\fldinst{HYPERLINK "http://pm2.keymetrics.io/docs/usage/quick-start/"}}{\fldrslt http://pm2.keymetrics.io/docs/usage/quick-start/}}\
+{\field{\*\fldinst{HYPERLINK "https://stackoverflow.com/questions/12701259/how-to-make-a-node-js-application-run-permanently"}}{\fldrslt https://stackoverflow.com/questions/12701259/how-to-make-a-node-js-application-run-permanently}}\
+\
+React Data\
+{\field{\*\fldinst{HYPERLINK "https://www.youtube.com/watch?v=jmU69z7xEus"}}{\fldrslt https://www.youtube.com/watch?v=jmU69z7xEus}}\
+\
+\
+FIX CHROME \
+{\field{\*\fldinst{HYPERLINK "https://www.techsupportall.com/remove-vosteran-com-homepage-removal-help/"}}{\fldrslt https://www.techsupportall.com/remove-vosteran-com-homepage-removal-help/}}\
+\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf6 \cb3 server \{\cf2 \cb3 \
+\cf6 \cb3 #        listen       443 ssl;\cf2 \cb3 \
+\cf6 \cb3 #        listen       [::]:443 ssl;\cf2 \cb3 \
+\cf6 \cb3 #        server_name  localhost;\cf2 \cb3 \
+\cf6 \cb3 #        root         /usr/share/nginx/html;\cf2 \cb3 \
+\cf6 \cb3 #\cf2 \cb3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf5 \cb1 \
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 \cb3  1130  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash\
+ 1131  node -v\
+ 1132  nvm\
+ 1133  nvm install --latest-npm\
+ 1134* sudo yum install nodejs npm --enablerepo=epe\
+ 1135  node -v\
+ 1136  sudo node -v\
+ 1137  ls\
+ 1138* sudo ./node_mowebpack -d --watch\
+ 1139  ls\
+ 1140  npm\
+ 1141  npm\
+ 1142  node\
+ 1143  sudo npm install webpack -g\
+ 1144  npm -v\
+ 1145  node -v\
+ 1146  npm install webpack\
+ 1147  brew\
+ 1148  node -v\
+ 1149  nvm install 8.2\
+ 1150  npm\
+ 1151  npm install webpack\
+ 1152  npm \
+ 1153  ./node_modules/.bin/webpack -d --watch\
+ 1154  history | grep node\
+ 1155  history\cf5 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://github.com/npm/npm/issues/18963"}}{\fldrslt \cf5 https://github.com/npm/npm/issues/18963}}\
+{\field{\*\fldinst{HYPERLINK "https://docs.npmjs.com/getting-started/installing-node"}}{\fldrslt https://docs.npmjs.com/getting-started/installing-node}}}
