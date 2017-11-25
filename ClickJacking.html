@@ -231,16 +231,19 @@
   <div id="8" class="bookpage">
     <h2 style="font-size: 3em;">4. Mitigation</h2>
     <p>So now that we know this vulnerability exists, how do we fix it?</p>
-    <p>https://javascript.info/clickjacking explains that there are several ways of preventing this either by setting some conditions in the UI to prevent being on the bottom, </p>
-    <p>According to OWASP, this can be fixed with some configuration on the backend</p>
-        <div class="quoteBox">
-          <ol>
-            <li>Sending the proper X-Frame-Options HTTP response headers that instruct the browser to not allow framing from other domains</li>
-            <li>Employing defensive code in the UI to ensure that the current frame is the most top level window</li>
-          </ol>
+    <p>javascript.info explains that there are several ways of preventing this either by setting some conditions in the UI to prevent being on the bottom, or by doing some back-end work.</p>
+    <div class="quoteBox">
+        <ol>
+            <li>The oldest defence method is the piece of JavaScript that forbids to open the page in a frame (so-called “framebusting”).</li>
+            <li><strong>Server-side header X-Frame-Options can allow or forbid showing the page inside a frame.</strong></li>
+        </ol>
+    </div>
+        https://javascript.info/clickjacking
 
-        </div>
-        https://www.owasp.org/index.php/Clickjacking
+    <p>Since our client is using nginx, we'll be going with the header solution.</p>
+    <p>A quick Google search of 'X-Frame Options' yields some results, such as <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options">Mozilla</a>. These sites are usually very informative, but not the most detailed for actually going in and configuring these files </p>
+<p></p>
+    https://github.com/nextcloud/server/issues/4863
   </div>
 
 </body>
