@@ -242,10 +242,39 @@
 
     <p>Since our client is using nginx, we'll be going with the header solution.</p>
     <p>A quick Google search of 'X-Frame Options' yields some results, such as <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options">Mozilla</a>. These sites are usually very informative, but not the most detailed for actually going in and configuring these files </p>
-<p></p>
-    https://github.com/nextcloud/server/issues/4863
+    <p><a href="https://geekflare.com/add-x-frame-options-nginx/">Geekflare </a>goes into more detail for Nginx, specifically how to configure the nginx.conf file in an /etc folder on an AWS directory</p>
+
+    <p>The steps are fairly 'simple', we really just need to add a header in nginx.conf </p>
+    <img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/nginx_aws00.png" class="screenshot"></img>
+    <p>The challenge is figuring out where to put it. </p>
+    <img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/nginx_aws01.png" class="screenshot"></img>
+
   </div>
 
+  <div id="9" class="bookpage">
+
+    <p> This can depend on how you've set up your nginx or apache. I had to put it in the 'location' bracket right above where I set up the proxy_pass</p>
+    <p> I looked at <a href="https://github.com/JMStudiosJoe/ReactPractice/blob/JMStudiosReact/nginx/nginx.conf">JMStudio's repo</a> for reference</p>
+    <img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/nginx_aws02.png" class ="screenshot"></img>
+    https://github.com/JMStudiosJoe/ReactPractice/blob/JMStudiosReact/nginx/nginx.conf
+    <p>also:</p>
+    https://github.com/nextcloud/server/issues/4863
+
+    <p>So when we go back to our plain old html file and try to load it, we can see that the iframe no longer displays. </p>
+    <p>Notice based on the console that the material is still there, just not displaying</p>
+    <img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack10.png" class="screenshot"></img>
+
+  </div>
+
+
+<div id="10" class="bookpage">
+
+  <p> In fact, if we look at the console itself, it looks like loading the iframe itself throws an error</p>
+  <img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack11.png" class="screenshot"></img>
+  <p>So in a nutshell, we scanned a website with nikto, found a vulnerability, and then figured out how to fix that vulnerability.
+  </p>
+  <p>All it really took was a line change and some tweaking on the backend, but it goes to show how easy it is to overlook web security</p>
+</div>
 </body>
 
 </html>
