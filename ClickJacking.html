@@ -31,9 +31,9 @@
       background-repeat: no-repeat;
       background-size: cover;
       background-position-y: 10px;
-      min-height: 1700px;
+      min-height: 1400px;
 
-      width: 1000px;
+      width: 800px;
 
       display: block;
 
@@ -98,9 +98,9 @@
 
   }
 
-  h1.wordart{
+  .wordart{
     font-family :"Courier New", Courier, monospace;
-    font-size: 100;
+    font-size: 75;
   }
 
   </style>
@@ -137,14 +137,14 @@
     <p>
       So with that said, let's get started on some Reconaissance!
     </p>
-    <p>&nbsp</p>
-    <p>&nbsp</p>
-    <p>&nbsp</p>
+    <p></p>
+    <p>-</p>
+    <p></p>
 
     <h2 style="font-size: 3em;">1. Reconaissance</h2>
     <p>What can we do with a Terminal and a url?</p>
     <p style="margin-left: 10%;"> ==>What information can we gather with a url and a Terminal</p>
-    <h1 class="wordart">NsLookup WhoIs + NMap</h1>
+    <h2 class="wordart">NsLookup WhoIs + NMap</h2>
     <!-- <p><strong><img style="width: 70%; float: right;" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/NSLookup.png"></strong></p> -->
   </div>
 
@@ -196,17 +196,17 @@
       <p>Based off of what javascript.info mentioned, there's a simple way to test this out</p>
       <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack2_2.png"/>
       <p>Just made a random html file with an iframe set to display the client's site. If the iframe vulnerability is present, the iframe will actually display the intended site, such as what we see below</p>
-      <p>&nbsp</p>
+      <p></p>
       <img style="width: 60%; z-index: -20; margin-right: -100;"src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/Sketches/tree1.png" class="rightIllustration"></img>
-      <p>&nbsp</p>
+      <p></p>
       <img style="width: 50%;" class = "screenshot" src ="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack3.png"></img>
-      <div style="width:500px;"><p>&nbsp</p><p>It doesn't look like much, but we now have loaded the client site into an iframe </p></div>
+      <div style="width:500px;"><p></p><p>It doesn't look like much, but we now have loaded the client site into an iframe </p> </div>
 
   </div>
   <div id ="5" class="bookpage">
    <p>If we gradually decrease the opacity</p>
    <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack4.png">
-   <p>&nbsp</p>
+   <p></p>
    <p>Add a button over the other button </p>
    <img class="screenshot" src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack5.png">
    <p style="font-size: 1.4em">Notice how the current page is set to "Home" and how the iframe has been placed in front of the button so that when we click on that grey button, we really end up clicking on the 'Projects' button in the iframe</p>
@@ -271,9 +271,15 @@
 
   <p> In fact, if we look at the console itself, it looks like loading the iframe itself throws an error</p>
   <img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack11.png" class="screenshot"></img>
+  <p>And when we scan the url again, the same error no longer shows up </p>
+  <h3>Before::</h3>
+  <img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/clickjack2_1.png" class="screenshot"></img>
+    <h3>After::</h3>
+  <img src="https://s3-us-west-1.amazonaws.com/scavengers-repo.com/staticWebPages/ClickJacking/Screen+Shot+2017-12-10+at+10.43.38+PM.png" class="screenshot"></img>
   <p>So in a nutshell, we scanned a website with nikto, found a vulnerability, and then figured out how to fix that vulnerability.
   </p>
   <p>All it really took was a line change and some tweaking on the backend, but it goes to show how easy it is to overlook web security</p>
+  
 </div>
 </body>
 
