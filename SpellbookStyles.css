@@ -8,6 +8,9 @@
   font-family:"typewriter";
   src: url('../fonts/typewriter-royal-200.regular.ttf');
 }
+body{
+  background-color: black;
+}
 
 
 body{
