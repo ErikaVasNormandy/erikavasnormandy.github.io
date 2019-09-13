@@ -5,7 +5,11 @@
 		<title>Splunk Notes</title>
 	</head>
 	<body>
-		
+		<h1>Splunk Setup</h1>
+		- Spin up Web Console
+		- Spin up Forwarders
+		- Connect Forwarders to Web Console
+		- Run Queries
 <h2>Download and Setup</h2>
 <pre>
 dpkg-deb -R splunk-6.2.1-245427-linux-2.6-amd64.deb /
@@ -126,6 +130,12 @@ Added monitor of '/home/admin0'.
 root@scavengers-repo-webhost:/opt/splunkforwarder/bin#
 
 		</pre>
+		
+		<h2>Some Useful Queries</h2>
+		<pre>index=_internal
+		source NOT in *splunk* 
+
+</pre>
 	
 	</body>
 
