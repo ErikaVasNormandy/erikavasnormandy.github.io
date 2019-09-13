@@ -8,15 +8,98 @@
 		
 <h2>Download and Setup</h2>
 <pre>
-- dpkg-deb -R splunk-6.2.1-245427-linux-2.6-amd64.deb /
+dpkg-deb -R splunk-6.2.1-245427-linux-2.6-amd64.deb /
 	
-- cd /opt/splunk
+cd /opt/splunk
 			
-- ls
-README-splunk.txt  copyright.txt  ftr      lib               openssl  splunk-6.2.1-245427-linux-2.6-x86_64-manifest
-bin                etc            include  license-eula.txt  share
+cd bin
+
+./splunk
+
+..............................
+
+Waiting for web server at http://127.0.0.1:8000 to be available.... Done
+
+
+If you get stuck, we're here to help.
+Look for answers here: http://docs.splunk.com
+
+The Splunk web interface is at http://splunk.ashina1:8000
+Use the admin and password option you setup after running ./splunk
 
 		</pre>	
+		
+		<h2>Exploring the Web Console</h2>
+		<pre>
+		Search and Reporting ==> index = _internal
+		</pre>
+		<h2>Installing/Connecting Forwarders</h2>
+		<pre>
+		
+ON THE MAIN HOST
+[default]
+host = splunk1
+
+[splunktcp://9997]
+connection_host = ip
+disabled = 0
+~            
+
+</pre>
+		<h2>On the Forwarder</h2>
+		
+		<pre>
+		
+https://docs.splunk.com/Documentation/Forwarder/7.3.1/Forwarder/Consolidatedatafrommultiplehosts
+
+root@ip-172-31-19-21:/opt/splunkforwarder/etc/system/local# vim outputs.conf
+root@ip-172-31-19-21:/opt/splunkforwarder/etc/system/local# cat outputs.conf
+[tcpout]
+defaultGroup = default-autolb-group
+
+[tcpout:default-autolb-group]
+disabled = 0
+server = 51.143.11.166:9997
+
+[tcpout-server://51.143.11.166:9996]
+
+
+https://docs.splunk.com/Documentation/Forwarder/7.3.1/Forwarder/Starttheuniversalforwarder
+
+./splunk start	
+
+https://docs.splunk.com/Documentation/Forwarder/7.3.1/Forwarder/Consolidatedatafrommultiplehosts
+
+root@ip-172-31-19-21:/opt/splunkforwarder/etc/system/local# vim outputs.conf
+root@ip-172-31-19-21:/opt/splunkforwarder/etc/system/local# cat outputs.conf
+[tcpout]
+defaultGroup = default-autolb-group
+
+[tcpout:default-autolb-group]
+disabled = 0
+server = 51.143.11.166:9997
+
+[tcpout-server://51.143.11.166:9996]
+
+
+https://docs.splunk.com/Documentation/Forwarder/7.3.1/Forwarder/Starttheuniversalforwarder
+
+./splunk start	
+
+
+
+................................
+
+root@ip-172-31-19-21:/opt/splunkforwarder/etc/system/local# ls
+README  inputs.conf  outputs.conf  outputs.conf.ORI  server.conf
+root@ip-172-31-19-21:/opt/splunkforwarder/etc/system/local# cd /opt/splunkforwarder/bin/
+root@ip-172-31-19-21:/opt/splunkforwarder/bin# ./splunk start
+SPLUNK SOFTWARE LICENSE AGREEMENT
+
+
+Do you agree with this license? [y/n]:
+		
+		</pre>
 	
 	</body>
 
