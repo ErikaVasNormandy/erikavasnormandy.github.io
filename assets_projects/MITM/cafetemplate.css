@@ -35,7 +35,11 @@ img{
     padding-right: 8px;
     text-align: center;
 }
-
+.onSmall{
+	display: none;
+	background-color: red;
+	height: 1000px;
+}
 .tag-right{
 
 	    position: absolute;
@@ -46,4 +50,21 @@ img{
 
         padding: 12px 24px!important;
         font-color: white;
+}
+
+    @media only screen and (max-width: 800px) {
+      .bookpage{
+    padding: 20px 20px 20px 20px;
+    padding-top: 20%;
+    margin: 0px 0px 0px 0px;
+}
+      }
+      .body{
+        font-size: 0.6em;
+      }
+      .onSmall{
+      	
+      	background-image: url("https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/SpringMoodBoard/james-paick-125868-final.jpg");
+
+      }
 }
