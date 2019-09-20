@@ -41,8 +41,10 @@
 <!--    <h5 class="w3-center w3-padding-128"><span class="w3-tag w3-wide">Start</span></h5> -->
 
 
+<p>This tutorial focuses on Arpspoof and Wireshark. It will only work on a local network, such as a home wifi with an unauthorized device that can sniff packets, or wifi in a cafe, where many devices can see complementary public wifi. </p>
+
         <p>Essentially this is a review of Gabriel Avramescu's Udemy <a href="https://www.udemy.com/course/web-application-ethical-hacking/"> Bug Bounty Course</a>,  
-          specifically the Username and Password Bruteforcing with Burpsuite section. 
+          specifically the section on Session Hijacking Through Man in The MIddle Attack
       </p>
   
 
@@ -62,7 +64,7 @@
     <h3>02. Identify Targets with Nmap</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/02-NmapIdentifyTargets.png"></img>
 
-    <p>03. Arp -a to Check Attacker-Victim Connectivity</p>
+     <h3>03. Arp -a to Check Attacker-Victim Connectivity </h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/03-arpToCheckHosts.png"></img>
 
 
@@ -74,7 +76,7 @@
    <h3>04. Victim Loads Vulnerable Website on Computer</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/04-TargetWebsite.png"></img>
 
-      <p>05. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+      <h3>05. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/05-Arpspoof.png"></img>
 
 </div>
@@ -87,7 +89,7 @@
        <h3>06. Open up Wireshark to examine traffic being routed to this "gateway"</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/06-OpenUpWireshark.png"></img>
 
-      <p>07. Since I have my VPN on, we're only seeing VPN traffic </p>
+      <h3>07. Since I have my VPN on, we're only seeing VPN traffic  </h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/07-VPNSNiffing.png"></img>
 
 </div>
@@ -100,7 +102,7 @@
        <h3>08. VPN has been turned off so we're seeing actual HTTP packets now</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/08-HTTP sniffing.png"></img>
 
-      <p>09. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>09. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/09-PostLoginPacket.png"></img>
 
 
@@ -110,10 +112,12 @@
     <div id="3" class="bookpage">
 
 
-      <p>10. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>10. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/10-FollowTCPStream.png"></img>
+  <br>
 
-      <p>11. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+
+       <h3>11. Use Arpspoof to trick target into thinking the attacker's IP is the gateway </h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/11-FollowTCPStreamResults.png"></img>
 
 
@@ -123,10 +127,10 @@
     <div id="4" class="bookpage">
 
 
-      <p>12. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>12. Use Arpspoof to trick target into thinking the attacker's IP is the gateway </h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/12-UserLoggingIn.png"></img>
 
-      <p>13. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>13. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/13-VictimLoggingIn.png"></img>
 
 </div>
@@ -134,10 +138,10 @@
     <div id="5" class="bookpage">
 
 
-      <p>14. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>14. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/14-FollowTCPVictim.png"></img>
 
-      <p>15. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>15. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/15-AttackerAttemptingToLogin.png"></img>
 
 </div>
@@ -146,13 +150,13 @@
   <div id="0" class="bookpage">
 
 
-      <p>16. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+      <h3>16. Use Arpspoof to trick target into thinking the attacker's IP is the gateway </h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/16-AttackerUsingCookies.png"></img>
 
 
 
 
-      <p>17. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>17. Use Arpspoof to trick target into thinking the attacker's IP is the gateway </h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/17-SettingCookies.png"></img>
 
 
@@ -164,37 +168,37 @@
 
 
 
-      <p>18. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+      <h3>18. Use Arpspoof to trick target into thinking the attacker's IP is the gateway </h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/18-SuccesWeWantToSeeOnVictim.png"></img>
 
 
-      <p>19. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>19. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/19-WiresharkFilters.png"></img>
 
 
 
 </div>
 
-    <div id="0" class="bookpage">
+    <div id="20" class="bookpage">
 
 
-      <p>20. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>20. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/20-FollowCookiePathASecond.pngs"></img>
 
 
-      <p>21. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+      <h3>21. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/21-applyingCookies.png"></img>
 
 </div>
 
 
-    <div id="0" class="bookpage">
+    <div id="22" class="bookpage">
 
-      <p>22. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>22. Use Arpspoof to trick target into thinking the attacker's IP is the gateway </h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/22-NavigatingtoAdminPanel.png"></img>
 
 
-      <p>23. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+       <h3>23. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/23-TestingWithoutLoggingIn.png"></img>
 
 </div>
@@ -202,16 +206,15 @@
 
 
 
-    <div id="0" class="bookpage">
+    <div id="24" class="bookpage">
 
 
   
-
-      <p>24. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+ <h3>24. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/24-VerifyResults.png"></img>
 
 
-      <p>25. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</p>
+      <h3>25. Use Arpspoof to trick target into thinking the attacker's IP is the gateway</h3>
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/25-AppliedCookie.png"></img>
 
 
