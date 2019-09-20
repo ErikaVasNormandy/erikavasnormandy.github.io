@@ -2,7 +2,7 @@
 body, html {
   height: 100%;
 font-family: 'Alegreya', serif;
-
+background-color: white;
 }
 
 .bgimg {
@@ -19,10 +19,7 @@ font-family: 'Alegreya', serif;
 	width: 60%;
 }
 
-.ourHeader{
-	position: absolute;
-	width: 100%;
-	z-index: 10;
-	background-color: red;
+.content{
+	background-color: white;
 
 }
