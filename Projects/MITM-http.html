@@ -25,8 +25,8 @@ background-color: white;
   filter: grayscale(50%);
 }
 .mainTitle{
-  color: white;
-  font-weight: 800;
+     -webkit-text-stroke-width:0.5px;
+   -webkit-text-stroke-color: black;
 
 }
 
@@ -52,7 +52,8 @@ img{
 }
 .onSmall{
   display:none;
-  background-color: blue;
+  background-color: red;
+  padding: 50px 50px 50px 50px;
 }
 .tag-right{
 
@@ -66,7 +67,7 @@ img{
         font-color: white;
 }
 
-@media only screen and (max-width: 800px) {
+    @media only screen and (max-width: 400px) {
       .bookpage{
     padding: 20px 20px 20px 20px;
     padding-top: 20%;
@@ -78,7 +79,8 @@ img{
       }
       .onSmall{
         display:inline;
-        background-color: red;
+        background-image: url("https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/SpringMoodBoard/james-paick-125868-final.jpg");
+
       }
 }
 
@@ -100,14 +102,14 @@ img{
       <div class="tag">Arpspoof and Wireshark</div>
     </div>
     <div class="w3-display-middle w3-center">
-      <div class=" mainTitle" style="font-size: 4em">MITM<br> over HTTP</div>
+      <div class="w3-text-white mainTitle" style="font-size: 4em">MITM<br> over HTTP</div>
     </div>
     <div class="w3-display-bottomright w3-center w3-padding-large">
       <div class="w3-text-white tag-right">September 18, 2019</div>
     </div>
   </div>
 
- <div class="onSmall" >ON SMALL DIV</div>
+ <div class="onSmall" ></div>
 
 
 
