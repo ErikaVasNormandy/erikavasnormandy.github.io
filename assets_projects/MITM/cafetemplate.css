@@ -12,6 +12,8 @@ background-color: white;
   min-height: 75%;
   width: 100%;
   z-index: 10;
+  filter: grayscale(50%);
+position: relative;
 }
 
 .menu {
