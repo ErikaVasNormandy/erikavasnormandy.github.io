@@ -24,6 +24,11 @@ background-color: white;
   z-index: 10;
   filter: grayscale(50%);
 }
+.mainTitle{
+  color: white;
+  font-weight: 800;
+
+}
 
 .menu {
   display: none;
@@ -46,10 +51,9 @@ img{
     text-align: center;
 }
 .onSmall{
-  display: none;
+  display:none;
   background-color: red;
-  height: 1400px;
-  width: 1000px;
+  padding: 50px 50px 50px 50px;
 }
 .tag-right{
 
@@ -63,7 +67,7 @@ img{
         font-color: white;
 }
 
-    @media only screen and (max-width: 800px) {
+    @media only screen and (max-width: 400px) {
       .bookpage{
     padding: 20px 20px 20px 20px;
     padding-top: 20%;
@@ -74,7 +78,7 @@ img{
         font-size: 0.6em;
       }
       .onSmall{
-        
+        display:inline;
         background-image: url("https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/SpringMoodBoard/james-paick-125868-final.jpg");
 
       }
@@ -98,19 +102,19 @@ img{
       <div class="tag">Arpspoof and Wireshark</div>
     </div>
     <div class="w3-display-middle w3-center">
-      <div class="w3-text-white" style="font-size: 4em">MITM<br> over HTTP</div>
+      <div class=" mainTitle" style="font-size: 4em">MITM<br> over HTTP</div>
     </div>
     <div class="w3-display-bottomright w3-center w3-padding-large">
       <div class="w3-text-white tag-right">September 18, 2019</div>
     </div>
   </div>
 
+ <div class="onSmall" ></div>
+
 
 
  
-<div class="w3-content" style="max-width:800px">
-
- <div class="onSmall" ></div>
+<div style="max-width:800px">
 
 
 <!--    <h5 class="w3-center w3-padding-128"><span class="w3-tag w3-wide">Start</span></h5> -->
@@ -123,7 +127,7 @@ img{
       </p>
   
 
-
+<div id = "0" class="bookpage">
       <h3>00. Setup With IP Forwarding and Gateway</h3>
      <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/00-SetupWithIPForwardingAndGateway.png"></img>
 
@@ -131,7 +135,7 @@ img{
   <img src = "https://erikavasnormandy.github.io/assets_projects/MITM/01-CheckIfHostIsUp.png"></img>
 
 <br>
-
+</div>
 
     <div id="1" class="bookpage">
 
