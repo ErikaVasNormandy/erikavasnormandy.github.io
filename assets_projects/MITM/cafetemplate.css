@@ -26,3 +26,24 @@ img{
 	background-color: white;
 
 }
+.tag{
+
+	    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
+
+.tag-right{
+
+	    position: absolute;
+    right: 0;
+    bottom: 0;
+
+        text-align: center!important;
+
+        padding: 12px 24px!important;
+        font-color: white;
+}
