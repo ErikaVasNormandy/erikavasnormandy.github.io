@@ -4,7 +4,14 @@ body, html {
 font-family: 'Alegreya', serif;
 background-color: white;
 }
+.centertext{
+	position: absolute;
 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center!important;
+}
 .bgimg {
   background-position: center;
   background-size: cover;
@@ -51,6 +58,9 @@ img{
 }
 
     @media only screen and (max-width: 800px) {
+    	.centertext{
+    		position: relative;
+    	}
       .bookpage{
     padding: 20px 20px 20px 20px;
     padding-top: 20%;
