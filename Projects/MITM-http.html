@@ -2,11 +2,86 @@
 <head>
   <title>MITM Over HTTP</title>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  <link rel="stylesheet" href="../assets_projects/MITM/cafetemplate.css">
+<!--  <link rel="stylesheet" href="../assets_projects/MITM/cafetemplate.css"> -->
   <link href="https://fonts.googleapis.com/css?family=Alegreya|Amiri|Josefin+Slab|Special+Elite|Spectral|Vollkorn&display=swap" rel="stylesheet">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 
+
+body, html {
+  height: 100%;
+font-family: 'Alegreya', serif;
+background-color: white;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/SpringMoodBoard/james-paick-125868-final.jpg");
+  min-height: 75%;
+  width: 100%;
+  z-index: 10;
+  filter: grayscale(50%);
+}
+
+.menu {
+  display: none;
+}
+img{
+  width: 100%;
+}
+
+.content{
+  background-color: white;
+
+}
+.tag{
+
+      background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
+.onSmall{
+  display: none;
+  background-color: red;
+  height: 1400px;
+  width: 1000px;
+}
+.tag-right{
+
+      position: absolute;
+    right: 0;
+    bottom: 0;
+
+        text-align: center!important;
+
+        padding: 12px 24px!important;
+        font-color: white;
+}
+
+    @media only screen and (max-width: 800px) {
+      .bookpage{
+    padding: 20px 20px 20px 20px;
+    padding-top: 20%;
+    margin: 0px 0px 0px 0px;
+}
+      }
+      .body{
+        font-size: 0.6em;
+      }
+      .onSmall{
+        
+        background-image: url("https://s3-us-west-1.amazonaws.com/scavengers-repo.com/images/SpringMoodBoard/james-paick-125868-final.jpg");
+
+      }
+}
+
+
+</style>
 
  </head>
 
