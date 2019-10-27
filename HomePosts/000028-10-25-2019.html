@@ -1,0 +1,42 @@
+<html>
+<head>
+ <title>10/25/2019</title>
+ </head>
+  <body>
+<br><br>
+<h2>TLDR Text: </h2>
+<code>$ python main.py https://www.bleepingcomputer.com/news/security/discord-turned-into-an-info-stealing-backdoor-by-new-malware/
+</code>
+<br>
+<br>
+<code>
+A new malware is targeting Discord users by modifying the Windows Discord client so that it is transformed into a backdoor and an information-stealing Trojan.
+
+<p>A new malware is targeting Discord users by modifying the Windows Discord client so that it is transformed into a backdoor and an information-stealing Trojan. 
+
+</p>
+<p>
+	The Windows Discord client is an Electron application, which means that almost all of its functionality is derived from HTML, CSS, and JavaScript. 
+</p>
+
+<p>
+The malware will then terminate and restart the Discord app in order for the new JavaScript changes to be executed.</p>
+
+<p> Once started, the JavaScript will execute various Discord API commands and JavaScript functions to collect a variety of information about the user that is then sent via a Discord webhook to the attacker.
+</p>
+<p>
+ After sending the information, the Discord malware will execute the <strong>fightdio() </strong>function, which acts as a backdoor. 
+
+ <p>This allows the attacker to perform other malicious activity such as stealing payment information if it exists, executing commands on the computer, or potentially installing further malware.
+ </p>
+ <p> While it is not 100% sure how it is being spread, Kremez feels that the attacker is using Discord messaging to spread the malware. If the installer is detected and removed, the modified Discord files will still <strong>remain infected and continue to be executed each time you start the client.</strong>
+ 	<p>The only way to clean the infection will be to uninstall the Discord app and reinstall it so that the modified files are removed. Even worse, after over two weeks, this Discord malware still only has 24/65 detections on VirusTotal.
+
+
+
+</p>
+</code>
+  </body>
+  
+  
+</html>
