@@ -5,7 +5,53 @@
   <body>
 <br><br>
 <h2>Using Splunk to Investigate Security Events </h2>
+<br></br>
 
+<div>
+	Today I logged onto my Splunk instance to do some maintenance and write a few filters 
+	when I found this little alert. 
+	<figure>
+		<img src="https://erikavasnormandy.github.io/assets_home/000053-11-09-2019/01.png" style="width:50%;height:50%;" ></img>
+		<figcaption>Splunk Alert</figcaption>
+
+	</figure>
+		<br>
+		<br>
+
+		<p>Hmmmm what could that IP be hosting and by who?</p>
+
+		
+	<figure>
+		<figcaption><code>nslookup <a href = "http://54.39.17.168">54.39.17.168</a></code></figcaption>
+		<br>
+		<img src="https://erikavasnormandy.github.io/assets_home/000053-11-09-2019/02.png" style="width:50%; height:40%;" ></img>
+	</figure>
+
+
+</div>
+
+
+<div>
+	<p>The IP actually resolves out to this site, I'm guessing it's either a front or the host has been compromised. </p>
+		<p>It appears incomplete, with some placeholders that the developer "forgot".</p>
+
+	<figure>
+
+
+		<img src="https://erikavasnormandy.github.io/assets_home/000053-11-09-2019/03.png" style="width:50%; height:50%;" ></img>
+		<figcaption>Winstontech? </figcaption>
+	</figure>
+</div>
+
+<div>
+	<p>
+	<figure>
+
+
+		<img src="https://erikavasnormandy.github.io/assets_home/000053-11-09-2019/04.png" style="width:50%; height:50%;" ></img>
+		<figcaption>nmap results</figcaption>
+	</figure>
+</div>
 
 
   </body>
