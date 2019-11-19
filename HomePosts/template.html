@@ -19,6 +19,15 @@
 		float: right;
 	}
 
+	.centerWrap{
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		 -ms-transform: translate(-50%,-50%);
+	}
+
+
 	.m5{
 		float: right;
 
@@ -37,9 +46,13 @@
 	}
 
 	@media only screen and (max-width: 600px) {
+		.centerWrap{
+			font-size: 0.8em;
+		}
+
       .TitleText{
       	letter-spacing:1px;
-       		font-size: 1em!important;
+       		font-size: 1.2em!important;
        		 padding: 6px 12px!important;
 
         }
@@ -146,7 +159,7 @@
 
 <!----------------------------------------------- First Parallax Image with Logo Text ------------------------------------------------>
         <div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
-          <div class="w3-display-middle" style="white-space:nowrap;">
+          <div class="centerWrap">
             <span class="TitleText">Vulnhub Reviews</span>
             <p class="w3-center w3-black">Tutorials for Tutorials by Some Casual</p>
           </div>
