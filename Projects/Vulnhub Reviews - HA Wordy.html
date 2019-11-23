@@ -133,6 +133,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0&appId=431751897193822&autoLogAppEvents=1"></script>
+
 <!------------------------------- Navbar (sit on top) -------------------------------------------->
         <div class="w3-top">
           <div class="w3-bar" id="myNavbar">
@@ -225,9 +228,6 @@
 
 <!------------------------------------ Container (Portfolio Section) ------------------------------------------------------>
 <div class="w3-content w3-container w3-padding-64" id="portfolio">
-  <h3 class="w3-center"> {ANOTHER SECTION} </h3>
-  <p class="w3-center"><em>BLAH LAH  <br>BASIC SUMMATION</em></p><br>
-
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   	<div class="w3-row-padding w3-center">
 
@@ -778,6 +778,14 @@ function toggleFunction() {
         x.className = x.className.replace(" w3-show", "");
     }
 }
+
+(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
 </script>
 <!------------------------ END JAVASCRIPT ------------------------>
 
