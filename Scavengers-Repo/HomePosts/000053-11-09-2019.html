@@ -1,0 +1,88 @@
+<html>
+<head>
+ <title>Splunk for Investigating Events</title>
+ </head>
+  <body>
+<br><br>
+<h2>Using Splunk to Investigate Security Events </h2>
+<br></br>
+
+<h5>Tutorials Used:</h5>
+<ul>
+		<li><a href="https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands">Digital Ocean UFW</a></li>
+
+	<li><a href="https://help.ubuntu.com/community/UFW">Basic UFW</a></li>
+	<li><a href="https://www.howtoforge.com/tutorial/ufw-uncomplicated-firewall-on-ubuntu-15-04/#:~:targetText=You%20can%20use%20the%20%22delete,be%20deleted%2C%20allow%20or%20deny.&targetText=That%20command%20will%20delete%20the,yourself%20out%20of%20the%20server">How To Forge</a></li>
+</ul>
+
+<div>
+	Today I logged onto my Splunk instance to do some maintenance and write a few filters 
+	when I found this little alert. 
+	<figure>
+		<img src="https://erikavasnormandy.github.io/assets_home/000053-11-09-2019/01.png" style="width:50%;height:50%;" ></img>
+		<figcaption>Splunk Alert</figcaption>
+
+	</figure>
+		<br>
+		<br>
+
+		<p>Hmmmm what could that IP be hosting and by who?</p>
+
+		
+	<figure>
+		<figcaption><code>nslookup <a href = "http://54.39.17.168">54.39.17.168</a></code></figcaption>
+		<br>
+		<img src="https://erikavasnormandy.github.io/assets_home/000053-11-09-2019/02.png" style="width:50%; height:40%;" ></img>
+	</figure>
+
+
+</div>
+
+
+<div>
+	<p>The IP actually resolves out to this site, I'm guessing it's either a front or the host has been compromised. </p>
+		<p>It appears incomplete, with some placeholders that the developer "forgot".</p>
+
+	<figure>
+
+
+		<img src="https://erikavasnormandy.github.io/assets_home/000053-11-09-2019/03.png" style="width:50%; height:50%;" ></img>
+		<figcaption>Winstontech? </figcaption>
+	</figure>
+</div>
+
+<div>
+	<p>
+	<figure>
+
+
+		<img src="https://erikavasnormandy.github.io/assets_home/000053-11-09-2019/04.png"  ></img>
+		<figcaption>nmap results</figcaption>
+	</figure>
+
+</div>
+	<figure>
+
+
+		<img src="https://erikavasnormandy.github.io/assets_home/000053-11-09-2019/05.png"></img>
+		<figcaption><code>index=* source="/var/log/auth.log" MALICIOUS_SSH_USER=* | table _time host MALICIOUS_SSH_USER MALICIOUS_IP _raw</code></figcaption>
+			<p>What's even worse is that this is just one attempt in a boatload of botnet requests</p>
+
+	</figure>
+
+
+
+<code>
+	root@web2-scavengers-repo:~# sudo ufw allow 80
+Rules updated
+Rules updated (v6)
+root@web2-scavengers-repo:~# sudo ufw status
+Status: inactive
+root@web2-scavengers-repo:~#
+</code>
+
+
+  </body>
+  
+  
+</html>
