@@ -509,7 +509,14 @@
 
 <div class="w3-row-padding w3-center">
 
-
+        <p style="text-align: left">Our goal is to edit files like /etc/passwd or /etc/sudoers to gain super user privileges on the host</p>
+        <p style="text-align: left">The easiest way to go about this is to duplicate the existing /etc/passwd, modify the copy to include a user with sudo permissions, and replace the existing /etc/passwd file with the copy </p>
+        <p style="text-align: left">Something that <a href="https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough/">hackingarticles' tutorial</a> pointed out was that you can identify commands and files with </p>
+        <p style="text-align: left"><code >find / -perm -u=s -type f 2>/dev/null</code></p>
+        <br>
+        <p style="text-align: left"><code>
+Find command shown that wget and cp command has the SUID permissions. This could be possible for escalating root privilege.</code>
+</p>
 <!------------------------------------ Container (Portfolio Section) ------------------------------------------------------>
         <div class="w3-col m7">
               <img class = "tutorial-img" src = "https://erikavasnormandy.github.io/assets_projects/Vulnhub-HaWordy/21.png"></img>
@@ -579,7 +586,46 @@
 
 <!--------------------------------------                end                 ------------------------------------------------->
 
+<!------------------------------------ Container (Portfolio Section) ------------------------------------------------------>
+        <div class="w3-col m7">
+              <img class = "tutorial-img" src = "https://erikavasnormandy.github.io/assets_projects/Vulnhub-HaWordy/26.png"></img>
+            
+        </div>
 
+        <div class="w3-col m5 tutorial-text">
+              <p>Honestly the hardest part for me at this point was finding a way to create a file that my www-data user could edit. The <a href="https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough"> original tutorial</a> seemed to gloss over this 
+            </p>
+            <p>Just trying to find a place where I can edit files</p>
+        </div>
+
+<!--------------------------------------                end                 ------------------------------------------------->
+
+<!------------------------------------ Container (Portfolio Section) ------------------------------------------------------>
+        <div class="w3-col m7">
+              <img class = "tutorial-img" src = "https://erikavasnormandy.github.io/assets_projects/Vulnhub-HaWordy/27.png"></img>
+            
+        </div>
+
+        <div class="w3-col m5 tutorial-text">
+              <p>Looks like we found one in /var/www/html/wordpress. Now, don't just <code>cp /etc/passwd [passwd copy] </code>because it will still have the root permissions for editting that way. </p>. 
+              <p>You'll need to <code>cat </code> the contents of /etc/passwd and paste it into the file directory where you do have edit permissions</p>
+        </div>
+
+<!--------------------------------------                end                 ------------------------------------------------->
+
+
+<!------------------------------------ Container (Portfolio Section) ------------------------------------------------------>
+        <div class="w3-col m7">
+              <img class = "tutorial-img" src = "https://erikavasnormandy.github.io/assets_projects/Vulnhub-HaWordy/28.png"></img>
+            
+        </div>
+
+        <div class="w3-col m5 tutorial-text">
+
+              <p>We need to generate a passwd entry for an example user called <code>testuser</code>, and use a text editor like vi to add this entry</p>
+        </div>
+
+<!--------------------------------------                end                 ------------------------------------------------->
 
 
 
