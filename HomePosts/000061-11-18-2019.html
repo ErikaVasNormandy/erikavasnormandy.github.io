@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>TITLE</title>
+<title>000061-11-18-2019</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -8,21 +8,65 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-<!------------------------ CSS ------------------------>
 <style>
 	.tutorial-img{
 		width: 100%;
-		padding-bottom: 5px;
+		padding-bottom: 5%;
+    padding-top: 5%;
 	}
 	.tutorial-text{
 		width: 100%;
 		float: right;
+    text-align:left;
+    margin-top: 5px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 3% !important;
+    padding-top: 3% !important;
 	}
+
+	.centerWrap{
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		 -ms-transform: translate(-50%,-50%);
+	}
+
 
 	.m5{
 		float: right;
 
 	}
+
+	.TitleText{
+		letter-spacing: 10px;
+
+		color: #fff!important;
+    	background-color: #000!important;
+
+        padding: 12px 24px!important;
+        text-align: center!important;
+        font-size: 24px!important;
+        animation: opac 0.8s;
+	}
+
+	@media only screen and (max-width: 600px) {
+		.centerWrap{
+			font-size: 0.8em;
+		}
+
+      .TitleText{
+      	letter-spacing:1px;
+       	font-size: 1.2em!important;
+       	padding: 6px 12px!important;
+       	float: left;
+
+        }
+    }
+
+
   body,h1,h2,h3,h4,h5,h6 {
     font-family: "Lato", sans-serif;
   }
