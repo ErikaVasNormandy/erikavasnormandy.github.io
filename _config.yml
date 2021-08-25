@@ -1,2 +1,11 @@
 remote_theme: jeromelachaud/grayscale-theme
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/FLORIST_%28neon_sign%29.jpg"
+title: technomancer-01.com
+url: https://gitpage.technomancer-01.com
+description: "Welcome to my site. This was previously what scavengers-repo was for, but updating it became a huge overhead so looks like I'll be in git pages moving forward. "
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Technomancer-01.com
