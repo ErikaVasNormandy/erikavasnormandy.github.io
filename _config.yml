@@ -1,5 +1,14 @@
 remote_theme: jeromelachaud/grayscale-theme
+
+layout: post
 title: Technomancer-01
+tags: card, blogging
+image: 
+  path: https://cdna.artstation.com/p/assets/images/images/027/830/672/large/erika-hudiono-asset.jpg
+  width: 1200
+  height: 630
+  
+  
 title_separator: "-"
 url: https://technomancer-01.com
 description: "Illustration, Netrunning, and General Geekery from a Post-Y2K'er"
@@ -11,8 +20,6 @@ color:
 footer: Technomancer-01.com
 
 #Social Media
-image: 
-  path: https://cdna.artstation.com/p/assets/images/images/027/830/672/large/erika-hudiono-asset.jpg
 twitter:
   username: technomancer_01
 og_image: https://cdna.artstation.com/p/assets/images/images/027/830/672/large/erika-hudiono-asset.jpg
