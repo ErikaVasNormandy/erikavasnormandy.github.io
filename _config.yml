@@ -4,7 +4,7 @@ layout: post
 title: Technomancer-01
 tags: card, blogging
 image: 
-  path: https://cdna.artstation.com/p/assets/images/images/027/830/672/large/erika-hudiono-asset.jpg
+  path: https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/tech-bun-transparent%20small.PNG
   width: 1200
   height: 630
   
@@ -22,4 +22,4 @@ footer: Technomancer-01.com
 #Social Media
 twitter:
   username: technomancer_01
-og_image: https://cdna.artstation.com/p/assets/images/images/027/830/672/large/erika-hudiono-asset.jpg
+og_image: https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/tech-bun-transparent%20small.PNG
