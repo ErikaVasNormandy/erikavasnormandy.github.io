@@ -11,8 +11,8 @@ color:
 footer: Technomancer-01.com
 
 #Social Media
-og:
-  image: https://cdna.artstation.com/p/assets/images/images/027/830/672/large/erika-hudiono-asset.jpg
+image: 
+  path: https://cdna.artstation.com/p/assets/images/images/027/830/672/large/erika-hudiono-asset.jpg
 twitter:
   username: technomancer_01
 og_image: https://cdna.artstation.com/p/assets/images/images/027/830/672/large/erika-hudiono-asset.jpg
