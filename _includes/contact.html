@@ -3,36 +3,38 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact</h2>
-                <h6>ArtStation</h6>
+                <h3>ArtStation</h3>
                     <div>Formal Portfolio</div>
-                <h6>Instagram</h6>
+                <h3>Instagram</h3>
                     <div>Post every Saturday for Internet Points</div>
-                <h6>WebToons</h6>
-                <h6>Tapas</h6>
+                <h3>WebToons</h3>
+                <h3>Tapas</h3>
 
 
 
 
-                <h6>Twitter</h6>
+                <h3>Twitter</h3>
                     <div>Bit more sporadic but somewhat more frequent and laidback</div>
-                <h6>Tumblr</h6>
+                <h3>Tumblr</h3>
                     <div>It's not so bad if you can avoid the shitstorms</div>
-                <h6>Deviantart</h6>
+                <h3>Deviantart</h3>
                     <div>I guess</div>
-                <h6>Reddit</h6>
+                <h3>Reddit</h3>
                     <div>/r/bloodborne and /r/LowSodiumCyberpunk for the win!</div>
 
-                <h2>Shop Fronts</h2>
-                <h6>RedBubble</h6>
+                <h2>Shop Fronts</h3>
+                <h3>RedBubble</h3>
                     <div>Shop for art stickers and prints</div>
-                <h6>Etsy</h6>
+                <h3>Etsy</h3>
                     <div>More to come</div>
+
                 <p><a href="mailto:{{ site.email }}">{{ site.email }}</a>
                 </p>
+
                 <ul class="list-inline banner-social-buttons">
                     {% for network in site.social %}
                     <li>
-                        <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                        <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="twitter">{{ network.title }}</span></a>
                     </li>
                     {% endfor %}
                 </ul>
