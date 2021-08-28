@@ -153,9 +153,11 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 30px;
+    font-shadow: 3px 3px #000000;
 }
 
 .intro .intro-body .intro-text {
+    font-shadow: 3px 3px #000000;
     font-size: 18px;
 }
 
