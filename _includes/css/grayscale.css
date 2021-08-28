@@ -28,6 +28,8 @@ h6 {
     font-family: "Lucida Console", "Courier New", monospace;
     font-weight: 700;
     letter-spacing: 1px;
+    font-shadow: 3px 3px #000000;
+
 }
 
 p {
@@ -169,10 +171,14 @@ a:focus {
 
     .intro .intro-body .brand-heading {
         font-size: 50px;
+        font-shadow: 3px 3px #000000;
+
     }
 
     .intro .intro-body .intro-text {
         font-size: 25px;
+        font-shadow: 3px 3px #000000;
+
     }
 }
 
