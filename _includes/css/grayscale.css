@@ -395,3 +395,10 @@ body {
 #about{
     text-align:  left;
 }
+
+.portfolio{
+    width: 30%;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
