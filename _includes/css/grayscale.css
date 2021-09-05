@@ -309,6 +309,9 @@ a:focus {
     .about-section {
         padding: 100px 0;
     }
+    #about{
+        margin-top: 200px;
+    }
 
     #map {
 /*         height: 400px;
@@ -410,6 +413,7 @@ body {
     text-align:  left;
 }
 #about{
+    margin-top: 200px;
     text-align:  left;
 }
 
