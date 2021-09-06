@@ -403,11 +403,11 @@ body {
 
  .project-container
 {
-    background-color: rgba(0,0,0,.2); 
-    text-align: left;
+/*    background-color: rgba(0,0,0,.2); 
+*/    text-align: left;
     padding: 5% 1% 1% 1%;
-     border-radius: 16px; 
-}
+/*     border-radius: 16px; 
+*/}
  
 #contact{
     text-align:  left;
