@@ -1,4 +1,10 @@
 # Welcome to Jekyll!
+remote_theme: arkadianriver/arkadianriver.com
+
+#Social Media
+twitter:
+  username: technomancer_01
+og_image: https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/tech-bun-transparent%20small.PNG
 
 
 # In addition to these settings, there is a file _data/tokens-template.yml
