@@ -1,15 +1,34 @@
 <!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    {% include nav.html %}
-    {% include header.html %}
-<!--     {% include sketchbook.html %}
- -->    {% include about.html %}
-    {% include projects.html %}
-    {% include contact.html %}
-    {% include map.html %}
-    {% include footer.html %}
-    {% include js.html %}
-    </body>
+{% include topcomment.html %}
+<html lang="{{ site.lang }}">
+
+  {% include head.html %}
+
+  <body>
+
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+
+      {% include header.html %}
+
+      <article{%
+        if page.background-image %} id="main"{%
+        elsif page.options contains 'minihead' %} id="minihead"{%
+        else %} id="standard"{%
+        endif %}>
+
+        {% include header-inner.html %}
+
+        {{ content }}
+
+      </article>
+
+      {% include footer.html %}
+
+      {% include scripts.html %}
+
+    </div>
+
+  </body>
+
 </html>
