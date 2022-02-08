@@ -18,7 +18,7 @@ og_image: https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.gi
 
 # Site settings
 title: Technomancer-01
-description: Scribbles in CyberSpace 
+description: Scribbles in CyberSpace, Engineering, Gaming, and RPG's
 owner:
   name: Erika # or company name
   url: "https://technomancer-01.com" # your URL
@@ -37,7 +37,7 @@ greeting:
   title: Hi, Hello, Welcome
   text: Scientific Illustrations, Games, Geekery, Web Comics, etc. This site was previously what scavengers-repo was for, but I’ve since moved towards git pages to get rid of the overhead. I am an illustrator and software engineer at NASA. I am based in Night City, aka the Bay Area pre-Cyberpunk. By day, I am usually working with code snippets and network traffic. Obviously I can't say too many details about it, but that engineering/technical/tinkering midnset has been incredibly useful for many other situations.
 # - displayed at the bottom
-closing-head: Thanks for swinging by!
+closing-head: See you in meatspace 
 closing-para: < fin />
 
 # on all pages (and the first three you list display with greeting, if included)
