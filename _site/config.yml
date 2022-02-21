@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Hi, Hello, Welcome
-  text: Scientific Illustrations, Games, Geekery, Web Comics, etc. This site was previously what scavengers-repo was for, but I’ve since moved towards git pages to get rid of the overhead. I am an illustrator and software engineer at NASA. I am based in Night City, aka the Bay Area pre-Cyberpunk. By day, I am usually working with code snippets and network traffic. Obviously I can't say too many details about it, but that engineering/technical/tinkering midnset has been incredibly useful for many other situations.
+  text: Scientific Illustrations, Games, Geekery, Web Comics, etc. This site was previously what scavengers-repo was for, but I’ve since moved towards git pages to get rid of the overhead. I am an illustrator and software engineer at NASA. I am based in Night City, aka the Bay Area pre-Cyberpunk. By day, I am usually working with code snippets and network traffic. Obviously I can't say too many details about it, but that engineering/technical/tinkering mindset has been incredibly useful for many other situations.
 # - displayed at the bottom
 closing-head: Thanks for swinging by!
 closing-para: < fin />
