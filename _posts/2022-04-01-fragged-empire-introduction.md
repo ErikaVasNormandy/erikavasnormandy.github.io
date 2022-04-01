@@ -39,6 +39,7 @@ It actually captures the setting pretty well without inundating newcomers with t
 <img src="/images/comic/Intro/FraggedIntro06.jpg" class="worksdisplay">
 <img src="/images/comic/Intro/FraggedIntro07.jpg" class="worksdisplay">
 <img src="/images/comic/Intro/FraggedIntro08.jpg" class="worksdisplay">
+<img src="/images/comic/Intro/FraggedIntro09.jpg" class="worksdisplay">
 
 
 
