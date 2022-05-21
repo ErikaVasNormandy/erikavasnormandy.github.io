@@ -3,13 +3,9 @@ title: Valentines Day - Tales From the Leyline Road Dating Simulator
 excerpt: Or, a Fragged Empire Valentine
 author: technomancer-01
 tags: featured
-permalink: /topics/A-Fragged-Valentines-Day-aka-TFLR-Dating-Sim/
+permalink: /topics/Tales-From-The-Leyline-Road/A-Fragged-Valentines-Day-aka-TFLR-Dating-Sim/
 categories:
   - topics
-  - Webcomic
-  - TFLR
-  - Tales From the Leyline Road
-  - Digital Art
 background-image: post-images/TFLR-Valentine-3.PNG
 #date/lastmod are optional
 #date: 2022-02-11 14:24:47 -0800
