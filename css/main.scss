@@ -1047,7 +1047,7 @@ width: 10%;
 		a {
 			@include vendor('transition', ('color #{_duration(transitions)} ease', 'border-bottom-color #{_duration(transitions)} ease'));
 			border-bottom: none;
-			color: inherit;
+			color: white;
 			text-decoration: none;
 
 			&:hover {
