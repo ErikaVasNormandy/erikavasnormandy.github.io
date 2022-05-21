@@ -7,7 +7,7 @@ tags: featured
 categories:
   - works
   - saturday-morning-scribbles
-background-image: elden-ring-fia.jpeg
+background-image: elden-ring-fia.jpg
 
 #date/lastmod are optional
 #date: 2022-05-07 16:02:16 -0700
