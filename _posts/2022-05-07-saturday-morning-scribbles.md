@@ -6,11 +6,8 @@ priority: 1
 tags: featured
 categories:
   - works
-  - sketchbook
-  - bloodborne
-  - elden ring
-  - games
-background-image: gallery-ink-executioner.jpg
+  - saturday-morning-scribbles
+background-image: /satmorningscribbles/elden-ring-fia.jpeg
 
 #date/lastmod are optional
 #date: 2022-05-07 16:02:16 -0700
