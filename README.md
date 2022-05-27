@@ -23,7 +23,12 @@ _ config.yml is the most important aspect
 - [Authoring Guide](https://arkadianriver.github.io/arkadianriver.com/topics/user-guide/)
 
 
-
+main.scss is where you can actually change the font color of things
+      a {
+         color: white;
+         text-decoration: none;
+      }
+   }
  
 1. Personalize the images with your own, and change the attribution for your new banner
    at the bottom of `_data/credits.yml`.
