@@ -164,7 +164,7 @@ body, input, select, textarea { color: #fff; font-family: "Open Sans", Helvetica
 
 @media screen { body, input, select, textarea { font-size: 11pt; letter-spacing: 0.0375em; } }
 
-a { -moz-transition: color 0.2s ease, border-bottom-color 0.2s ease; -webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease; -ms-transition: color 0.2s ease, border-bottom-color 0.2s ease; transition: color 0.2s ease, border-bottom-color 0.2s ease; border-bottom: dotted 1px; color: inherit; text-decoration: none; }
+a { -moz-transition: color 0.2s ease, border-bottom-color 0.2s ease; -webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease; -ms-transition: color 0.2s ease, border-bottom-color 0.2s ease; transition: color 0.2s ease, border-bottom-color 0.2s ease; border-bottom: dotted 1px; color: white; text-decoration: none; }
 
 a:hover { border-bottom-color: transparent; }
 
@@ -487,7 +487,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 /* Features */
 .features { display: -moz-flex; display: -webkit-flex; display: -ms-flex; display: flex; -moz-flex-wrap: wrap; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap; -moz-justify-content: center; -webkit-justify-content: center; -ms-justify-content: center; justify-content: center; list-style: none; padding: 0; width: 100%; }
 
-.features a { -moz-transition: color 0.2s ease, border-bottom-color 0.2s ease; -webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease; -ms-transition: color 0.2s ease, border-bottom-color 0.2s ease; transition: color 0.2s ease, border-bottom-color 0.2s ease; border-bottom: none; color: inherit; text-decoration: none; }
+.features a { -moz-transition: color 0.2s ease, border-bottom-color 0.2s ease; -webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease; -ms-transition: color 0.2s ease, border-bottom-color 0.2s ease; transition: color 0.2s ease, border-bottom-color 0.2s ease; border-bottom: none; color: white; text-decoration: none; }
 
 .features a:hover { border-bottom-color: none; }
 
