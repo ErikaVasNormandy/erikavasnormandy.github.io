@@ -5,8 +5,8 @@
     <description>Scribbles in CyberSpace, Engineering, Gaming, and RPG's</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 May 2022 14:53:24 -0700</pubDate>
-    <lastBuildDate>Mon, 30 May 2022 14:53:24 -0700</lastBuildDate>
+    <pubDate>Mon, 30 May 2022 15:15:22 -0700</pubDate>
+    <lastBuildDate>Mon, 30 May 2022 15:15:22 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -149,8 +149,10 @@ They need each other.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 01 Apr 2022 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/fragged-empire-introduction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/fragged-empire-introduction.html</guid>
+        <link>http://localhost:4000/Tales-From-The-Leyline-Road/Setting-Introduction</link>
+        <guid isPermaLink="true">http://localhost:4000/Tales-From-The-Leyline-Road/Setting-Introduction</guid>
+        
+        <category>featured</category>
         
         
         <category>works</category>
@@ -180,8 +182,6 @@ They need each other.&lt;/p&gt;
         <pubDate>Tue, 22 Feb 2022 12:39:45 -0800</pubDate>
         <link>http://localhost:4000/topics/horizon zero dawn/</link>
         <guid isPermaLink="true">http://localhost:4000/topics/horizon zero dawn/</guid>
-        
-        <category>featured</category>
         
         
         <category>topics</category>
@@ -216,10 +216,8 @@ They need each other.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/post-images/TFLR-Valentine-3.PNG&quot; width=&quot;850&quot; height=&quot;650&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Feb 2022 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/topics/Tales-From-The-Leyline-Road/A-Fragged-Valentines-Day-aka-TFLR-Dating-Sim/</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/Tales-From-The-Leyline-Road/A-Fragged-Valentines-Day-aka-TFLR-Dating-Sim/</guid>
-        
-        <category>featured</category>
+        <link>http://localhost:4000/Tales-From-The-Leyline-Road/A-Fragged-Valentines-Day-aka-TFLR-Dating-Sim/</link>
+        <guid isPermaLink="true">http://localhost:4000/Tales-From-The-Leyline-Road/A-Fragged-Valentines-Day-aka-TFLR-Dating-Sim/</guid>
         
         
         <category>topics</category>

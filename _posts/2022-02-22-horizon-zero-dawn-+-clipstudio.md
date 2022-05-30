@@ -1,8 +1,7 @@
 ---
 title: Horizon Zero Dawn + ClipStudio
 excerpt: First ClipStudio exercise + some Horizon Zero Dawn fanart
-author: Erika
-tags: featured
+author: technomancer-01
 permalink: /topics/horizon zero dawn/
 categories:
   - topics

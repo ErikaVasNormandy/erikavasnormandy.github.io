@@ -1,7 +1,7 @@
 ---
 title: Saturday Morning Scribbles
 author: scavengers-repo
-excerpt: Traditional charcoal, ink, and paper illustrations based on various Soulsborne content
+excerpt: Spellbooks and scientific illustrations meet the Soulsborne universe and various other games
 priority: 1
 tags: featured
 skills:

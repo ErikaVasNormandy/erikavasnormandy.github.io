@@ -2,9 +2,12 @@
 title: Fragged Empire Introduction
 excerpt: Comicization of Fragged's intro
 priority: 1
+tags: featured
+permalink: /Tales-From-The-Leyline-Road/Setting-Introduction
 categories:
   - works
 background-image: comic/Intro/FraggedIntroPreview.jpg
+excerpt: A comic of the intro to the Fragged Empire RPG setting. For showing to newcomers on the fence.
 #date/lastmod are optional
 #date: 2022-04-01 14:30:42 -0700
 #lastmod: 2022-04-01 14:30:42 -0700
