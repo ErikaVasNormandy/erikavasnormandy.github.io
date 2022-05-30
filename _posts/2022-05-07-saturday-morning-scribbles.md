@@ -1,12 +1,14 @@
 ---
 title: Saturday Morning Scribbles
-author: technomancer-01
+author: scavengers-repo
 excerpt: Traditional charcoal, ink, and paper illustrations based on various Soulsborne content
 priority: 1
 tags: featured
+skills:
+  - ink
 categories:
   - works
-  - saturday-morning-scribbles
+
 background-image: bloodbornecrow1.jpeg
 
 #date/lastmod are optional
