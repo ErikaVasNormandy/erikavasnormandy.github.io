@@ -6,6 +6,13 @@
 /* Spectral by HTML5 UP html5up.net | @n33co Free for personal and commercial use under the CCA 3.0 license (html5up.net/license) */
 .logo-image { width: 10%; }
 
+.inktoberdisplay { margin: 10px 10px 10px 10px; width: 300px; }
+
+.imageContainer { /* border-style: solid; border-width: 1px; border-color: rgba(0,0,0,.5);*/ min-height: 300px; }
+
+/*imageContainer p { padding: 5px 5px 5px 5px; } .imageContainer h1 h2 h3 h4 h5 { color: black; } */
+.social-media-icons { width: 20px; margin: 5px 5px 5px 5px; }
+
 .worksdisplay { width: 70%; padding-bottom: 50px; padding-left: 10px; padding-right: 10px; display: flex; }
 
 .portfolio { width: 30%; padding-bottom: 20px; padding-left: 10px; padding-right: 10px; }
@@ -209,6 +216,9 @@ sup { font-size: 0.8em; position: relative; top: -0.5em; }
 hr { border: 0; border-bottom: solid 2px #fff; margin: 3em 0; }
 
 hr.major { margin: 4.5em 0; }
+
+/* customization */
+.inner { padding: 10px 10px 10px 10px; background-color: white; color: black; }
 
 article .inner { /* // If choosing serif font for headers h1, h2, h3, h4, h5, h6, h7 { color: _palette(accent7,fg); font-family: _font(prose-family); text-transform: none; letter-spacing: _size(letter-spacing); //font-weight: _font(weight); } // might have to adjust sizes as well h2 { font-size: _font(hdr-size-xlarge); } */ }
 

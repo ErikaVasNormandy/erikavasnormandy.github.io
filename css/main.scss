@@ -24,6 +24,32 @@ $baseurl: '{{ site.baseurl }}/images';
 width: 10%;
 }
 
+
+.inktoberdisplay{
+	margin: 10px 10px 10px 10px;
+  width: 300px;
+}
+.imageContainer{
+ /* border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0,0,0,.5);*/
+  min-height: 300px;
+}
+
+/*imageContainer p {
+	padding: 5px 5px 5px 5px;
+	
+}
+.imageContainer h1 h2 h3 h4 h5 {
+	color: black;
+}
+*/
+.social-media-icons {
+	width: 20px;
+	margin: 5px 5px 5px 5px;
+	
+}
+
 .worksdisplay{
     width: 70%;
     padding-bottom: 50px;
@@ -212,6 +238,14 @@ width: 10%;
 			margin: (_size(element-margin) * 2.25) 0;
 		}
 	}
+
+/* customization */
+.inner{
+	padding: 10px 10px 10px 10px;
+	background-color: white;
+	color: black;
+}
+
 
   article .inner {
   	/*
