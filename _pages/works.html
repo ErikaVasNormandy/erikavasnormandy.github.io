@@ -9,16 +9,25 @@ background-image: pic02.jpg
 {%
 if site.social.linkedin-square %}
 <p>I have a lot of different hobbies, but I'm currently focusing on my Webcomic and Techie Notes. Those I post every Friday and Saturday respectively </p>
-<h2>Saturday Morning Scribbles</h2>
-<h6>(formerly known as Saturday Morning Bloodborne)</h6>
-    <p>Often Bloodborne, Dark Souls, and other video game artwork with traditional pen and paper </p>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-ink-ladymaria.jpg?raw=true"></img>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-ink-cainhurst.jpg?raw=true"></img>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-ink-healingvial.jpg?raw=true"></img>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-ink-horizon-zero-dawn.jpg?raw=true"></img>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-ink-squid.jpg?raw=true"></img>
 
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-ink-bee.jpg?raw=true"></img>
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;"><img class="inktoberdisplay" src="/img/gallery-ink-cainhurst.jpg" />
+</p>
+    <h3 style=" padding: 5px 5px 5px 5px"> Saturday Morning Soulsborne </h3>
+   <p style="padding: 10px 10px 10px 10px"> Necronomicon fantasy-style illustrations and scientific journaling meets the Soulsborne universe and various other games in charcoal and ink. I started doing these early 2020, even before the pandemic, and since then I've kept at it and I think its helped me improve even in my digital art! I'm hoping to use these to spruce up my notes, usually very dry and technical content that deserves a more Necronomicon-like visual
+
+  <br>
+  <a href="http://technomancer-01.com/works/saturday-morning-scribbles.html"><h3>View -></h3></a>
+</p>
+</div>
+
+<p></p>
+<p></p>
+<br>
+<br>
+<br>
+
+
 
 
 <h2>WebComic - Tales From the Leyline Road</h2>
@@ -28,21 +37,6 @@ if site.social.linkedin-square %}
     <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-digital-jaz.jpg?raw=true"></img>
     <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-digital-laz.jpg?raw=true"></img>
 
-
-<h3>Digital (assorted)</h3>
-
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-digital-htll.jpg?raw=true"></img>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-img-medicinebun.jpg?raw=true"></img>
-
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-digital-coolkids.jpg?raw=true"></img>
-
-
-  <h3>Coffee</h3>
-    <p>Medium to Light roasts. IDK how much the small-lot labels help but I hope they do. I love the look of Latte Art but I don't drink a whole lot of milk in my coffee anymore unfortunately</p>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-coffee-pourover.jpg?raw=true"></img>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-coffee-chemex.jpg?raw=true"></img>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-coffee-moka.jpg?raw=true"></img>
-    <img class="portfolio" src="https://github.com/ErikaVasNormandy/erikavasnormandy.github.io/blob/master/img/gallery-coffee-frenchpress.jpg?raw=true"></img>
     
 
 <h2> Sketchbook + Projects</h2>
@@ -53,29 +47,47 @@ if site.social.linkedin-square %}
 <p class="p2"><span class="s1">
 <div class="table-wrapper">
   <table class="alt"><tbody><tr><td style="text-align: center;">Visit my
-  <a target="_blank" href="{{ site.social.linkedin-square }}">LinkedIn profile</a></td>
-<td> Hit me up on <a target="_blank" href="{{ site.social.instagram }}">Instagram</a></td> 
+  <a target="_blank" href="https://linkedin.com/in/erika-hudiono">LinkedIn profile</a></td>
+<td> Hit me up on <a target="_blank" href="https://www.instagram.com/technomancer_01/">Instagram</a></td> 
   </tr></tbody></table>
-</div>{%
-endif %}
-{%
-if site.categories.works %}
+</div>
+
 <div class="table-wrapper">
   <table>
-    <tbody>{%
-      include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
-%}{%  for work in sorted_list %}
+    <tbody>
       <tr>
-        <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
-        <td>{{ work.date | date: "%b %Y" }}</td>
-        <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
+        <td><b><a href="/works/saturday-morning-scribbles.html">Saturday Morning Scribbles</a></b></td>
+        <td>May 2022</td>
+        <td>Spellbooks and scientific illustrations meet the Soulsborne universe and various other games...</td>
         <td>
-          {% include techlist.html %}
+          <ul class="techlist">
+</ul>
+
         </td>
-      </tr>{%
-      endfor %}
+      </tr>
+      <tr>
+        <td><b><a href="/Tales-From-The-Leyline-Road/Fragged-Empire-Introduction">Fragged Empire Introduction</a></b></td>
+        <td>Apr 2022</td>
+        <td>A comic of the intro to the Fragged Empire RPG setting. For...</td>
+        <td>
+          <ul class="techlist">
+</ul>
+
+        </td>
+      </tr>
+      <tr>
+        <td><b><a href="/Tales-From-The-Leyline-Road/Webcomic">Tales From The Leyline Road</a></b></td>
+        <td>Feb 2022</td>
+        <td>Webcomic based on our Fragged Empire Campaign from 2020-2021. Lofi Space Adventures...</td>
+        <td>
+          <ul class="techlist">
+</ul>
+
+        </td>
+      </tr>
     </tbody>
   </table>
+</div>
 </div>{%
   if site.works_in_progress %}
   <div class="works_inprogress">In-progress, more to come.</div>{%
