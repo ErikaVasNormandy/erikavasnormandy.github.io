@@ -63,3 +63,4 @@ sitemap:
       endunless %}{%
     endfor %}
 </urlset>
+
