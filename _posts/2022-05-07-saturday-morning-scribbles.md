@@ -1,6 +1,6 @@
 ---
 title: Saturday Morning Scribbles
-author: scavengers-repo
+author: technomancer-01
 excerpt: Spellbooks and scientific illustrations meet the Soulsborne universe and various other games
 priority: 1
 tags: featured
