@@ -26,7 +26,7 @@ I'm not really sure who would be the safest option here out of these three assho
 
 <img src="/images/post-images/TFLR-valentine-Gene.PNG" class="worksdisplay">
 <img src="/images/post-images/TFLR-valentine-Jazz.PNG" class="worksdisplay">
-<img src="/images/post-images/TFLR-valentine-Laz.jpg" class="worksdisplay">
+<img src="/images/post-images/TFLR-valentine-laz.jpg" class="worksdisplay">
 
 #### Posted Here: 
 [Artstation](https://www.artstation.com/artwork/eJxXz3)
