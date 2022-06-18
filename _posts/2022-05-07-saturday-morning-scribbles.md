@@ -53,6 +53,18 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
    </p>
 </div>
 
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+      <img class="inktoberdisplay" src="/images/satmorningscribbles/06112022-eldenring-malenia-helm1.jpeg" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px"> Malenia's Helm</h3>
+   <p style="padding: 10px 10px 10px 10px"> A winged helm of unalloyed gold. Obtainable upon defeating Malenia the Severed.
+    <br />
+    <a href="https://www.instagram.com/p/CdQ5HTyOxYQ/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/VyYX5P/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Malenia-Helm-918952740"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
+   </p>
+</div>
 
 
 
