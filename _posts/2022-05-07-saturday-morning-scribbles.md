@@ -55,6 +55,33 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
+      <img class="inktoberdisplay" src="/images/satmorningscribbles/06182022-eldenring-godfrey1.jpg" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px"> Godfrey, the First Elden Lord</h3>
+   <p style="padding: 10px 10px 10px 10px"> Once known as Hoarah Loux, Godfrey was chosen for his prowess in battle. "Godfrey led the war against the Giants, whose flame threatened the Erdtree, and faced the Storm Lord alone. But after his last worthy opponent fell, Godfrey's warrior spirit sank, the hue from his eyes faded and he lost the guidance of grace. His purpose now fulfilled, Marika exiled Godfrey and his warriors from the Lands Between, making him the first Tarnished.   
+    <br />
+    <a href="https://www.instagram.com/p/Ce9AzgyLFJL/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/lR5YWo/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Godfrey-First-Elden-Lord-919700791"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
+   </p>
+</div>
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+      <img class="inktoberdisplay" src="/images/satmorningscribbles/06182022-eldenring-godfrey2.jpg" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px"> Godfrey, the First Elden Lord (Details)</h3>
+   <p style="padding: 10px 10px 10px 10px"> "Hark, my Lord Godfrey. We commend your deeds. Guidance hath delivered ye through to each ordeal, to the place ye stand. Put the Giants to the sword, and confine the flame atop the mount. Let a new epoch begin. An epoch glistening with life. Brandish the Elden Ring, for the Age of the Erdtree!"
+    <br/>
+    <a href="https://www.instagram.com/p/Ce9BHtBrnnh/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/lR5YWo/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Godfrey-First-Elden-Lord-919700791"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
+   </p>
+</div>
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
       <img class="inktoberdisplay" src="/images/satmorningscribbles/06112022-eldenring-malenia-helm1.jpeg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px"> Malenia's Helm</h3>
    <p style="padding: 10px 10px 10px 10px"> A winged helm of unalloyed gold. Obtainable upon defeating Malenia the Severed.
@@ -85,7 +112,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningscribbles/05072022-eldenringmarika.jpg" ></p>
     <h3 style="padding: 10px 10px 10px 10px"> Queen Marika (Details)</h3>
-   <p style="padding: 10px 10px 10px 10px">     “Hear me, Demigods. My children beloved. Make of thyself that which ye desire. Be it a Lord, Be it a God. But should y e fail to become aught at all, ye will be forsaken. Amounting only to Sacrifices… “
+   <p style="padding: 10px 10px 10px 10px">   “Hear me, Demigods. My children beloved. Make of thyself that which ye desire. Be it a Lord, Be it a God. But should y e fail to become aught at all, ye will be forsaken. Amounting only to Sacrifices… “
     <br>
     <a href="https://www.instagram.com/reel/CdQ6j2CqHxC/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.instagram.com/p/CcIz1DypZET/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
