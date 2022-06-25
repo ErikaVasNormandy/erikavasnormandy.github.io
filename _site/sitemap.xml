@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>http://localhost:4000/</loc>
-      <lastmod>2022-06-18T11:15:21-07:00</lastmod>
+      <lastmod>2022-06-25T07:43:45-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
     </url>
     <url>
-      <loc>http://localhost:4000/works/saturday-morning-scribbles.html</loc>
+      <loc>http://localhost:4000/works/saturday-morning-soulsborne.html</loc>
         <lastmod>2022-05-07T00:00:00-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1</priority>
@@ -44,43 +44,43 @@
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2022-06-18T11:15:21-07:00</lastmod>
+        <lastmod>2022-06-25T07:43:45-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2022-06-18T11:15:21-07:00</lastmod>
+        <lastmod>2022-06-25T07:43:45-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact/</loc>
-        <lastmod>2022-06-18T11:15:21-07:00</lastmod>
+        <lastmod>2022-06-25T07:43:45-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/credits/</loc>
-        <lastmod>2022-06-18T11:15:21-07:00</lastmod>
+        <lastmod>2022-06-25T07:43:45-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/</loc>
-        <lastmod>2022-06-18T11:15:21-07:00</lastmod>
+        <lastmod>2022-06-25T07:43:45-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/topics/</loc>
-        <lastmod>2022-06-18T11:15:21-07:00</lastmod>
+        <lastmod>2022-06-25T07:43:45-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/works/</loc>
-        <lastmod>2022-06-18T11:15:21-07:00</lastmod>
+        <lastmod>2022-06-25T07:43:45-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>

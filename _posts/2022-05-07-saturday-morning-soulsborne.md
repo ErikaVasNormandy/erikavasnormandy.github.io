@@ -1,5 +1,5 @@
 ---
-title: Saturday Morning Scribbles
+title: Saturday Morning Soulsborne
 author: technomancer-01
 excerpt: Spellbooks and scientific illustrations meet the Soulsborne universe and various other games
 priority: 1
