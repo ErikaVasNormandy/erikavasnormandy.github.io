@@ -55,7 +55,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningscribbles/07022022-eldenring.jpeg" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningscribbles/07022022-elden-ring.jpeg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px">Elden Ring, O Elden Ring</h3>
    <p style="padding: 10px 10px 10px 10px"> “Then, after thy death, I will give back what I once claimed. Return to the Lands Between, wage war, and brandish the Elden Ring. Grow strong in the face of death. Warriors of my lord. Lord Godfrey. A Tarnished of no renown. Cross the fog, to the Lands Between, to stand before the Elden Ring. And become the Elden Lord." 
     <br />
