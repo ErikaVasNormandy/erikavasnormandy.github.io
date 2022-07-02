@@ -55,6 +55,20 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
+      <img class="inktoberdisplay" src="/images/satmorningscribbles/07022022-eldenring.jpeg" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px">Elden Ring, O Elden Ring</h3>
+   <p style="padding: 10px 10px 10px 10px"> “Then, after thy death, I will give back what I once claimed. Return to the Lands Between, wage war, and brandish the Elden Ring. Grow strong in the face of death. Warriors of my lord. Lord Godfrey. A Tarnished of no renown. Cross the fog, to the Lands Between, to stand before the Elden Ring. And become the Elden Lord." 
+    <br />
+    <a href="https://www.instagram.com/p/Ce9AzgyLFJL/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/qQdxKz"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Morning-Soulsborne-O-Elden-Ring-921102211"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
+   </p>
+</div>
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
       <img class="inktoberdisplay" src="/images/satmorningscribbles/06252022-eldenring-melina-locket.jpg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px">Melina</h3>
    <p style="padding: 10px 10px 10px 10px"> Greetings. Traveller from beyond the fog. I Am Melina. I offer you an accord. Have you heard of the finger maidens? They serve the Two Fingers, offering guidance, and aid, to the Tarnished. But you, I am afraid, are maidenless. I can play the role of maiden. Turning rune fragments into strength. To aid you in your search for the Elden Ring. You need only take me with you. To the foot of the Erdtree.
