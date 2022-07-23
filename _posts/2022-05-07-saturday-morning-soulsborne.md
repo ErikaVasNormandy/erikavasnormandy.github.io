@@ -68,7 +68,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningscribbles/07152022-eldenring-malenia.jpg" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/07152022-eldenring-malenia.jpg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px">Malenia, Goddess of the Scarlet Rot</h3>
    <p style="padding: 10px 10px 10px 10px"> “Each time the scarlet flower blooms, Malenia’s rot advances. It has bloomed twice already. With the third bloom, she will become a true goddess. I dreamt for so long, my flesh was dull gold, and my blood, rotted. Corpse after corpse, left in my wake… As I awaited… his return. Heed my words. I am Malenia, Blade of Miquella. And I have never known defeat. Now let your flesh be consumed by the Scarlet Rot!” 
     <br />
@@ -82,7 +82,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningscribbles/07022022-elden-ring.jpeg" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/07022022-elden-ring.jpeg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px">Elden Ring, O Elden Ring</h3>
    <p style="padding: 10px 10px 10px 10px"> “Then, after thy death, I will give back what I once claimed. Return to the Lands Between, wage war, and brandish the Elden Ring. Grow strong in the face of death. Warriors of my lord. Lord Godfrey. A Tarnished of no renown. Cross the fog, to the Lands Between, to stand before the Elden Ring. And become the Elden Lord." 
     <br />
@@ -96,7 +96,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningscribbles/06252022-eldenring-melina-locket.jpg" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/06252022-eldenring-melina-locket.jpg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px">Melina</h3>
    <p style="padding: 10px 10px 10px 10px"> Greetings. Traveller from beyond the fog. I Am Melina. I offer you an accord. Have you heard of the finger maidens? They serve the Two Fingers, offering guidance, and aid, to the Tarnished. But you, I am afraid, are maidenless. I can play the role of maiden. Turning rune fragments into strength. To aid you in your search for the Elden Ring. You need only take me with you. To the foot of the Erdtree.
     <br/>
@@ -109,7 +109,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningscribbles/06182022-eldenring-godfrey1.jpg" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/06182022-eldenring-godfrey1.jpg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px">Godfrey, the First Elden Lord</h3>
    <p style="padding: 10px 10px 10px 10px"> Once known as Hoarah Loux, Godfrey was chosen for his prowess in battle. "Godfrey led the war against the Giants, whose flame threatened the Erdtree, and faced the Storm Lord alone. But after his last worthy opponent fell, Godfrey's warrior spirit sank, the hue from his eyes faded and he lost the guidance of grace. His purpose now fulfilled, Marika exiled Godfrey and his warriors from the Lands Between, making him the first Tarnished.   
     <br />
@@ -122,7 +122,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningscribbles/06182022-eldenring-godfrey2.jpg" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/06182022-eldenring-godfrey2.jpg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px"> Godfrey, the First Elden Lord (Details)</h3>
    <p style="padding: 10px 10px 10px 10px"> "Hark, my Lord Godfrey. We commend your deeds. Guidance hath delivered ye through to each ordeal, to the place ye stand. Put the Giants to the sword, and confine the flame atop the mount. Let a new epoch begin. An epoch glistening with life. Brandish the Elden Ring, for the Age of the Erdtree!"
     <br/>
@@ -136,7 +136,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningscribbles/06112022-eldenring-malenia-helm1.jpeg" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/06112022-eldenring-malenia-helm1.jpeg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px"> Malenia's Helm</h3>
    <p style="padding: 10px 10px 10px 10px"> A winged helm of unalloyed gold. Obtainable upon defeating Malenia the Severed.
     <br />
