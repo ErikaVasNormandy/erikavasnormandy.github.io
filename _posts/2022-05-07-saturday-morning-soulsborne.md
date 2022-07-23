@@ -59,8 +59,8 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
     <h3 style=" padding: 10px 10px 10px 10px">Sekiro!</h3>
    <p style="padding: 10px 10px 10px 10px"> “The day I pulled you from that battlefield, I had no idea what you would become. How many times have you died and come back for me? Once? Twice? Three Times? Or perhaps a number so large it cannot be counted? A Shinobi's eyes do not follow the blade without anticipating its movements. Remaining composed even when the fearful of its sharp edge is the key to victory.” 
     <br />
-    <a href="https://www.instagram.com/technomancer_01/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
-    <a href="https://www.artstation.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/LewKYr"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
     <a href="https://www.deviantart.com/technomancer-01/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
    </p>
