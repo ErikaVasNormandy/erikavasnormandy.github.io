@@ -25,7 +25,7 @@ This is a project I started very early into 2020 after deciding that I wanted to
 Now, 2 years later, I'm hoping to scan these up into digital assets so I can start using the to make either actual spellbook or my technical illustrations
 
 <div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningscribbles/04092022-bloodbornecrow1.jpeg" >
+    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg" >
 </p>
     <h3 style=" padding: 5px 5px 5px 5px"> Eileen the Crow </h3>
    <p style="padding: 10px 10px 10px 10px"> "The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally..." 
@@ -40,7 +40,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 
 <div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningscribbles/04092022-bloodbornecrow2.jpg" >
+    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/04092022-bloodbornecrow2.jpg" >
 </p>
     <h3 style=" padding: 10px 10px 10px 10px"> Eileen the Crow (Details)</h3>
    <p style="padding: 10px 10px 10px 10px"> I took a snap of this while on our roadtrip up in Washington. I've never been around so much greenery but the overcast weather really added some nice lighting.
@@ -151,7 +151,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningscribbles/05072022-eldenringrosegarden.jpeg" ></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/05072022-eldenringrosegarden.jpeg" ></p>
     <h3 style=" padding: 10px 10px 10px 10px"> Queen Marika </h3>
    <p style="padding: 10px 10px 10px 10px">  And the Mother's Day award of the year goes to.... Queen Marika! Just look at all her lovely demigod children.
     <br>
@@ -164,7 +164,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 
 <div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningscribbles/05072022-eldenringmarika.jpg" ></p>
+    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/05072022-eldenringmarika.jpg" ></p>
     <h3 style="padding: 10px 10px 10px 10px"> Queen Marika (Details)</h3>
    <p style="padding: 10px 10px 10px 10px">   “Hear me, Demigods. My children beloved. Make of thyself that which ye desire. Be it a Lord, Be it a God. But should y e fail to become aught at all, ye will be forsaken. Amounting only to Sacrifices… “
     <br>
@@ -177,7 +177,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 
 <div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningscribbles/04302022-bloodbornechoirattire.jpg" >
+    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/04302022-bloodbornechoirattire.jpg" >
          </p>
     <h3 style=" padding: 10px 10px 10px 10px"> Bloodborne - Healing Church Attire</h3>
    <p style="padding: 10px 10px 10px 10px"> Or Yurie, the Last Scholar 
@@ -192,7 +192,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 
 <div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningscribbles/05212022-elden-ring-fia.jpeg" >
+    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/05212022-elden-ring-fia.jpeg" >
     </p>
     <h3 style=" padding: 10px 10px 10px 10px"> Elden Ring - Fia, the Deathbed Companion</h3>
    <p style="padding: 10px 10px 10px 10px"> "I will soon lay with Godwyn. To conceive my child, the rune. Brandish my rune, and take for yourself the throne. Stay the persecution of Those Who Live in Death.By becoming our Elden Lord."
