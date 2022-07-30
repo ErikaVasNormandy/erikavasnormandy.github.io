@@ -54,14 +54,14 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 </div>
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/07302022-bloodbornevial2.PNG" /></p>
-    <h3 style=" padding: 10px 10px 10px 10px">Blood Vials Galore</h3>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/07302022-bloodbornevial2n.PNG" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px">Blood Vials Galore - For Sale on Redbubble!</h3>
    <p style="padding: 10px 10px 10px 10px"> “Straight out of Yharnam itself. Once a patient has had their blood ministered, a unique but common treatment in Yharnam, successive infusions recall the first, and are all the more invigorating for it. No surprise that most Yharnamites are heavy users of blood.” 
     <br />
     <a href="https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
     <a href="https://www.artstation.com/artwork/LewKYr"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
-    <a href="https://www.deviantart.com/technomancer-01/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Blood-Vials-Galore-924228205"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
     
    </p>
 </div>
