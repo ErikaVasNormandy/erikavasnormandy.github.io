@@ -38,6 +38,45 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 </div>
 
 
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08062022-eldenring-ranni1" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px">Ranni The Witch I</h3>
+   <p style="padding: 10px 10px 10px 10px"> “I am the witch Ranni. I stole Death long ago, and search now for the dark path.” 
+    <br />
+    <a href="https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/vJKJg3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
+   </p>
+</div>
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08062022-eldenring-ranni2" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px">Ranni The Witch II</h3>
+   <p style="padding: 10px 10px 10px 10px"> “Mine will be an order not of gold, but the stars and moon of the chill night."
+    <br />
+    <a href="https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/vJKJg3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
+   </p>
+</div>
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08062022-eldenring-ranni3" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px">Ranni The Witch III</h3>
+   <p style="padding: 10px 10px 10px 10px"> “Upon my name as Ranni the Witch. Mother's rich slumber shall not be disturbed by thee. Foul trespasser. Send word far and wide.” 
+    <br />
+    <a href="https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/vJKJg3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
+   </p>
+</div>
+
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/04092022-bloodbornecrow2.jpg" >
