@@ -37,10 +37,68 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 </p>
 </div>
 
+<!--<div style="clear: left;" class="imageContainer">-->
+<!--    <p style="float: left;">-->
+<!--      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08132022-eldenring-Flask-of-Crimson-Tears1.jpeg" /></p>-->
+<!--    <h3 style=" padding: 10px 10px 10px 10px">Flask of Crimson Tears II </h3>-->
+<!--   <p style="padding: 10px 10px 10px 10px"> “A sacred flask modeled after a golden holy chalice that was once graced by a tear of life. It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet…” -->
+<!--    <br />-->
+<!--    <a href="https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>-->
+<!--    <a href="https://www.artstation.com/artwork/vJKJg3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>-->
+<!--    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>-->
+<!--    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>-->
+<!--   </p>-->
+<!--</div>-->
+
+
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08062022-eldenring-ranni1" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08132022-eldenring-Flask-of-Crimson-Tears2.jpeg" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px">Flask of Crimson Tears II </h3>
+   <p style="padding: 10px 10px 10px 10px"> “A sacred flask modeled after a golden holy chalice that was once graced by a tear of life. It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet…” 
+    <br />
+    <a href="https://www.instagram.com/p/CbSs7_qOQL3/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/vJKJg3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Flask-of-Crimson-Tears-925655232"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
+   </p>
+</div>
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08132022-eldenring-originalflask.jpeg" /></p>
+    <h3 style=" padding: 10px 10px 10px 10px">Flask of Crimson Tears I</h3>
+   <p style="padding: 10px 10px 10px 10px"> This was the original I did a while back. For sure I think my photography has improved but I'm not sure which one I'd prioritize for sticker format
+    <br />
+    <a href="https://www.instagram.com/p/CbSs7_qOQL3/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
+    <a href="https://www.artstation.com/artwork/14RbVG"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Flask-of-Crimson-Tears-925655232"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
+   </p>
+</div>
+<!---->
+<!---->
+<!--<div style="clear: left;" class="imageContainer">-->
+<!--    <p style="float: left;">-->
+<!--      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08132022-eldenring-A-Golden-Seed3.jpeg" /></p>-->
+<!--    <h3 style=" padding: 10px 10px 10px 10px">A Golden Seed</h3>-->
+<!--   <p style="padding: 10px 10px 10px 10px"> “When the Elden Ring was shattered, these seeds flew from the Erdtree, scattering across the various lands, as if life itself knew that its end has come."-->
+<!--    <br />-->
+<!--    <a href="https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>-->
+<!--    <a href="https://www.artstation.com/artwork/vJKJg3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>-->
+<!--    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>-->
+<!--    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>-->
+<!--   </p>-->
+<!--</div>-->
+
+
+
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08062022-eldenring-ranni1.jpg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px">Ranni The Witch I</h3>
    <p style="padding: 10px 10px 10px 10px"> “I am the witch Ranni. I stole Death long ago, and search now for the dark path.” 
     <br />
@@ -53,7 +111,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08062022-eldenring-ranni2" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08062022-eldenring-ranni2.jpg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px">Ranni The Witch II</h3>
    <p style="padding: 10px 10px 10px 10px"> “Mine will be an order not of gold, but the stars and moon of the chill night."
     <br />
@@ -66,7 +124,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08062022-eldenring-ranni3" /></p>
+      <img class="inktoberdisplay" src="/images/satmorningsoulsborne/08062022-eldenring-ranni3.jpg" /></p>
     <h3 style=" padding: 10px 10px 10px 10px">Ranni The Witch III</h3>
    <p style="padding: 10px 10px 10px 10px"> “Upon my name as Ranni the Witch. Mother's rich slumber shall not be disturbed by thee. Foul trespasser. Send word far and wide.” 
     <br />
