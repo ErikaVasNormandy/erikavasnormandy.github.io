@@ -59,7 +59,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
    <p style="padding: 10px 10px 10px 10px"> “A sacred flask modeled after a golden holy chalice that was once graced by a tear of life. It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet…” 
     <br />
     <a href="https://www.instagram.com/p/CbSs7_qOQL3/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png" /></a>
-    <a href="https://www.artstation.com/artwork/vJKJg3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
+    <a href="https://www.artstation.com/artwork/kl8P5y"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png" /></a>
     <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Flask-of-Crimson-Tears-925655232"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png" /></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png" /></a>
    </p>
