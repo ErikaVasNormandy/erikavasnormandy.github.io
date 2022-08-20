@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Aug 2022 18:14:49 -0700</pubDate>
-    <lastBuildDate>Thu, 11 Aug 2022 18:14:49 -0700</lastBuildDate>
+    <pubDate>Sat, 20 Aug 2022 08:57:48 -0700</pubDate>
+    <lastBuildDate>Sat, 20 Aug 2022 08:57:48 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -32,18 +32,31 @@
 &lt;/p&gt;
 &lt;/div&gt;
 
-&lt;!--&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;--&gt;
-&lt;!--    &lt;p style=&quot;float: left;&quot;&gt;--&gt;
-&lt;!--      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-Flask-of-Crimson-Tears1.jpeg&quot; /&gt;&lt;/p&gt;--&gt;
-&lt;!--    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Flask of Crimson Tears II &lt;/h3&gt;--&gt;
-&lt;!--   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “A sacred flask modeled after a golden holy chalice that was once graced by a tear of life. It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet…” --&gt;
-&lt;!--    &lt;br /&gt;--&gt;
-&lt;!--    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;--&gt;
-&lt;!--    &lt;a href=&quot;https://www.artstation.com/artwork/vJKJg3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;--&gt;
-&lt;!--    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;--&gt;
-&lt;!--    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;--&gt;
-&lt;!--   &lt;/p&gt;--&gt;
-&lt;!--&lt;/div&gt;--&gt;
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-Flask-of-Crimson-Tears1.jpeg&quot; /&gt;&lt;/p&gt;
+    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Herbalists' Notebook &lt;/h3&gt;
+   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “The full page set. Sometimes I wonder how exactly the healing flask here works, and the reasoning behind the seed increasing the charges.” 
+    &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/3qzxAJ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Morning-Soulsborne-Herbalists-Notes-926549192&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+   &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-A-Golden-Seed3.jpeg&quot; /&gt;&lt;/p&gt;
+    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;A Golden Seed&lt;/h3&gt;
+   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “A golden seed, found at the base of an illusory tree. When the Elden Ring was shattered, these seeds flew from the Erdtree, scattering across the various lands, as if life itself knew that its end has come.” 
+    &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/3qzxAJ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Morning-Soulsborne-Herbalists-Notes-926549192&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+   &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
     &lt;p style=&quot;float: left;&quot;&gt;
@@ -52,7 +65,7 @@
    &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “A sacred flask modeled after a golden holy chalice that was once graced by a tear of life. It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet…” 
     &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CbSs7_qOQL3/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/vJKJg3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/kl8P5y&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Flask-of-Crimson-Tears-925655232&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
    &lt;/p&gt;
