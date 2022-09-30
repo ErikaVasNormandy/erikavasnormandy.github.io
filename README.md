@@ -4,9 +4,13 @@ A personal site derived from arkadianriver.com and by extension the talented [@a
 Originally this was scavengers-repo, but the upkeep was starting to get in the way and I mainly wanted to focus on art stuff and cyber. 
 
 ## Some Notes for Future Me
+````
 Make sure you keep the CNAME file in mind
+
 bundle install
+
 bundle exec jekyll serve
+
 _ site stuff gets replaced
 _ config.yml is the most important aspect
   File | Action
@@ -15,7 +19,7 @@ _ config.yml is the most important aspect
    **`_data/tokens.yml`** | Create this file, using `_data/tokens-template.yml` as an example.
    **`_data/authors.yml`** | Add author info for yourself as the first entry in the file.
 
-
+```
 
 ## Original arkadian river stuff
 
