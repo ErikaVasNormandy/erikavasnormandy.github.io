@@ -4,7 +4,7 @@ A personal site derived from arkadianriver.com and by extension the talented [@a
 Originally this was scavengers-repo, but the upkeep was starting to get in the way and I mainly wanted to focus on art stuff and cyber. 
 
 ## Some Notes for Future Me
-````
+```
 Make sure you keep the CNAME file in mind
 
 bundle install
