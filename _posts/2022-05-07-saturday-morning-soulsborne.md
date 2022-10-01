@@ -38,10 +38,10 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
 </div>
 
 <div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/09232022-bloodborne-1.jpeg" >
+    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/09302022-bloodborne-2.jpeg" >
 </p>
     <h3 style=" padding: 5px 5px 5px 5px">Bloodborne-tober</h3>
-   <p style="padding: 10px 10px 10px 10px"> ”" 
+   <p style="padding: 10px 10px 10px 10px"> ”Oh, you must be a hunter, and not one from around here either" 
  <br>
     <a href="https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/artwork/Pe0exZ"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
