@@ -1251,7 +1251,7 @@ width: 10%;
 
 	@mixin wrapper($p) {
 		/*background-color: _palette($p, bg);*/
-		background-color: rgba(0,0,0,0.8);
+		background-color: rgba(0,0,0,1);
 		color: white;
 
 		// Basic
