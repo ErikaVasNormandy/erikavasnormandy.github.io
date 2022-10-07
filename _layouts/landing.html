@@ -52,8 +52,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h2>{% if site.greeting.title %}{{ site.greeting.title }}{% else %}{{ site.title }}{% endif %}</h2>
                 <p>{% if site.greeting.text %}{{ site.greeting.text | markdownify }}{% else %}{{ site.description | markdownify }}{% endif %}</p>
               </header>
-              <ul class="icons major">{%
-              for socloc in site.social limit:3 %}{%
+              <ul class="icons major">ICONS{%
+              for socloc in site.social limit:4%}{%
                 if socloc[1] %}{%
                   if socloc[0] == 'email' %}
                 <li><a target="_blank" href="{%
