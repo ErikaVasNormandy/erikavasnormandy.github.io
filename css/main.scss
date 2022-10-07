@@ -236,7 +236,7 @@ width: 10%;
 		margin: (_size(element-margin) * 1.5) 0;
 
 		&.major {
-			margin: (_size(element-margin) * 2.25) 0;
+			/*margin: (_size(element-margin) * 2.25) 0;*/
 		}
 	}
 
@@ -380,7 +380,7 @@ width: 10%;
 		}
 
 		&.major {
-			margin: 0 0 (_size(element-margin) * 1.75) 0;
+		/*	margin: 0 0 (_size(element-margin) * 1.75) 0;*/
 
 			h1, h2, h3, h4, h5, h6 {
 				border-bottom: solid 2px _palette(border);
@@ -1165,7 +1165,7 @@ width: 10%;
 /* Spotlight */
 
 	.spotlight {
-
+		background-color: black;
    	@include vendor('align-items', 'center');
  		@include vendor('display', 'flex');
 
@@ -1210,7 +1210,8 @@ width: 10%;
 		@for $i from 1 through _misc(max-spotlights) {
 			$j: 0.075 * $i;
 			&:nth-child(#{$i}) {
-				background-color: rgba(0,0,0, $j);
+			/*	background-color: rgba(0,0,0, $j);*/
+			background-color: rgba(0,0,0,1);
 			}
 		}
 
@@ -1253,7 +1254,7 @@ width: 10%;
 
 	@mixin wrapper($p) {
 		/*background-color: _palette($p, bg);*/
-		background-color: rgba(0,0,0,1);
+		background-color: rgba(0,0,0,0.8);
 		color: white;
 
 		// Basic
@@ -1298,7 +1299,6 @@ width: 10%;
 /////////// The actual description text
 					p {
 						color: white;
-							background-color: black;
 
 					}
 				}
