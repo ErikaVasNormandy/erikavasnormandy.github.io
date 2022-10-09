@@ -169,7 +169,7 @@ body { /*	background: _palette(bg);*/ background-color: black; }
 
 body.is-loading *, body.is-loading *:before, body.is-loading *:after { -moz-animation: none !important; -webkit-animation: none !important; -ms-animation: none !important; animation: none !important; -moz-transition: none !important; -webkit-transition: none !important; -ms-transition: none !important; transition: none !important; }
 
-body, input, select, textarea { color: #fff; background-color: black; font-family: "Open Sans", Helvetica, sans-serif; font-size: 15pt; font-weight: 400; letter-spacing: 0.075em; line-height: 1.65em; }
+body, input, select, textarea { color: #fff; /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-size: 15pt; font-weight: 400; letter-spacing: 0.075em; line-height: 1.65em; }
 
 @media screen and (max-width: 1680px) { body, input, select, textarea { font-size: 13pt; } }
 
@@ -259,7 +259,7 @@ pre code { border-radius: 6px; display: block; line-height: 1.75em; background-c
 /* Section/Article */
 section.special, article.special { text-align: center; }
 
-#greeting header.major { padding-top: 20px; color: white; }
+#greeting header.major { font-family: "Courier New"; padding-top: 20px; color: white; }
 
 header p { color: rgba(255, 255, 255, 0.5); position: relative; top: -0.25em; }
 
@@ -602,7 +602,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .breadcrumb blockquote { border-color: #dfdfdf; }
 
-.breadcrumb header p { background-color: black; color: white; }
+.breadcrumb header p { font-family: "Courier New"; background-color: black; color: white; }
 
 .breadcrumb header.major h1, .breadcrumb header.major h2, .breadcrumb header.major h3, .breadcrumb header.major h4, .breadcrumb header.major h5, .breadcrumb header.major h6 { border-color: #dfdfdf; color: white; }
 
@@ -666,13 +666,13 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .breadcrumb .post-list > li { vertical-align: top; display: inline-block; /* width: 240px; */ list-style: none; margin: 0.25em 0 0.5em 0.5em; padding: 0; /* &:first-child { margin-left: 0; } &.featured { border: solid 4px black; } */ }
 
-.breadcrumb .post-list > li .post-date { font-family: "Open Sans", Helvetica, sans-serif; font-style: italic; padding: 0 0 5px 0; margin: 0; font-size: 11pt; line-height: 1.35em; }
+.breadcrumb .post-list > li .post-date { /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-style: italic; padding: 0 0 5px 0; margin: 0; font-size: 11pt; line-height: 1.35em; }
 
 .breadcrumb .post-list > li .post-feature { padding: 0; margin: 0; font-style: italic; font-weight: 600; line-height: 11pt; }
 
-.breadcrumb .post-list > li .post-title { padding: 0; margin: 0; font-family: "Open Sans", Helvetica, sans-serif; font-weight: 600; font-size: 11pt; line-height: 1.35em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.breadcrumb .post-list > li .post-title { padding: 0; margin: 0; /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-weight: 600; font-size: 11pt; line-height: 1.35em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-.breadcrumb .post-list > li .post-desc { padding: 0; margin: 0; font-family: "Open Sans", Helvetica, sans-serif; font-size: 9pt; line-height: 1.25em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.breadcrumb .post-list > li .post-desc { padding: 0; margin: 0; /*	font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-size: 9pt; line-height: 1.25em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 .breadcrumb .post-list > li .container { -moz-appearance: none; -webkit-appearance: none; -ms-appearance: none; appearance: none; -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; background: transparent; /* _palette($p, border2-bg); */ /* box-shadow: 1px 1px _palette($p, border2); */ /* width: 240px; */ height: 6.5em; /* line-height: _font(prose-lheight-small); */ margin: 0; padding: 0.8em; border-radius: 3px; border: 0; box-shadow: inset 0 0 0 2px #dfdfdf; color: #2E3842; cursor: pointer; font-size: 0.8em; font-weight: 600; letter-spacing: 0.075em; line-height: 3.125em; text-decoration: none; text-transform: uppercase; text-align: center; }
 
@@ -684,7 +684,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .breadcrumb .techlist li { vertical-align: top; display: inline-block; box-shadow: 1px 1px #bfbfbf; list-style: none; background: rgba(0, 0, 0, 0.1); padding: 0 6px 0 6px; margin: 0 4px 10px 0; }
 
-.breadcrumb .techlist .tech { font-family: "Open Sans", Helvetica, sans-serif; font-size: 9pt; }
+.breadcrumb .techlist .tech { /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-size: 9pt; }
 
 .breadcrumb .inner > .techlist { margin-bottom: 2em; }
 
@@ -724,7 +724,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style1 blockquote { border-color: rgba(0, 0, 0, 0.125); }
 
-.wrapper.style1 header p { background-color: black; color: white; }
+.wrapper.style1 header p { font-family: "Courier New"; background-color: black; color: white; }
 
 .wrapper.style1 header.major h1, .wrapper.style1 header.major h2, .wrapper.style1 header.major h3, .wrapper.style1 header.major h4, .wrapper.style1 header.major h5, .wrapper.style1 header.major h6 { border-color: rgba(0, 0, 0, 0.125); color: white; }
 
@@ -788,13 +788,13 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style1 .post-list > li { vertical-align: top; display: inline-block; /* width: 240px; */ list-style: none; margin: 0.25em 0 0.5em 0.5em; padding: 0; /* &:first-child { margin-left: 0; } &.featured { border: solid 4px black; } */ }
 
-.wrapper.style1 .post-list > li .post-date { font-family: "Open Sans", Helvetica, sans-serif; font-style: italic; padding: 0 0 5px 0; margin: 0; font-size: 11pt; line-height: 1.35em; }
+.wrapper.style1 .post-list > li .post-date { /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-style: italic; padding: 0 0 5px 0; margin: 0; font-size: 11pt; line-height: 1.35em; }
 
 .wrapper.style1 .post-list > li .post-feature { padding: 0; margin: 0; font-style: italic; font-weight: 600; line-height: 11pt; }
 
-.wrapper.style1 .post-list > li .post-title { padding: 0; margin: 0; font-family: "Open Sans", Helvetica, sans-serif; font-weight: 600; font-size: 11pt; line-height: 1.35em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wrapper.style1 .post-list > li .post-title { padding: 0; margin: 0; /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-weight: 600; font-size: 11pt; line-height: 1.35em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-.wrapper.style1 .post-list > li .post-desc { padding: 0; margin: 0; font-family: "Open Sans", Helvetica, sans-serif; font-size: 9pt; line-height: 1.25em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wrapper.style1 .post-list > li .post-desc { padding: 0; margin: 0; /*	font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-size: 9pt; line-height: 1.25em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 .wrapper.style1 .post-list > li .container { -moz-appearance: none; -webkit-appearance: none; -ms-appearance: none; appearance: none; -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; background: transparent; /* _palette($p, border2-bg); */ /* box-shadow: 1px 1px _palette($p, border2); */ /* width: 240px; */ height: 6.5em; /* line-height: _font(prose-lheight-small); */ margin: 0; padding: 0.8em; border-radius: 3px; border: 0; box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.125); color: #ffffff; cursor: pointer; font-size: 0.8em; font-weight: 600; letter-spacing: 0.075em; line-height: 3.125em; text-decoration: none; text-transform: uppercase; text-align: center; }
 
@@ -806,7 +806,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style1 .techlist li { vertical-align: top; display: inline-block; box-shadow: 1px 1px rgba(0, 0, 0, 0.25); list-style: none; background: rgba(255, 255, 255, 0.2); padding: 0 6px 0 6px; margin: 0 4px 10px 0; }
 
-.wrapper.style1 .techlist .tech { font-family: "Open Sans", Helvetica, sans-serif; font-size: 9pt; }
+.wrapper.style1 .techlist .tech { /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-size: 9pt; }
 
 .wrapper.style1 .inner > .techlist { margin-bottom: 2em; }
 
@@ -822,7 +822,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style3 blockquote { border-color: rgba(0, 0, 0, 0.125); }
 
-.wrapper.style3 header p { background-color: black; color: white; }
+.wrapper.style3 header p { font-family: "Courier New"; background-color: black; color: white; }
 
 .wrapper.style3 header.major h1, .wrapper.style3 header.major h2, .wrapper.style3 header.major h3, .wrapper.style3 header.major h4, .wrapper.style3 header.major h5, .wrapper.style3 header.major h6 { border-color: rgba(0, 0, 0, 0.125); color: white; }
 
@@ -886,13 +886,13 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style3 .post-list > li { vertical-align: top; display: inline-block; /* width: 240px; */ list-style: none; margin: 0.25em 0 0.5em 0.5em; padding: 0; /* &:first-child { margin-left: 0; } &.featured { border: solid 4px black; } */ }
 
-.wrapper.style3 .post-list > li .post-date { font-family: "Open Sans", Helvetica, sans-serif; font-style: italic; padding: 0 0 5px 0; margin: 0; font-size: 11pt; line-height: 1.35em; }
+.wrapper.style3 .post-list > li .post-date { /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-style: italic; padding: 0 0 5px 0; margin: 0; font-size: 11pt; line-height: 1.35em; }
 
 .wrapper.style3 .post-list > li .post-feature { padding: 0; margin: 0; font-style: italic; font-weight: 600; line-height: 11pt; }
 
-.wrapper.style3 .post-list > li .post-title { padding: 0; margin: 0; font-family: "Open Sans", Helvetica, sans-serif; font-weight: 600; font-size: 11pt; line-height: 1.35em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wrapper.style3 .post-list > li .post-title { padding: 0; margin: 0; /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-weight: 600; font-size: 11pt; line-height: 1.35em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-.wrapper.style3 .post-list > li .post-desc { padding: 0; margin: 0; font-family: "Open Sans", Helvetica, sans-serif; font-size: 9pt; line-height: 1.25em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wrapper.style3 .post-list > li .post-desc { padding: 0; margin: 0; /*	font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-size: 9pt; line-height: 1.25em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 .wrapper.style3 .post-list > li .container { -moz-appearance: none; -webkit-appearance: none; -ms-appearance: none; appearance: none; -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; background: transparent; /* _palette($p, border2-bg); */ /* box-shadow: 1px 1px _palette($p, border2); */ /* width: 240px; */ height: 6.5em; /* line-height: _font(prose-lheight-small); */ margin: 0; padding: 0.8em; border-radius: 3px; border: 0; box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.125); color: #ffffff; cursor: pointer; font-size: 0.8em; font-weight: 600; letter-spacing: 0.075em; line-height: 3.125em; text-decoration: none; text-transform: uppercase; text-align: center; }
 
@@ -904,7 +904,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style3 .techlist li { vertical-align: top; display: inline-block; box-shadow: 1px 1px rgba(0, 0, 0, 0.25); list-style: none; background: rgba(255, 255, 255, 0.2); padding: 0 6px 0 6px; margin: 0 4px 10px 0; }
 
-.wrapper.style3 .techlist .tech { font-family: "Open Sans", Helvetica, sans-serif; font-size: 9pt; }
+.wrapper.style3 .techlist .tech { /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-size: 9pt; }
 
 .wrapper.style3 .inner > .techlist { margin-bottom: 2em; }
 
@@ -920,7 +920,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style5 blockquote { border-color: #dfdfdf; }
 
-.wrapper.style5 header p { background-color: black; color: white; }
+.wrapper.style5 header p { font-family: "Courier New"; background-color: black; color: white; }
 
 .wrapper.style5 header.major h1, .wrapper.style5 header.major h2, .wrapper.style5 header.major h3, .wrapper.style5 header.major h4, .wrapper.style5 header.major h5, .wrapper.style5 header.major h6 { border-color: #dfdfdf; color: white; }
 
@@ -984,13 +984,13 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style5 .post-list > li { vertical-align: top; display: inline-block; /* width: 240px; */ list-style: none; margin: 0.25em 0 0.5em 0.5em; padding: 0; /* &:first-child { margin-left: 0; } &.featured { border: solid 4px black; } */ }
 
-.wrapper.style5 .post-list > li .post-date { font-family: "Open Sans", Helvetica, sans-serif; font-style: italic; padding: 0 0 5px 0; margin: 0; font-size: 11pt; line-height: 1.35em; }
+.wrapper.style5 .post-list > li .post-date { /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-style: italic; padding: 0 0 5px 0; margin: 0; font-size: 11pt; line-height: 1.35em; }
 
 .wrapper.style5 .post-list > li .post-feature { padding: 0; margin: 0; font-style: italic; font-weight: 600; line-height: 11pt; }
 
-.wrapper.style5 .post-list > li .post-title { padding: 0; margin: 0; font-family: "Open Sans", Helvetica, sans-serif; font-weight: 600; font-size: 11pt; line-height: 1.35em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wrapper.style5 .post-list > li .post-title { padding: 0; margin: 0; /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-weight: 600; font-size: 11pt; line-height: 1.35em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-.wrapper.style5 .post-list > li .post-desc { padding: 0; margin: 0; font-family: "Open Sans", Helvetica, sans-serif; font-size: 9pt; line-height: 1.25em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wrapper.style5 .post-list > li .post-desc { padding: 0; margin: 0; /*	font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-size: 9pt; line-height: 1.25em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 .wrapper.style5 .post-list > li .container { -moz-appearance: none; -webkit-appearance: none; -ms-appearance: none; appearance: none; -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; background: transparent; /* _palette($p, border2-bg); */ /* box-shadow: 1px 1px _palette($p, border2); */ /* width: 240px; */ height: 6.5em; /* line-height: _font(prose-lheight-small); */ margin: 0; padding: 0.8em; border-radius: 3px; border: 0; box-shadow: inset 0 0 0 2px #dfdfdf; color: #2E3842; cursor: pointer; font-size: 0.8em; font-weight: 600; letter-spacing: 0.075em; line-height: 3.125em; text-decoration: none; text-transform: uppercase; text-align: center; }
 
@@ -1002,7 +1002,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style5 .techlist li { vertical-align: top; display: inline-block; box-shadow: 1px 1px #bfbfbf; list-style: none; background: rgba(0, 0, 0, 0.1); padding: 0 6px 0 6px; margin: 0 4px 10px 0; }
 
-.wrapper.style5 .techlist .tech { font-family: "Open Sans", Helvetica, sans-serif; font-size: 9pt; }
+.wrapper.style5 .techlist .tech { /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; font-size: 9pt; }
 
 .wrapper.style5 .inner > .techlist { margin-bottom: 2em; }
 
@@ -1025,7 +1025,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 #menu ul { list-style: none; padding: 0; }
 
-#menu ul > li { border-top: solid 1px rgba(0, 0, 0, 0.125); margin: 0.5em 0 0 0; padding: 0.5em 0 0 0; font-family: "Open Sans", Helvetica, sans-serif; }
+#menu ul > li { border-top: solid 1px rgba(0, 0, 0, 0.125); margin: 0.5em 0 0 0; padding: 0.5em 0 0 0; /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; }
 
 #menu ul > li:first-child { border-top: 0 !important; margin-top: 0 !important; padding-top: 0 !important; }
 
@@ -1190,7 +1190,7 @@ body.is-mobile.landing #banner, body.is-mobile.landing .wrapper.style4 { backgro
 body.is-mobile.landing #footer { background-color: #1d242a; }
 
 /* font variant */
-.ui { font-family: "Open Sans", Helvetica, sans-serif; }
+.ui { /*font-family: _font(ctrl-family);*/ font-family: "Courier New"; }
 
 /* back/next links in works */
 .backnext { width: 100%; padding: 6px; text-align: center; vertical-align: baseline; }
@@ -1213,17 +1213,17 @@ body.is-mobile.landing #footer { background-color: #1d242a; }
 
 .backnext .bpointer > a, .backnext .npointer > a { text-decoration: none; }
 
-.backnext .btitle { font-family: "Lora", "Garamond", serif; padding-right: 36px; }
+.backnext .btitle { /*	font-family: _font(prose-family);*/ font-family: "Courier New"; padding-right: 36px; }
 
 @media screen and (max-width: 736px) { .backnext .btitle { padding-right: 0; } }
 
-.backnext .ntitle { font-family: "Lora", "Garamond", serif; padding-left: 32px; }
+.backnext .ntitle { /*font-family: _font(prose-family);*/ font-family: "Courier New"; padding-left: 32px; }
 
 @media screen and (max-width: 736px) { .backnext .ntitle { padding-left: 0; } }
 
 .nobullet { list-style-type: none; }
 
-.works_inprogress { font-family: "Lora", "Garamond", serif; width: 100%; text-align: center; margin-bottom: 16px; }
+.works_inprogress { /*font-family: _font(prose-family);*/ font-family: "Courier New"; width: 100%; text-align: center; margin-bottom: 16px; }
 
 /* Video embeds http://embedresponsively.com https://github.com/jeffehobbs/embedresponsively MIT License */
 .embed-container { position: relative; padding-bottom: 56.25%; margin: 0 0 2em 0; height: 0; overflow: hidden; max-width: 100%; }
