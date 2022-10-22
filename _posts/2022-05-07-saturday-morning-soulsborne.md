@@ -45,8 +45,8 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
    <p style="padding: 10px 10px 10px 10px"> ”Those who swear this oath take on a ghastly form and enjoy accentuated transformation effects, especially while wielding a beast weapon."
  <br>
     <a href="https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
-    <a href="https://www.artstation.com/artwork/zDvEBm"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
-    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Bloodborne-Tober-II-932305603"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.artstation.com/artwork/2qv4bA"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/A-Bloodborne-tober-Beasts-Embrace-933914005"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
 </p>
 </div>
