@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Oct 2022 08:07:42 -0700</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2022 08:07:42 -0700</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2022 08:11:03 -0700</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2022 08:11:03 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -204,8 +204,8 @@ div.desc {
 
 </description>
         <pubDate>Sat, 29 Oct 2022 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/bloodborne-tober_2022.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/bloodborne-tober_2022.html</guid>
+        <link>http://localhost:4000/works/bloodbornetober2022.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/bloodbornetober2022.html</guid>
         
         <category>featured</category>
         
