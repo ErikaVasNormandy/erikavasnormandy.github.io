@@ -6,9 +6,9 @@
 /* Spectral by HTML5 UP html5up.net | @n33co Free for personal and commercial use under the CCA 3.0 license (html5up.net/license) */
 .logo-image { width: 10%; }
 
-.inktoberdisplay { margin: 10px 10px 10px 10px; width: 300px; }
+.inktoberdisplay { max-width: 400px; max-height: 400px; object-fit: cover; margin: 20px 20px 20px 20px; object-fit: cover; display: block; }
 
-.imageContainer { /* border-style: solid; border-width: 1px; border-color: rgba(0,0,0,.5);*/ min-height: 300px; }
+.imageContainer { /* border: 1px solid #ccc; */ max-height: 500px; justify-content: center; object-fit: cover; min-height: 300px; display: inline-block; }
 
 /*imageContainer p {
 	padding: 5px 5px 5px 5px;
