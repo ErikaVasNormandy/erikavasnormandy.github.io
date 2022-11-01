@@ -53,11 +53,13 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
 </div>
 
 
+
 <div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/10222022-bloodborne-beast-embrace1.jpeg" >
-</p>
-    <h3 style=" padding: 5px 5px 5px 5px">Bloodborne-tober VI - Beast's Embrace </h3>
-   <p style="padding: 10px 10px 10px 10px"> ”Those who swear this oath take on a ghastly form and enjoy accentuated transformation effects, especially while wielding a beast weapon."
+    <a target="_self" href="/images/satmorningsoulsborne/10222022-bloodborne-beast-embrace1.jpeg"><p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/10222022-bloodborne-beast-embrace1.jpeg" >
+</p></a>
+    <h3 >Bloodborne-tober VI - Beast's Embrace </h3>
+   <p> <i>”Those who swear this oath take on a ghastly form and enjoy accentuated transformation effects, especially while wielding a beast weapon."</i>
  <br>
     <a href="https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/artwork/2qv4bA"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
@@ -68,10 +70,11 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
 
 
 <div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/10152022-bloodborne-Valtr.jpeg" >
-</p>
+<a target="_self" href="/images/satmorningsoulsborne/10152022-bloodborne-Valtr.jpeg"><p style="float: left;">
+  <img class="inktoberdisplay" src="/images/satmorningsoulsborne/10152022-bloodborne-Valtr.jpeg" >
+</p></a>
     <h3 style=" padding: 5px 5px 5px 5px">Bloodborne-tober III - Valtr </h3>
-   <p style="padding: 10px 10px 10px 10px"> ”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man's impurity.  This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always."
+   <p ><i> ”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man's impurity.  This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always."</i><small></small>
  <br>
     <a href="https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/artwork/zDvEBm"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
