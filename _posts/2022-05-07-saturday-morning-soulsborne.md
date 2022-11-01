@@ -18,17 +18,32 @@ background-image: bloodbornecrow1.jpeg
 
 ---
 
+<style>
+  small{
+    font-size: 10px;
+  }
+
+  </style>
 Every Saturday I try to do an old school looking illustration, either to pretty up my notes or to practice. It started out as Bloodborne since I needed a way to use a concept art book someone gave to me as a gift, but I've branched out into Horizon Zero Dawn and most recently, Elden Ring.
 
 This is a project I started very early into 2020 after deciding that I wanted to get better at drawing the kinds of Victorian/steampunk aesthetics that I had planned for Arda Hyperion. I'd also received the Bloodborne official concept art book, so what better way to kick off a playthrough than going through the book to practice the artwork? 
 
-Now, 2 years later, I'm hoping to scan these up into digital assets so I can start using the to make either actual spellbook or my technical illustrations
+Now, two years later, I'm hoping to scan these up into digital assets so I can start using the to make either actual spellbook or my technical illustrations.
+
 
 <div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg" >
-</p>
-    <h3 style=" padding: 5px 5px 5px 5px"> Eileen the Crow </h3>
-   <p style="padding: 10px 10px 10px 10px"> "The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally..." 
+    <p style="float: left;">
+    <a target="_self" href="/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg">
+    </a>
+    </p>
+  <h2> Eileen the Crow</h2>
+   <p> 
+   <i>"The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally..." </i>
+<br><br>
+<small>
+    Ah the one that sort of kicked it off. We were driving around in some of the smaller towns and backgrounds of rural Washington in search of coffee and pastries while Mom and Dad were still asleep.
+    </small>
  <br>
     <a href="https://www.instagram.com/p/CcIz1DypZET/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
@@ -56,7 +71,7 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
     <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/10152022-bloodborne-Valtr.jpeg" >
 </p>
     <h3 style=" padding: 5px 5px 5px 5px">Bloodborne-tober III - Valtr </h3>
-   <p style="padding: 10px 10px 10px 10px"> ”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man's impurity. All vermin are to be crushed. The League exists to expunge all vermin, ridding us of any trace of human corruption. And so, until we are rid of all vermin, you must continue to hunt and kill. This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always."
+   <p style="padding: 10px 10px 10px 10px"> ”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man's impurity.  This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always."
  <br>
     <a href="https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/artwork/zDvEBm"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
@@ -268,20 +283,6 @@ Now, 2 years later, I'm hoping to scan these up into digital assets so I can sta
    </p>
 </div>
 
-
-<div style="clear: left;" class="imageContainer">
-    <p style="float: left;"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/04092022-bloodbornecrow2.jpg" >
-</p>
-    <h3 style=" padding: 10px 10px 10px 10px"> Eileen the Crow (Details)</h3>
-   <p style="padding: 10px 10px 10px 10px"> I took a snap of this while on our roadtrip up in Washington. I've never been around so much greenery but the overcast weather really added some nice lighting.
-
- <br>
-    <a href="https://www.instagram.com/reel/CcI0Am1JAjt/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
-    <a href="https://www.artstation.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
-    <a href="https://www.deviantart.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
-    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
-   </p>
-</div>
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
       <img class="inktoberdisplay" src="/images/satmorningsoulsborne/07302022-bloodbornevial2n.PNG" /></p>

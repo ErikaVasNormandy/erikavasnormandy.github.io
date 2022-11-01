@@ -33,15 +33,14 @@ background-image: bloodborne-tober-overall.jpg
   margin: auto;
   padding: 20px;
   font-size: 30px;
-    display: grid;
-
-        grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
 }
+
 div.gallery {
   /* border: 1px solid #ccc; */
   width: 60%;
   margin-bottom: 80px;
-
 
   height: 500px;
   display: flex;
