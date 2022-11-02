@@ -108,6 +108,9 @@ width: 10%;
 	}
 
 	body, input, select, textarea {
+		p{
+			font-family: _font(ctrl-family);
+		}
 		color: _palette(fg);
 		/*font-family: _font(ctrl-family);*/
 		 			font-family: "Courier New";
@@ -253,7 +256,7 @@ width: 10%;
 
 /* customization */
 .inner{
-	padding: 10px 10px 10px 10px;
+	// padding: 10px 10px 10px 10px;
 /*	background-color: white;
 	color: black;
 	*/
@@ -361,8 +364,8 @@ width: 10%;
 	}
 
 	#greeting header.major {
-		font-family: "Courier New";
-		padding-top: 20px;
+		// font-family: "Courier New";
+		padding-top: 10px;
 		color: white;
 	}
 
@@ -1298,7 +1301,7 @@ width: 10%;
 
 			header {
 				p {
-				font-family: "Courier New";
+				// font-family: "Courier New";
 					background-color: black;
 
 					color: white;
@@ -1774,8 +1777,8 @@ width: 10%;
 				border-top: solid 1px _palette(accent1, border);
 				margin: 0.5em 0 0 0;
 				padding: 0.5em 0 0 0;
-				/*font-family: _font(ctrl-family);*/
-				font-family: "Courier New";
+				font-family: _font(ctrl-family);
+				// font-family: "Courier New";
 
 				&:first-child {
 					border-top: 0 !important;
@@ -2359,8 +2362,8 @@ width: 10%;
 
 /* font variant */
 	.ui {
-		/*font-family: _font(ctrl-family);*/
-		font-family: "Courier New";
+		font-family: _font(ctrl-family);
+		// font-family: "Courier New";
 	}
 
 /* back/next links in works */
@@ -2413,8 +2416,8 @@ width: 10%;
   	}
   	.btitle {
 
-  	/*	font-family: _font(prose-family);*/
-  			font-family: "Courier New";
+  		font-family: _font(prose-family);
+  			// font-family: "Courier New";
 
   		padding-right: 36px;
   		@include breakpoint(small) {
@@ -2422,8 +2425,8 @@ width: 10%;
   		}
   	}
   	.ntitle {
-  		/*font-family: _font(prose-family);*/
-  		font-family: "Courier New";
+  		font-family: _font(prose-family);
+  		// font-family: "Courier New";
   		padding-left: 32px;
   		@include breakpoint(small) {
   			padding-left: 0;
