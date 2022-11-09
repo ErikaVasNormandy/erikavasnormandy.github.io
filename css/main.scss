@@ -136,15 +136,17 @@ width: 10%;
 			letter-spacing: _size(letter-spacing) * 0.5;
 		}
 	}
-
+//////// MAIN LINK HERE a{ a {
 	a {
 		@include vendor('transition', ('color #{_duration(transitions)} ease', 'border-bottom-color #{_duration(transitions)} ease'));
-		border-bottom: dotted 1px;
+		// border-bottom: dotted 1px;
 		color: white;
 		text-decoration: none;
 
 		&:hover {
-			border-bottom-color: transparent;
+			font-weight: normal;
+			font-size: 100%;
+			text-decoration: underline overline white;
 		}
 	}
 
@@ -1305,7 +1307,7 @@ width: 10%;
 			header {
 				p {
 				// font-family: "Courier New";
-					background-color: black;
+					// background-color: black;
 
 					color: white;
 				}
