@@ -24,7 +24,10 @@ $baseurl: '{{ site.baseurl }}/images';
 width: 10%;
 }
 
-
+.workspan{
+	font-weight: bold;
+	font-size: 120%;
+}
 .inktoberdisplay{
 	max-width: 400px; 
 	max-height: 400px;
