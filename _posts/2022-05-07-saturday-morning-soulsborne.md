@@ -114,8 +114,8 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
     Glad I didn't immediately smack him on finding him in Limgrave but he's got a sly vibe don't he? This week is a bit of a smaller one since I've been busy with Code for America stuff and printing these out on paper : ). I may take a break next week, both to celebrate Thanksgiving with family and friends, and also to work on the shop....
     </small>
  <br>
-    <a href="https://www.instagram.com/p/CcIz1DypZET/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
-    <a href="https://www.artstation.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/4X02N1"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
 </p>
