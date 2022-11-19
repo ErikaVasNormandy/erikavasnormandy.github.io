@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Nov 2022 19:25:36 -0800</pubDate>
-    <lastBuildDate>Fri, 18 Nov 2022 19:25:36 -0800</lastBuildDate>
+    <pubDate>Fri, 18 Nov 2022 20:36:31 -0800</pubDate>
+    <lastBuildDate>Fri, 18 Nov 2022 20:36:31 -0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -358,7 +358,7 @@ function myFunction(imgs) {
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-  &lt;h2&gt; Eileen the Crow&lt;/h2&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt; Eileen the Crow&lt;/h2&gt;
    &lt;p&gt; 
    &lt;i&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; &lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
@@ -377,35 +377,37 @@ function myFunction(imgs) {
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/11182022-stakeofmarika1.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-  &lt;h2&gt;Stake of Marika&lt;/h2&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Stake of Marika&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt; “The stakes honor Queen Marika the Eternal, ruler of the Lands Between.”&lt;/i&gt;
+   &lt;i&gt; “The stakes honor Queen Marika the Eternal, ruler of the Lands Between.&lt;br /&gt;Queen Marika has high hopes for us. That we continue to struggle. Unto eternity.&quot;&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
     I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
     &lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/4X02N1&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/RnvDde&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;/div&gt;
+
 &lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/11182022-stakeofmarika2.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-  &lt;h2&gt;Stake of Marika&lt;/h2&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Limgrave&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt; “The stakes honor Queen Marika the Eternal, ruler of the Lands Between.”&lt;/i&gt;
+   &lt;i&gt; “Stand before the Elden Ring, and become the Elden Lord. If those words held any meaning to you...
+”&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
     I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
     &lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/4X02N1&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/RnvDde&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;/div&gt;
@@ -414,7 +416,7 @@ function myFunction(imgs) {
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/11122022-eldenring-varre.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-  &lt;h2&gt;White Mask Varre&lt;/h2&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;White Mask Varre&lt;/h2&gt;
    &lt;p&gt; 
    &lt;i&gt; “Oh yes... Tarnished, are we? Come to the Lands Between for the Elden Ring, hmm? Of course you have. No shame in it. Unfortunately for you, however, you are maidenless.”&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
@@ -433,7 +435,7 @@ function myFunction(imgs) {
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10222022-bloodborne-beast-embrace1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-    &lt;h3&gt;Bloodborne-tober VI - Beast's Embrace &lt;/h3&gt;
+    &lt;h3 style=&quot;padding-top: 20px&quot;&gt;Bloodborne-tober VI - Beast's Embrace &lt;/h3&gt;
    &lt;p&gt; &lt;i&gt;”Those who swear this oath take on a ghastly form and enjoy accentuated transformation effects, especially while wielding a beast weapon.&quot;&lt;/i&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -447,7 +449,7 @@ function myFunction(imgs) {
 &lt;p style=&quot;float: left;&quot;&gt;
   &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10152022-bloodborne-Valtr.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
 &lt;/p&gt;
-    &lt;h3 style=&quot; padding: 5px 5px 5px 5px&quot;&gt;Bloodborne-tober III - Valtr &lt;/h3&gt;
+    &lt;h3 style=&quot;padding-top: 20px&quot;&gt;Bloodborne-tober III - Valtr &lt;/h3&gt;
    &lt;p&gt;&lt;i&gt; ”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man's impurity.  This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always.&quot;&lt;/i&gt;&lt;small&gt;&lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
