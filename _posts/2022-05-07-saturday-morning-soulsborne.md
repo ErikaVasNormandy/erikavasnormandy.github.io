@@ -108,13 +108,13 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
     </p>
   <h2 style="padding-top: 20px" >A Letter to my Archivist</h2>
    <p> 
-   <i> “The stakes honor Queen Marika the Eternal, ruler of the Lands Between.<br>Queen Marika has high hopes for us. That we continue to struggle. Unto eternity."</i>
+   <i> “But where is Ranni's own Great Rune? As daughter of Rennala, last Queen of Caria and Queen of the Full Moon, pperhaps she hid it on the Moon itself"</i>
 <br><br>
 <small>
-    I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
+    I'm at a loss, I love handwriting but I can't be handwriting all the time... I don't really want to make my own fonts but maybe I need to.
     </small>
  <br>
-    <a href="https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.instagram.com/p/ClbxIwevSLW/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/artwork/RnvDde"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
