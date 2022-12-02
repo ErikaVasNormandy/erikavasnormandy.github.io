@@ -183,7 +183,7 @@ body p, input p, select p, textarea p { font-family: "Open Sans", Helvetica, san
 
 a { -moz-transition: color 0.2s ease, border-bottom-color 0.2s ease; -webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease; -ms-transition: color 0.2s ease, border-bottom-color 0.2s ease; transition: color 0.2s ease, border-bottom-color 0.2s ease; color: white; text-decoration: none; }
 
-a:hover { font-weight: normal; font-size: 100%; text-decoration: underline overline white; }
+a:hover { font-weight: bold; font-size: 90%; text-decoration: white; }
 
 strong, b { color: #fff; font-weight: 600; }
 
