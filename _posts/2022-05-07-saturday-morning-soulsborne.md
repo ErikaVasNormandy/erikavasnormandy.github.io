@@ -102,6 +102,65 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
 </div>
 
 
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/11282022-ranni-printish.jpg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >A Letter to my Archivist</h2>
+   <p> 
+   <i> “The stakes honor Queen Marika the Eternal, ruler of the Lands Between.<br>Queen Marika has high hopes for us. That we continue to struggle. Unto eternity."</i>
+<br><br>
+<small>
+    I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/RnvDde"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/11262022-ranni-print1.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Ranni Print</h2>
+   <p> 
+   <i> Retreating Indoors</i>
+<br><br>
+<small>
+    Here’s the print version I made! Hope your holidays have allowed you to relax somewhat. I took a bit of a break and instead of doing my usual sketch, decided to show a bit of what  I’ve been up to over the break. This is a kind of preview of how these might turn out in print form if I were to sell them. Please let me know what you think of it as something to buy, (comment or dm). I am torn on the amount of printed text, although for some of my real note taking, it’ll just have to be printed since there’s no way I’m hand writing the sheer amount of code blocks required. The paper I know is a strange hue but I managed to get non tinted versions just in. 
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/ClbqzhyOym9/?igshid=YmMyMTA2M2Y%3D"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/RnvDde"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/11182022-stakeofmarika1.jpg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Stake of Marika</h2>
+   <p> 
+   <i> “The stakes honor Queen Marika the Eternal, ruler of the Lands Between.<br>Queen Marika has high hopes for us. That we continue to struggle. Unto eternity."</i>
+<br><br>
+<small>
+    I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/RnvDde"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
