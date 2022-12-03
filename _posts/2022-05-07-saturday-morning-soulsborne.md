@@ -101,6 +101,44 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
 </p>
 </div>
 
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/12032022-starscourgeradahn-full.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Starscourge Radahn</h2>
+   <p> 
+   <i> “Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.”</i>
+<br><br>
+<small>
+   I was amongst many who focused on Malenia when the trailer first dropped, but Radahn’s growing on me character wise. Elden Ring somehow makes a huge troll-like figure riding around on a tiny horse a dramatic boss fight.
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/ClbxIwevSLW/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/g8rd1G"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Starscourge-Radahn-939568773"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/12032022-starscourgeradahn.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Starscourge Radahn</h2>
+   <p> 
+   <i> “Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.”</i>
+<br><br>
+<small>
+   I was amongst many who focused on Malenia when the trailer first dropped, but Radahn’s growing on me character wise. Elden Ring somehow makes a huge troll-like figure riding around on a tiny horse a dramatic boss fight.
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/ClbxIwevSLW/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/g8rd1G"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Starscourge-Radahn-939568773"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
@@ -142,25 +180,6 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
 </p>
 </div>
 
-
-<div style="clear: left;" class="imageContainer">
-    <p style="float: left;">
-    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/11182022-stakeofmarika1.jpg" onclick="myFunction(this);">
-    </p>
-  <h2 style="padding-top: 20px" >Stake of Marika</h2>
-   <p> 
-   <i> “The stakes honor Queen Marika the Eternal, ruler of the Lands Between.<br>Queen Marika has high hopes for us. That we continue to struggle. Unto eternity."</i>
-<br><br>
-<small>
-    I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
-    </small>
- <br>
-    <a href="https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
-    <a href="https://www.artstation.com/artwork/RnvDde"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
-    <a href="https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
-    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
-</p>
-</div>
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
