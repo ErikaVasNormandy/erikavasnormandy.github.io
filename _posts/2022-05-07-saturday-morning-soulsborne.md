@@ -113,7 +113,7 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
    I was amongst many who focused on Malenia when the trailer first dropped, but Radahn’s growing on me character wise. Elden Ring somehow makes a huge troll-like figure riding around on a tiny horse a dramatic boss fight.
     </small>
  <br>
-    <a href="https://www.instagram.com/p/ClbxIwevSLW/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.instagram.com/reel/Cltqbf-IJkO/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/artwork/g8rd1G"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01/art/Starscourge-Radahn-939568773"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
