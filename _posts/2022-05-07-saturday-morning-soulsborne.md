@@ -103,6 +103,26 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/12102022-burialwatchdog.png" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Erdtree Burial Watchdog</h2>
+   <p> 
+   <i> "A living construct fashioned after felines and hounds, made to watch over catacombs. The Watchdogs, battered and broken over their lengthy tenure, rule the catacombs and are even said to command the imps."</i>
+<br><br>
+<small>
+  Wow Elden Ring got Game of the Year!!! I have a soft spot for Horizon Forbidden West, but I can see why Elden Ring won. I'm a bit curious to see where the next Soulsborne game goes, but for now I'm sure we'll all have quite a bit of content to go off for for a while.
+    </small>
+ <br>
+    <a href="https://www.instagram.com/reel/Cltqbf-IJkO/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/g8rd1G"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Starscourge-Radahn-939568773"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
     <img class="inktoberdisplay" src="/images/satmorningsoulsborne/12032022-starscourgeradahn-full.jpeg" onclick="myFunction(this);">
     </p>
   <h2 style="padding-top: 20px" >Starscourge Radahn</h2>
