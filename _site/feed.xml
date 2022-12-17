@@ -5,9 +5,390 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Dec 2022 09:03:06 -0800</pubDate>
-    <lastBuildDate>Sat, 10 Dec 2022 09:03:06 -0800</lastBuildDate>
+    <pubDate>Sat, 17 Dec 2022 09:11:40 -0800</pubDate>
+    <lastBuildDate>Sat, 17 Dec 2022 09:11:40 -0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>A Bloodborne-Tober (2022)</title>
+        <description>&lt;hr /&gt;
+&lt;style&gt;
+  .centertext{  
+    align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+ 
+ .flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container &gt; div {
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+}
+
+div.gallery {
+  /* border: 1px solid #ccc; */
+  width: 60%;
+  margin-bottom: 80px;
+
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+  .gallery &gt;* {
+        flex: 1 1 80px;
+    }
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.main{
+  /* background-color: red; */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+div.main img{
+
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+div.gallery img {
+  /* width: 100%;
+  height: auto; */
+  width: 300px; 
+  height: 337px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+ @media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 80%;
+  }
+} 
+
+.clearfix:after {
+  content: &quot;&quot;;
+  display: table;
+  clear: both;
+}
+&lt;/style&gt;
+
+&lt;p class=&quot;centertext&quot; align=&quot;center&quot;&gt;
+&quot;Farewell, good hunter. May you find your worth in the waking world.&quot;
+&lt;/p&gt;
+&lt;div class=&quot;main&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg&quot; alt=&quot;Cinque Terre&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-container&quot;&gt;
+
+
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-a.jpeg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-b.jpeg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-b.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-container&quot;&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-b.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-b.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-container&quot;&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-d.jpeg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-d.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-b.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-b.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/ArcaneNeon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/ArcaneNeon.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Arcane Ink</title>
+        <description>&lt;hr /&gt;
+&lt;style&gt;
+
+    small{
+    font-size: 10px;
+  }
+  .social-media-icons {
+    width: 20px;
+  }
+  .centertext{  
+    align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+ 
+ .flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container &gt; div {
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+}
+
+div.gallery {
+  /* border: 1px solid #ccc; */
+  width: 60%;
+  margin-bottom: 80px;
+
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+  .gallery &gt;* {
+        flex: 1 1 80px;
+    }
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.main{
+  /* background-color: red; */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+div.main img{
+
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+/* div.gallery img 
+
+*/
+
+.displayImage{
+  /* width: 100%;
+  height: auto; */
+  width: 300px; 
+  height: 337px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+ @media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 80%;
+  }
+} 
+
+.clearfix:after {
+  content: &quot;&quot;;
+  display: table;
+  clear: both;
+}
+&lt;/style&gt;
+
+&lt;p class=&quot;centertext&quot; align=&quot;center&quot;&gt;
+Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
+&lt;/p&gt;
+&lt;!-- &lt;div class=&quot;main&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/12-15-2022-april2.png&quot;&gt;
+    &lt;img src=&quot;/images/arcaneink/12-15-2022-april2.png&quot; alt=&quot;Cinque Terre&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;div class=&quot;flex-container&quot;&gt;
+
+
+
+
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/12-15-2022-april1.png&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/12-15-2022-april1.png&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;br /&gt;
+&lt;div class=&quot;desc&quot;&gt;
+    &lt;small&gt;Dec 17, 2022&lt;br /&gt;&lt;i&gt;&quot;Wednesday's child is full of woe...&quot;&lt;/i&gt;&lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; 
+    
+&lt;/small&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt; --&gt;
+&lt;!-- &lt;/div&gt; --&gt;
+&lt;!-- &lt;/div&gt; --&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 14 Dec 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/ArcaneInk.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/ArcaneInk.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
     
       <item>
         <title>A Bloodborne-Tober (2022)</title>
@@ -385,9 +766,9 @@ function myFunction(imgs) {
   Wow Elden Ring got Game of the Year!!! I have a soft spot for Horizon Forbidden West, but I can see why Elden Ring won. I'm a bit curious to see where the next Soulsborne game goes, but for now I'm sure we'll all have quite a bit of content to go off for for a while.
     &lt;/small&gt;
  &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/reel/Cltqbf-IJkO/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/g8rd1G&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Starscourge-Radahn-939568773&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/3q5wPA&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;/div&gt;
