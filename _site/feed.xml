@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Dec 2022 09:11:40 -0800</pubDate>
-    <lastBuildDate>Sat, 17 Dec 2022 09:11:40 -0800</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2022 12:37:47 -0800</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2022 12:37:47 -0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -756,6 +756,26 @@ function myFunction(imgs) {
 
 &lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
     &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/12242022-generalradahn.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;General Radahn (Pre-Scarlet Rot Madness)&lt;/h2&gt;
+   &lt;p&gt; 
+   &lt;i&gt; &quot;Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.&quot;&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;small&gt;Not much for today, I’m in the flurry of holidays. Hopefully you are too, but if not, maybe General Radahn pre-Scarlet Rot Madness can uplift you.
+
+ 
+    &lt;/small&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/3q5wPA&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/12102022-burialwatchdog.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Erdtree Burial Watchdog&lt;/h2&gt;
@@ -779,7 +799,8 @@ function myFunction(imgs) {
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Starscourge Radahn&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt; “Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.”&lt;/i&gt;
+   &lt;i&gt; &quot;Radahn was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika.
+The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
    I was amongst many who focused on Malenia when the trailer first dropped, but Radahn’s growing on me character wise. Elden Ring somehow makes a huge troll-like figure riding around on a tiny horse a dramatic boss fight.
