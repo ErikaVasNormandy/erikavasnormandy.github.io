@@ -5,9 +5,28 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Dec 2022 09:18:41 -0800</pubDate>
-    <lastBuildDate>Sat, 24 Dec 2022 09:18:41 -0800</lastBuildDate>
+    <pubDate>Fri, 30 Dec 2022 17:52:17 -0800</pubDate>
+    <lastBuildDate>Fri, 30 Dec 2022 17:52:17 -0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Tales From The Leyline Road</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/comic/ChristmasEpisode/0-cover.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/comic/ChristmasEpisode/1.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
+&lt;img src=&quot;/images/comic/ChristmasEpisode/2.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
+&lt;img src=&quot;/images/comic/ChristmasEpisode/3.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
+&lt;img src=&quot;/images/comic/ChristmasEpisode/4.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
+&lt;img src=&quot;/images/comic/ChristmasEpisode/5.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Dec 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/talesfromtheleylineroad-christmas.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/talesfromtheleylineroad-christmas.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
     
       <item>
         <title>A Bloodborne-Tober (2022)</title>
@@ -203,8 +222,8 @@ div.desc {
 
 </description>
         <pubDate>Wed, 14 Dec 2022 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/ArcaneNeon.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/ArcaneNeon.html</guid>
+        <link>http://localhost:4000/works/arcane-neon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/arcane-neon.html</guid>
         
         
         <category>works</category>
@@ -382,8 +401,8 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 14 Dec 2022 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/ArcaneInk.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/ArcaneInk.html</guid>
+        <link>http://localhost:4000/works/arcane-ink.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/arcane-ink.html</guid>
         
         
         <category>works</category>
@@ -1444,28 +1463,6 @@ They need each other.&lt;/p&gt;
         
         
         <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Test Post</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;You can use the following includes in the body of your posts as shortcuts
-for blocks of code that you might otherwise use repetitively. These are
-also helpful if you or I decide to change the method that the content is
-presented; we’d need only change the include file.&lt;/p&gt;
-
-&lt;h2 id=&quot;media-embeds&quot;&gt;Media embeds&lt;/h2&gt;
-
-&lt;p&gt;hm alright&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Feb 2022 13:34:22 -0800</pubDate>
-        <link>http://localhost:4000/topics/test-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/test-post.html</guid>
-        
-        
-        <category>topics</category>
         
       </item>
     
