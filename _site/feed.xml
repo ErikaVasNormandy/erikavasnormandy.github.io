@@ -5,69 +5,222 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Jan 2023 17:12:57 -0800</pubDate>
-    <lastBuildDate>Sat, 14 Jan 2023 17:12:57 -0800</lastBuildDate>
+    <pubDate>Sat, 21 Jan 2023 09:07:21 -0800</pubDate>
+    <lastBuildDate>Sat, 21 Jan 2023 09:07:21 -0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>Send Off to 2022!</title>
-        <description>&lt;style&gt;
-  img {
+        <title>Star Wars - Bad Batch</title>
+        <description>&lt;hr /&gt;
+&lt;style&gt;
+      small{
+    font-size: 10px;
+  }
+  .centertext{  
+    align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+ 
+ .flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container &gt; div {
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+}
+
+div.gallery {
+  /* border: 1px solid #ccc; */
+  width: 60%;
+  margin-bottom: 80px;
+
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+  .gallery &gt;* {
+        flex: 1 1 80px;
+    }
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.main{
+  /* background-color: red; */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+div.main img{
+
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+div.gallery img {
+  /* width: 100%;
+  height: auto; */
+  width: 300px; 
+  height: 337px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
   float: left;
-  margin-right: 20px;
+  width: 24.99999%;
 }
-a {
-    color: lightgrey ;
-    text-decoration: underline;
+
+ @media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
 }
-  &lt;/style&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/satmorningsoulsborne/12312022-send-off-for-2022.png&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 80%;
+  }
+} 
 
-&lt;p&gt;I hope this won’t become a curse. This year had its ups and downs (yay roaring 20s). I  am surprised and flattered at how much my Saturday Mornin Soulsborne/Sketching/Scribbles/Scrawling you all seem to enjoy so much, particularly when I don’t have many artsy people in my immediate circles and colleagues. 
-&lt;/p&gt;
-&lt;p&gt;I suppose we can all agree to really enjoy how vivid the Elden Ring and Bloodborne worlds are (although my personal #1 is actually Sekiro haha). I'm not too sure who the people are that &quot;follow&quot; me, and it always feels a little weird fixating on that kind of stuff although the analytical part of me certainly does that. I appreciate y'all tossing me the likes 'n views my way; I've always drawn or at least doodled in the margins of my notes, but I feel like for the first time since I actually rally started drawing &quot;pro&quot;, people have really started take my art-side more seriously. 
-&lt;br /&gt;
-&lt;br /&gt;
-I have some plans, I already have a few pieces that I've printed out in digital form. I'm making a font that I can properly customize since I feel like this was part of the charm of a lot of these pieces. I guess I technically have a lot of these on &lt;strong&gt;&lt;a href=&quot;https://www.redbubble.com/people/Technomancer-01&quot;&gt;Redbubble&lt;/a&gt;&lt;/strong&gt;, but huzzah! I've taken a leap and started an  &lt;strong&gt;&lt;a href=&quot;https://www.etsy.com/shop/Technomancer01&quot;&gt;Etsy&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;https://ko-fi.com/technomancer_01&quot;&gt;Ko-Fi&lt;/a&gt;&lt;/strong&gt;!
-&lt;br /&gt;
-&lt;br /&gt;
-Alright, so Etsy shop, cyber notes, stickers, webcomic, Code for San Jose, gaming, cosplay, sigh it's a lot. I'll figure it out though.
+.clearfix:after {
+  content: &quot;&quot;;
+  display: table;
+  clear: both;
+}
+&lt;/style&gt;
 
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+&lt;p class=&quot;centertext&quot; align=&quot;center&quot;&gt;
+&quot;The Bad Batch, formerly known as Clone Force 99, and designated as Experimental Unit Clone Force 99, was a clone commando special forces squad that was active during the Clone Wars.&quot; &lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
+&lt;!-- &lt;div class=&quot;main&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg&quot; alt=&quot;Cinque Terre&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
 
-&lt;/p&gt;
+&lt;div class=&quot;flex-container&quot;&gt;
+
+
+
+
+
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/2023-01-2023-starwars-crosshair.png&quot;&gt;
+    &lt;img src=&quot;/images/arcaneink/2023-01-2023-starwars-crosshair.png&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt; &lt;small&gt;January 21, 2023&lt;br /&gt;&lt;i&gt;&quot;You’re still their brother Crosshair. And you’re mine too.&quot;&lt;/i&gt;&lt;/small&gt;
+  
+  
+  &lt;/div&gt;
+
+
+
+  
+  
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot;&gt;
+    &lt;img src=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt; &lt;small&gt;January 7, 2023&lt;br /&gt;&lt;i&gt;&quot;Blind allegiance makes you a pawn. A real leader protects his squad.&quot;&lt;/i&gt;&lt;/small&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;div class=&quot;flex-container&quot;&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;flex-container&quot;&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot; &gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot;  alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;
+    &lt;small&gt;January 7, 2023&lt;br&gt;&lt;i&gt;&quot;You’re still their brother Crosshair. And you’re mine too.&quot;&lt;/i&gt;&lt;br&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; 
+    &lt;/small&gt;
+  
+  
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot; &gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot;  alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;
+    &lt;small&gt;January 7, 2023&lt;br&gt;&lt;i&gt;&quot;Blind allegiance makes you a pawn. A real leader protects his squad.&quot;&lt;/i&gt;&lt;br&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; 
+    &lt;/small&gt;
+  &lt;/div&gt;
+&lt;/div&gt; --&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Sat, 31 Dec 2022 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/topics/send-off-to-2022.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/send-off-to-2022.html</guid>
-        
-        
-        <category>topics</category>
-        
-      </item>
-    
-      <item>
-        <title>Tales From The Leyline Road</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/comic/ChristmasEpisode/0-cover.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/comic/ChristmasEpisode/1.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
-&lt;img src=&quot;/images/comic/ChristmasEpisode/2.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
-&lt;img src=&quot;/images/comic/ChristmasEpisode/3.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
-&lt;img src=&quot;/images/comic/ChristmasEpisode/4.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
-&lt;img src=&quot;/images/comic/ChristmasEpisode/5.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 Dec 2022 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/talesfromtheleylineroad-christmas.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/talesfromtheleylineroad-christmas.html</guid>
+        <pubDate>Sat, 21 Jan 2023 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/arcane-ink-starwars-bad-batch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/arcane-ink-starwars-bad-batch.html</guid>
         
         
         <category>works</category>
@@ -267,7 +420,7 @@ div.desc {
 &lt;/div&gt;
 
 </description>
-        <pubDate>Wed, 14 Dec 2022 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 15 Jan 2023 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/works/arcane-neon.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/arcane-neon.html</guid>
         
@@ -407,23 +560,6 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
 
 
 
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;
-    &lt;small&gt;January 7, 2023&lt;br /&gt;&lt;i&gt;&quot;Blind allegiance makes you a pawn. A real leader protects his squad.&quot;&lt;/i&gt;&lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; 
-    &lt;/small&gt;
-  
-  
-  
-  &lt;/div&gt;
-&lt;/div&gt;
 
 
 
@@ -450,7 +586,11 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
     &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
   &lt;/a&gt;
   
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br /&gt;&lt;i&gt;&quot;Horizon Zero Dawn&quot;&lt;/i&gt;&lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;!-- &lt;div class=&quot;gallery&quot;&gt;
@@ -463,9 +603,74 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
 
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 14 Dec 2022 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 14 Jan 2023 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/works/arcane-ink.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/arcane-ink.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Send Off to 2022!</title>
+        <description>&lt;style&gt;
+  img {
+  float: left;
+  margin-right: 20px;
+}
+a {
+    color: lightgrey ;
+    text-decoration: underline;
+}
+  &lt;/style&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/satmorningsoulsborne/12312022-send-off-for-2022.png&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I hope this won’t become a curse. This year had its ups and downs (yay roaring 20s). I  am surprised and flattered at how much my Saturday Mornin Soulsborne/Sketching/Scribbles/Scrawling you all seem to enjoy so much, particularly when I don’t have many artsy people in my immediate circles and colleagues. 
+&lt;/p&gt;
+&lt;p&gt;I suppose we can all agree to really enjoy how vivid the Elden Ring and Bloodborne worlds are (although my personal #1 is actually Sekiro haha). I'm not too sure who the people are that &quot;follow&quot; me, and it always feels a little weird fixating on that kind of stuff although the analytical part of me certainly does that. I appreciate y'all tossing me the likes 'n views my way; I've always drawn or at least doodled in the margins of my notes, but I feel like for the first time since I actually rally started drawing &quot;pro&quot;, people have really started take my art-side more seriously. 
+&lt;br /&gt;
+&lt;br /&gt;
+I have some plans, I already have a few pieces that I've printed out in digital form. I'm making a font that I can properly customize since I feel like this was part of the charm of a lot of these pieces. I guess I technically have a lot of these on &lt;strong&gt;&lt;a href=&quot;https://www.redbubble.com/people/Technomancer-01&quot;&gt;Redbubble&lt;/a&gt;&lt;/strong&gt;, but huzzah! I've taken a leap and started an  &lt;strong&gt;&lt;a href=&quot;https://www.etsy.com/shop/Technomancer01&quot;&gt;Etsy&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;https://ko-fi.com/technomancer_01&quot;&gt;Ko-Fi&lt;/a&gt;&lt;/strong&gt;!
+&lt;br /&gt;
+&lt;br /&gt;
+Alright, so Etsy shop, cyber notes, stickers, webcomic, Code for San Jose, gaming, cosplay, sigh it's a lot. I'll figure it out though.
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Dec 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/topics/send-off-to-2022.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/send-off-to-2022.html</guid>
+        
+        
+        <category>topics</category>
+        
+      </item>
+    
+      <item>
+        <title>Tales From The Leyline Road</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/comic/ChristmasEpisode/0-cover.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/comic/ChristmasEpisode/1.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
+&lt;img src=&quot;/images/comic/ChristmasEpisode/2.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
+&lt;img src=&quot;/images/comic/ChristmasEpisode/3.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
+&lt;img src=&quot;/images/comic/ChristmasEpisode/4.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;
+&lt;img src=&quot;/images/comic/ChristmasEpisode/5.png&quot; width=&quot;940&quot; /&gt; &amp;lt;/img&amp;gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Dec 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/talesfromtheleylineroad-christmas.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/talesfromtheleylineroad-christmas.html</guid>
         
         
         <category>works</category>
@@ -1500,40 +1705,6 @@ They need each other.&lt;/p&gt;
         <category>topics</category>
         
         <category>horizon zero dawn</category>
-        
-      </item>
-    
-      <item>
-        <title>Valentines Day - Tales From the Leyline Road Dating Simulator</title>
-        <description>&lt;p&gt;Well, at least they’re practical gifts right?&lt;/p&gt;
-
-&lt;!-- ![Find it on Artstation and Instagram](https://cdnb.artstation.com/p/assets/images/images/046/239/297/large/technomancer-01-asset.jpg?1644614091=100x20) --&gt;
-
-&lt;!-- ![full image is on IG and Artstation](/images/post-images/TFLR-Valentine2022.PNG)
- --&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/post-images/TFLR-Valentine2022.PNG&quot; width=&quot;850&quot; height=&quot;950&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m not really sure who would be the safest option here out of these three assholes, I was going to say Laz but she can pull your browsing history, scrape your ethernet wires, sniff out whatever caches are left on your clipboard memory x_x&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/post-images/TFLR-valentine-Gene.PNG&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/post-images/TFLR-valentine-Jazz.PNG&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/post-images/TFLR-valentine-laz.jpg&quot; class=&quot;worksdisplay&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;posted-here&quot;&gt;Posted Here:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.artstation.com/artwork/eJxXz3&quot;&gt;Artstation&lt;/a&gt;
-&lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Fragged-Empire-Valentine-Dating-Simulator-906688574&quot;&gt;Deviantart&lt;/a&gt;
-&lt;a href=&quot;https://tapas.io/series/Fragged-Empire-Tales-From-the-Leyline-Road/info&quot;&gt;Tapas&lt;/a&gt;
-&lt;a href=&quot;https://www.instagram.com/technomancer_01/&quot;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/post-images/TFLR-Valentine-3.PNG&quot; width=&quot;850&quot; height=&quot;650&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 11 Feb 2022 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/Tales-From-The-Leyline-Road/Fragged-Dating-Simulator</link>
-        <guid isPermaLink="true">http://localhost:4000/Tales-From-The-Leyline-Road/Fragged-Dating-Simulator</guid>
-        
-        
-        <category>topics</category>
         
       </item>
     
