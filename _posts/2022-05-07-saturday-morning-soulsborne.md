@@ -101,6 +101,47 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
 </p>
 </div>
 
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/01282023-Rykard-Rune.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Rykard's Rune</h2>
+   <p> 
+   <i> "A Great Rune of the shardbearer Rykard. Rykard was amongst the children of Rennala and Radago, who became demigod stepchildren after Radagon's union with the Queen Marika. But Rykard fed himself to the blasphemous serpent, Great Rune and all."</i>
+<br><br>
+<small>
+
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/CnZ1TqbpnlS/?igshid=YmMyMTA2M2Y= "><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/145yYZ"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/01282023-Rykard2.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Rykard, the Lord of Blasphemy</h2>
+   <p> 
+   <i> "Praetor Rykard is the Lord of the Volcano Manor on Mt. Gelmir. He is a ruthless justiciar who commands a company of inquisitors, reviled for his serpentine demeanour. Rykard has commited the grave sin of blasphemy. Marking himself as an enemy, never to be forgiven."</i>
+<br><br>
+<small>
+
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/CnZ1TqbpnlS/?igshid=YmMyMTA2M2Y= "><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/145yYZ"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
+
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">

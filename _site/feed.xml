@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Jan 2023 09:07:21 -0800</pubDate>
-    <lastBuildDate>Sat, 21 Jan 2023 09:07:21 -0800</lastBuildDate>
+    <pubDate>Sat, 28 Jan 2023 08:58:59 -0800</pubDate>
+    <lastBuildDate>Sat, 28 Jan 2023 08:58:59 -0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -1037,6 +1037,44 @@ function myFunction(imgs) {
     &lt;a href=&quot;https://www.instagram.com/p/CcIz1DypZET/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard-Rune.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Rykard's Rune&lt;/h2&gt;
+   &lt;p&gt; 
+   &lt;i&gt; &quot;A Great Rune of the shardbearer Rykard. Rykard was amongst the children of Rennala and Radago, who became demigod stepchildren after Radagon's union with the Queen Marika. But Rykard fed himself to the blasphemous serpent, Great Rune and all.&quot;&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;small&gt;
+
+    &lt;/small&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CnZ1TqbpnlS/?igshid=YmMyMTA2M2Y= &quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/145yYZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Rykard, the Lord of Blasphemy&lt;/h2&gt;
+   &lt;p&gt; 
+   &lt;i&gt; &quot;Praetor Rykard is the Lord of the Volcano Manor on Mt. Gelmir. He is a ruthless justiciar who commands a company of inquisitors, reviled for his serpentine demeanour. Rykard has commited the grave sin of blasphemy. Marking himself as an enemy, never to be forgiven.&quot;&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;small&gt;
+
+    &lt;/small&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CnZ1TqbpnlS/?igshid=YmMyMTA2M2Y= &quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/145yYZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;/div&gt;
