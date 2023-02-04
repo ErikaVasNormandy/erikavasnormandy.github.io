@@ -101,6 +101,28 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
 </p>
 </div>
 
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/2023-02-04-Melina-Part.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Kindling Maiden</h2>
+   <p> 
+   <i> "O Erdtree, you shall burn. Burn, for the sake of the new Lord. Thank you. For guiding me here. The one who walks alongside flame, Shall one day meet the road of Destined Death.Good-bye."</i>
+<br><br>
+<small>
+    Kindling Maiden
+
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/CnZ1TqbpnlS/?igshid=YmMyMTA2M2Y= "><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/145yYZ"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
     <img class="inktoberdisplay" src="/images/satmorningsoulsborne/01282023-Rykard-Rune.jpeg" onclick="myFunction(this);">
