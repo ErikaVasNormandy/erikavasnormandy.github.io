@@ -45,7 +45,7 @@ greeting:
   #engineering, and even some of my HAM Radio attempts make it in. If they're willing to learn, tech should be accessible to 
   #more people, even if they don't fall in a neat silo of what people usually think of." 
     # - displayed at the bottom
-closing-head: See You in MeatSpace.
+closing-head: See You in MeatSpace
 closing-para: < fin />
 
 # on all pages (and the first three you list display with greeting, if included)
@@ -96,7 +96,7 @@ social:
   #amazon:
 
 # - title for your blog's featured posts
-features-title: Topics
+features-title: Featured
 
 # if you use this repo's `ruby compose.rb` script to initiate new posts, put the
 # command to invoke your editor here. (I didn't spend time dealing with spaces
