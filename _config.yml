@@ -36,6 +36,7 @@ google-analytics: G-8G33H0R5HV
 # - set the greeting only if you want to display the first green section
 greeting:
   # title: What're You Here For?
+
   # title:  Saturday Morning Soulsborne * Tales From the Leyline Road * Cybernomicon
  # text: <p><a href="https://technomancer-01.com/works/saturday-morning-soulsborne.html">Saturday Morning Soulsborne</a></p><p><a href="https://technomancer-01.com">Tales From the Leyline Road</a></p><a href="https://technomancer-01.com">Cybernomicon</a>
   # text: "I am Erika Hudiono, an illustrator, programmer, and webcomic author. 
@@ -96,7 +97,7 @@ social:
   #amazon:
 
 # - title for your blog's featured posts
-features-title: Featured
+features-title: What're You Here For?
 
 # if you use this repo's `ruby compose.rb` script to initiate new posts, put the
 # command to invoke your editor here. (I didn't spend time dealing with spaces

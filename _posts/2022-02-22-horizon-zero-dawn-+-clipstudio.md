@@ -1,5 +1,5 @@
 ---
-title: Horizon Zero Dawn + ClipStudio
+title: Trying ClipStudio with Horizon Zero Dawn + ClipStudio
 excerpt: First ClipStudio exercise + some Horizon Zero Dawn fanart
 author: technomancer-01
 permalink: /topics/horizon zero dawn/

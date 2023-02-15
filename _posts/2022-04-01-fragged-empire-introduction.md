@@ -2,7 +2,7 @@
 title: Fragged Empire Introduction
 excerpt: Comicization of Fragged's intro
 priority: 1
-tags: featured
+# tags: featured
 author: technomancer-01
 permalink: /Tales-From-The-Leyline-Road/Fragged-Empire-Introduction
 categories:
