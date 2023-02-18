@@ -72,7 +72,7 @@ Every Saturday I try to do an old school looking illustration, either to pretty 
 
 This is a project I started very early into 2020 after deciding that I wanted to get better at drawing the kinds of Victorian/steampunk aesthetics that I had planned for Arda Hyperion. I'd also received the Bloodborne official concept art book, so what better way to kick off a playthrough than going through the book to practice the artwork? 
 
-Now, two years later, I'm hoping to scan these up into digital assets so I can start using the to make either actual spellbook or my technical illustrations.
+Now, three years later, I'm hoping to scan these up into digital assets so I can start using the to make either actual spellbook or my technical illustrations.
 
 <div class="container">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
@@ -97,6 +97,27 @@ Now, two years later, I'm hoping to scan these up into digital assets so I can s
     <a href="https://www.instagram.com/p/CcIz1DypZET/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/2023-02-18-malenia.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Goddess of Rot</h2>
+   <p> 
+   <i> "I dreamt for so long. My flesh was dull gold...and my blood, rotted. Corpse after corpse, left in my wake... As I awaited... his return ...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat."</i>
+<br><br>
+<small>
+  The scarlet flowers bloom once more.
+
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/Coz8rBgpYtk/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/XgemJ3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
 </p>
 </div>
