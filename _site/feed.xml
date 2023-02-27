@@ -5,9 +5,47 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Feb 2023 10:19:27 -0800</pubDate>
-    <lastBuildDate>Sat, 18 Feb 2023 10:19:27 -0800</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2023 13:21:09 -0800</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2023 13:21:09 -0800</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>commissions</title>
+        <description>&lt;style&gt;
+  img {
+  float: left;
+  margin-right: 20px;
+}
+a {
+    color: lightgrey ;
+    text-decoration: underline;
+}
+  &lt;/style&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/commissions/Julianna-Rest-Giver/full.png&quot; width=&quot;50%&quot; /&gt;
+&lt;i&gt;
+“Julianna, The Rest Giver” 
+&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;A Dreamer of The Madland Dreamscape. Knighted as a granter of True Rest, she holds the knowledge to cease the long-lived and bring an earned resolution to those who yearn for it.”&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you for trusting me to bring your stories to life, my original reason for picking up drawing was to add visual elements to the rpg and fantasy worlds our friend group would play in. Best of luck on the stories!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 27 Feb 2023 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/commissions.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/commissions.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
     
       <item>
         <title>Star Wars - Bad Batch</title>
@@ -1717,54 +1755,6 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
         <guid isPermaLink="true">http://localhost:4000/works/saturday-morning-soulsborne.html</guid>
         
         <category>featured</category>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Fragged Empire Introduction</title>
-        <description>&lt;p&gt;Comic version of Fragged Empire’s introduction in the original core rulebook.&lt;/p&gt;
-
-&lt;p&gt;It is over 10,000 years into the future.
-Earth is forgotten.
-Humanity is dead.
-Genetic erosion, brought on by thousands of years of apathy.
-You are one of many genetically engineered descendants.
-Created by the eugenicist Archons (humanity’s heirs), or the vengeful monster X’ion.
-A genocidal war has ravaged the known galaxy.
-X’ion won, killing the Archons, destroying their empire, and then abandoning his army to vanish without a trace. This event threw the galaxy into 100 years of brutal tribalism.
-After 100 years, your people have just re-entered space.
-No one knows what’s out there.
-Four surviving races have banded together.
-Not out of a common direction, but out of necessity. No one knows where this new society is headed.
-Each race is struggling for survival.
-They need each other.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;It actually captures the setting pretty well without inundating newcomers with too much information. I’d say the only thing I’d add is maybe a Cowboy Bebop vibe to it. It’s also sort of the intro for my own comic since it’s kind of hard to understand without getting to know the setting first, but feel free to use it for any newcomers to the game!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/comic/Intro/FraggedIntro01.jpg&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/comic/Intro/FraggedIntro02.jpg&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/comic/Intro/FraggedIntro03.jpg&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/comic/Intro/FraggedIntro04.jpg&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/comic/Intro/FraggedIntro05.jpg&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/comic/Intro/FraggedIntro06.jpg&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/comic/Intro/FraggedIntro07.jpg&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/comic/Intro/FraggedIntro08.jpg&quot; class=&quot;worksdisplay&quot; /&gt;
-&lt;img src=&quot;/images/comic/Intro/FraggedIntro09.jpg&quot; class=&quot;worksdisplay&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;posted-here&quot;&gt;Posted Here:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.artstation.com/artwork/9N5a0a&quot;&gt;Artstation&lt;/a&gt;
-&lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Tales-From-the-Leyline-Road-Intro-01-904572732&quot;&gt;Deviantart&lt;/a&gt;
-&lt;a href=&quot;https://tapas.io/series/Fragged-Empire-Tales-From-the-Leyline-Road/info&quot;&gt;Tapas&lt;/a&gt;
-&lt;a href=&quot;https://www.instagram.com/technomancer_01/&quot;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 01 Apr 2022 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/Tales-From-The-Leyline-Road/Fragged-Empire-Introduction</link>
-        <guid isPermaLink="true">http://localhost:4000/Tales-From-The-Leyline-Road/Fragged-Empire-Introduction</guid>
         
         
         <category>works</category>
