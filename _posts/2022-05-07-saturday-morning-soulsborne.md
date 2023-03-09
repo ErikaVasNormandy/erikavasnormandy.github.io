@@ -102,6 +102,32 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
 </div>
 
 
+
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/03022023-RanniBlue.png" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px" >Ranni</h2>
+   <p> 
+   <i> This doll's body is not without its hindrances...I shall soon enter my slumber.And it will be some time before I wake.Still, I have high hopes for thee.I look forward to the good news when I arise.”
+</i>
+<br><br>
+<small>
+
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/CpX_usQuIZt/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/m8DmN8"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Ranni-Portrait-952123155"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
+
+
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
     <img class="inktoberdisplay" src="/images/satmorningsoulsborne/2023-02-18-malenia.jpeg" onclick="myFunction(this);">
