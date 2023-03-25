@@ -143,25 +143,34 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
 
 
 
+<div class="gallery">
+  <a target="_blank" href="/images/arcaneink/2023-03-25-thelastofus.png" >
+    <img class="displayImage" src="/images/arcaneink/2023-03-25-thelastofus.png"  alt="Forest" width="600" height="400">
+  </a>
+  
+  <div class="desc"><small>Mar 25, 2023<br><i>"The Last of Us"</i><br>
+ <a href="https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+     <a href="https://www.artstation.com/artwork/b59Kqm"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a> </small></div>
+</div>
 
 
 
 
 <div class="gallery">
-  <a target="_blank" href="/images/arcaneink/12-15-2022-april1.png" >
+  <a target="_blank" href="/images/banner-horizon-zero-dawn.jpg" >
     <img class="displayImage" src="/images/arcaneink/12-15-2022-april1.png"  alt="Forest" width="600" height="400">
   </a>
-  <br>
-<div class="desc">
-    <small>Dec 17, 2022<br><i>"Wednesday's child is full of woe..."</i><br>
-    <a href="https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
-    <a href="https://www.artstation.com/artwork/b59Kqm"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+  
+  <div class="desc"><small>Dec 17, 2022<br><i>"Wednesday's child is full of woe..."</i><br>
+ <a href="https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+     <a href="https://www.artstation.com/artwork/b59Kqm"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
-    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a> 
-    </small>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a> </small></div>
 </div>
 
-</div>
+
 
 
 
