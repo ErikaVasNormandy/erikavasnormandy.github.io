@@ -101,6 +101,25 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
 </p>
 </div>
 
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/2023-04-01-Sekiro.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px">Sekiro</h2>
+   <p> 
+   <i>"If you hesitate you’ll be swept away… and lose the battle. That’s right. Best you keep it in mind. Sekiro. Hesitate and you lose. Don’t forget, Sekiro. Hesitate, and you lose… That is the way of war." </i>
+<br><br>
+<small>
+   My favorite Soulsborne game was actually... SEKIRO. 
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/CcIz1DypZET/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/LR45Dr"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Sekiro-956137112"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
 
 
 
