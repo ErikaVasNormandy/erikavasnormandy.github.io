@@ -101,6 +101,65 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
 </p>
 </div>
 
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230513-marika-full.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px">Marika - Revisted</h2>
+   <p> 
+   <i>"Hear me, Demigods. My children beloved. Make of thyself that which ye desire. Be it a Lord, Be it a God. But should y e fail to become aught at all, ye will be forsaken. Amounting only to Sacrifices… "</i>
+<br><br>
+<small>
+    Remember that Marika piece from way back? I finally got around to cleaning it up and printing it out in greeting card form.
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/Cqf_nZ3LxZu/?igshid=Mzc1MmZhNjY="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/Dvdwyo"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230513-marika-herself.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px">Marika - Revisted</h2>
+   <p> 
+   <i>"Hear me, Demigods. My children beloved. Make of thyself that which ye desire. Be it a Lord, Be it a God. But should y e fail to become aught at all, ye will be forsaken. Amounting only to Sacrifices… "</i>
+<br><br>
+<small>
+    Remember that Marika piece from way back? I finally got around to cleaning it up and printing it out in greeting card form.
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/Cqf_nZ3LxZu/?igshid=Mzc1MmZhNjY="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/Dvdwyo"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230513-marika-rune.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px">Mending Rune of the Death Prince</h2>
+   <p> 
+   <i>"The Golden Order was created by confining Destined Death. Thus, this new Order will be one of Death restored." </i>
+<br><br>
+<small>
+   What a strange symbol, I did not think to combine these two half wheels.
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/Cqf_nZ3LxZu/?igshid=Mzc1MmZhNjY="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/Dvdwyo"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art On-the-Nature-of-Tarnished-Souls-Marika-962297357"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
     <img class="inktoberdisplay" src="/images/satmorningsoulsborne/2023-04-01-Sekiro.jpeg" onclick="myFunction(this);">
