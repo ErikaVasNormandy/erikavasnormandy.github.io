@@ -1,45 +1,63 @@
 ---
 key: 1
-title: Works
-permalink: /works/
-excerpt: Portfolio of complete (and uncomplete) projects, from Soulsborne sketching to amateur barista-ing to my more technical stuff
-<!-- excerpt: You can find most of my work on Instagram, although I'm looking to actually start selling prints and other things on Etsy and Redbubble. While I am an amateur barista with mostly onion shaped latte art, with the occasional archery session and am in the process of getting my HAM Radio license, I'm focusing on the Cybernomicon, Soulsborne Sketches, and Tales From the Leyline Road. -->
+title: Shop + Commissions
+permalink: /shop/
+excerpt: Character sketches, custom art prints, logos.
 image: pic02.jpg
 background-image: pic02.jpg
 ---
 
 
-{%
-  if site.social.linkedin-square %}
-  <div class="table-wrapper">
-    <table class="alt"><tbody><tr><td style="text-align: center;">Visit my
-    <a target="_blank" href="{{ site.social.linkedin-square }}">LinkedIn profile</a></td>
-    </tr></tbody></table>
-  </div>{%
-  endif %}
-  {%
-  if site.categories.works %}
-  <div class="table-wrapper">
-    <table>
-      <tbody>{%
-        include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
-  %}{%  for work in sorted_list %}
-        <tr>
-          <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
-          <td>{{ work.date | date: "%b %Y" }}</td>
-          <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
-          <td>
-            {% include techlist.html %}
-          </td>
-        </tr>{%
-        endfor %}
-      </tbody>
-    </table>
-  </div>{%
-    if site.works_in_progress %}
-    <div class="works_inprogress">In-progress, more to come.</div>{%
-    endif %}{%
-  endif
-  %}
+<h2>Pricing Chart</h2>
+<table>
+<tr>
+  <th>Step</th>
+  <th>Cost</th>
+  <th>Description</th>
+</tr>
 
-  
+<tr>
+  <td>Brainstorming</td>
+  <td>Free</td>
+  <td>Pitching the drawing, ideas, examples</td>
+</tr>
+
+<tr>
+  <td>Formal Draft (process)</td>
+  <td>25 USD </td>
+  <td>Charcoal + Lighting + Text Placement. I'm thinking I most post this on social media on Mondays just for accountability</td>
+</tr>
+
+<tr>
+  <td>Full Image File(s)</td>
+  <td>75 USD</td>
+  <td>Photo (capture full layout with natural lighting and staged images) delivered by email from archives@technomancer-01.com. This is the culmination of actually drawing the piece + the labor of actually going out to stage the photos</td>
+</tr>
+
+
+<tr>
+  <td>Digital Copy</td>
+  <td>25 USD</td>
+  <td>Digitized version (scan it in, clean it up, and make it available to print)</td>
+</tr>
+
+
+<tr>
+  <td>Parchment Printout</td>
+  <td>25 USD</td>
+  <td>8x11 Cotton Parchment either White or Aged. This requires digital cleanup of the pencil/pen work. Please let me know if you want the pages folded like a page or just a full 8x11 </td>
+</tr>
+
+
+<style>
+  img {
+  float: left;
+  margin-right: 20px;
+}
+a {
+    color: lightgrey ;
+    text-decoration: underline;
+}
+  </style> 
+
+

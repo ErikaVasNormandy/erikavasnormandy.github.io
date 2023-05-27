@@ -2,12 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>http://localhost:4000/</loc>
-      <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+      <lastmod>2023-05-26T22:49:38-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
     </url>
     <url>
-      <loc>http://localhost:4000/works/commissions.html</loc>
+      <loc>http://localhost:4000/works/saturday-morning-soulsborne.html</loc>
+        <lastmod>2023-05-26T00:00:00-07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+      <loc>http://localhost:4000/works/commissions-julianna.html</loc>
         <lastmod>2023-02-27T00:00:00-08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1</priority>
@@ -61,12 +67,6 @@
         <priority>0.9</priority>
     </url>
     <url>
-      <loc>http://localhost:4000/works/saturday-morning-soulsborne.html</loc>
-        <lastmod>2022-05-07T00:00:00-07:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1</priority>
-    </url>
-    <url>
       <loc>http://localhost:4000/Tales-From-The-Leyline-Road/Fragged-Empire-Introduction</loc>
         <lastmod>2022-04-01T00:00:00-07:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -92,55 +92,55 @@
     </url>
     <url>
       <loc>http://localhost:4000/404.html</loc>
-        <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+        <lastmod>2023-05-26T22:49:38-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+        <lastmod>2023-05-26T22:49:38-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+        <lastmod>2023-05-26T22:49:38-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact/</loc>
-        <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+        <lastmod>2023-05-26T22:49:38-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/credits/</loc>
-        <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+        <lastmod>2023-05-26T22:49:38-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/</loc>
-        <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+        <lastmod>2023-05-26T22:49:38-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-      <loc>http://localhost:4000/works/</loc>
-        <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+      <loc>http://localhost:4000/shop/</loc>
+        <lastmod>2023-05-26T22:49:38-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/topics/</loc>
-        <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+        <lastmod>2023-05-26T22:49:38-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/works/</loc>
-        <lastmod>2023-05-20T10:07:36-07:00</lastmod>
+        <lastmod>2023-05-26T22:49:38-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>

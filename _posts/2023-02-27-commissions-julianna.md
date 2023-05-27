@@ -1,5 +1,5 @@
 ---
-title: Commissions
+title: Commissions - Julianna The Rest Giver
 excerpt: Quick chart on prices and such. Feel free to dm me for brainstorming though!
 priority: 1
 author: technomancer-01
@@ -17,7 +17,7 @@ background-image: commissions/Julianna-Rest-Giver/full.png
   margin-right: 20px;
 }
 a {
-    color: lightgrey ;
+    color: lightgrey;
     text-decoration: underline;
 }
   </style>
@@ -28,7 +28,7 @@ a {
 <br>
 
 <i>A Dreamer of The Madland Dreamscape. Knighted as a granter of True Rest, she holds the knowledge to cease the long-lived and bring an earned resolution to those who yearn for it."
-
+</i>
 
 Thank you for trusting me to bring your stories to life, my original reason for picking up drawing was to add visual elements to the rpg and fantasy worlds our friend group would play in. Best of luck on the stories!
 
@@ -70,8 +70,5 @@ Thank you for trusting me to bring your stories to life, my original reason for 
   <td>Parchment Printout</td>
   <td>25 USD</td>
   <td>8x11 Cotton Parchment either White or Aged. This requires digital cleanup of the pencil/pen work. Please let me know if you want the pages folded like a page or just a full 8x11 </td>
-
-
-
-
+</tr>
 
