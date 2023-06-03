@@ -106,6 +106,26 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230604-MarikaStatue.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px">Statue of Marika the Eternal, 2nd Church of Marika </h2>
+   <p> 
+   <i>"Marika's trespass demanded a heavy sentence. But even in shackles, she remains a god, and the vision's vessel. Confer Great Runes to become Elden Lord, and join Queen Marika as her consort. The Fingers have willed it so. Now, you may go"</i>
+<br><br>
+<small>
+    Properly finished this one up, next week is more Tears of the Kingdom, and somewhere in that, Bloodborne in Wonderland (finally) :).
+    </small>
+ <br>
+    <a href="https://www.instagram.com/p/Cqf_nZ3LxZu/?igshid=Mzc1MmZhNjY="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/Dvdwyo"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div> 
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
     <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230520-Vykes.jpeg" onclick="myFunction(this);">
     </p>
   <h2 style="padding-top: 20px">Lord Vyke, Knight of the Roundtable</h2>
@@ -121,14 +141,14 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
 </p>
 </div>
-
+<!-- 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
-    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230513-marika-full.jpeg" onclick="myFunction(this);">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/IMG-ScarletRot.jpeg" onclick="myFunction(this);">
     </p>
-  <h2 style="padding-top: 20px">Marika - Revisted</h2>
+  <h2 style="padding-top: 20px">Scarlet Rot </h2>
    <p> 
-   <i>"Hear me, Demigods. My children beloved. Make of thyself that which ye desire. Be it a Lord, Be it a God. But should y e fail to become aught at all, ye will be forsaken. Amounting only to Sacrifices… "</i>
+   <i>"And now Caelid has been engulfed by the scarlet rot, even approaching the region is no mean feat. I've heard survivors of Radahn's army are still in the wilds, staving off the rot with fire. And if it's true, I suspect Radahn is still there as well, in Caelid. Though I doubt he much resembles his former self anymore..."</i>
 <br><br>
 <small>
     Remember that Marika piece from way back? I finally got around to cleaning it up and printing it out in greeting card form.
@@ -139,7 +159,8 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
     <a href="https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
 </p>
-</div>
+</div> -->
+
 
 
 <div style="clear: left;" class="imageContainer">
