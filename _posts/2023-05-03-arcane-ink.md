@@ -134,6 +134,59 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
 </p>
 
 
+
+
+<!-- 3. -->
+<div class="flex-container">
+
+
+<div class="gallery">
+  <a target="_blank" href="/images/arcaneink/2023-06-10-totk-zeldaother.jpeg" >
+    <img class="displayImage" src="/images/arcaneink/2023-06-10-totk-zeldaother.jpeg"  alt="Forest" width="600" height="400">
+  </a>
+  
+  <div class="desc"><small>June 10, 2023<br><i>"Tears of the Kingdom 02"</i><br>
+ <a href="https://www.instagram.com/p/CtUiaKUP7RU/?igshid=ZWQyN2ExYTkwZQ=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+     <a href="https://www.artstation.com/artwork/5v1kXJ"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Arcane-Ink-Tears-of-the-Kingdom-02-964412430
+"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a> </small></div>
+</div>
+
+
+<div class="gallery">
+  <a target="_blank" href="/images/arcaneink/2023-06-10-totk-zeldaindividual.jpeg" >
+    <img class="displayImage" src="/images/arcaneink/2023-06-10-totk-zeldaindividual.jpeg"  alt="Forest" width="600" height="400">
+  </a>
+  
+  <div class="desc"><small>June 10, 2023<br><i>"Tears of the Kingdom 02"</i><br>
+ <a href="https://www.instagram.com/p/CtUiaKUP7RU/?igshid=ZWQyN2ExYTkwZQ=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+     <a href="https://www.artstation.com/artwork/5v1kXJ"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Arcane-Ink-Tears-of-the-Kingdom-02-964412430"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a> </small></div>
+</div>
+
+
+
+<div class="gallery">
+  <a target="_blank" href="/images/arcaneink/2023-06-10-totk-zeldafull.jpeg" >
+    <img class="displayImage" src="/images/arcaneink/2023-06-10-totk-zeldafull.jpeg"  alt="Forest" width="600" height="400">
+  </a>
+  
+  <div class="desc"><small>June 10, 2023<br><i>"Tears of the Kingdom 02"</i><br>
+ <a href="https://www.instagram.com/p/CtUiaKUP7RU/?igshid=ZWQyN2ExYTkwZQ=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+     <a href="https://www.artstation.com/artwork/dKK3O3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Arcane-Ink-Tears-of-the-Kingdom-02-964412430
+"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a> </small></div>
+</div>
+
+
+</div>
+
+
+
+<!-- 3. -->
 <div class="flex-container">
 
 
@@ -180,7 +233,7 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
 
 </div>
 
-
+<!-- 2. -->
 <div class="flex-container">
 
 
