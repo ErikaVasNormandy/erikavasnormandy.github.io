@@ -103,6 +103,29 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
 
 
 
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230617-SellenBanner.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px">Sorceress Sellen </h2>
+   <p> 
+   <i>"Tarnished, are we? A wonder you should turn up here. I am Sellen, a sorcerer, quite plainly. Why are you here?"</i>
+<br><br>
+<small>
+    I think this volume shall be called "On the Nature of Tarnished Souls"
+
+    </small>
+ <br>
+    <a href="https://www.instagram.com/reel/CtmlGZ8ohqC/?igshid=ZWQyN2ExYTkwZQ=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/LREy1l"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div> 
+
+
+
+
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
