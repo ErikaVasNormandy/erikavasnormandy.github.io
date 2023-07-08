@@ -5,9 +5,184 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Jul 2023 07:38:21 -0700</pubDate>
-    <lastBuildDate>Sat, 01 Jul 2023 07:38:21 -0700</lastBuildDate>
+    <pubDate>Sat, 08 Jul 2023 10:51:37 -0700</pubDate>
+    <lastBuildDate>Sat, 08 Jul 2023 10:51:37 -0700</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Coruscant Library</title>
+        <description>&lt;hr /&gt;
+&lt;style&gt;
+
+    small{
+    font-size: 10px;
+  }
+  .social-media-icons {
+    width: 20px;
+  }
+  .centertext{  
+    align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+ 
+ .flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container &gt; div {
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+}
+
+div.gallery {
+  /* border: 1px solid #ccc; */
+  width: 60%;
+  margin-bottom: 80px;
+
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+  .gallery &gt;* {
+        flex: 1 1 80px;
+    }
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.main{
+  /* background-color: red; */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+div.main img{
+
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+/* div.gallery img 
+
+*/
+
+.displayImage{
+  /* width: 100%;
+  height: auto; */
+  width: 300px; 
+  height: 337px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+ @media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 80%;
+  }
+} 
+
+.clearfix:after {
+  content: &quot;&quot;;
+  display: table;
+  clear: both;
+}
+&lt;/style&gt;
+
+&lt;p&gt;Archive Retrieval from the Coruscant libraries, Unsorted texts and other content pertaining to the Jedi order. Please be sure to handle these pages with care; it is advised that all materials taken into micro gravity environments be kept sealed to prevent paper fibers from contaminating the vessel’s air.&lt;/p&gt;
+
+&lt;!-- 2. --&gt;
+&lt;div class=&quot;flex-container&quot;&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis.png&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis.png&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br /&gt;&lt;i&gt;&quot;The Last of Us&quot;&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/01-aurabesh.jpg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/01-aurabesh.jpg&quot; alt=&quot;Page 01&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br /&gt;&lt;i&gt;&quot;Wednesday's child is full of woe...&quot;&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot; &gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot;  alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br&gt;&lt;i&gt;&quot;Horizon Zero Dawn&quot;&lt;/i&gt;&lt;br&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 08 Jul 2023 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/Coruscant-Library.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Coruscant-Library.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
     
       <item>
         <title>Saturday Morning Soulsborne</title>
@@ -109,7 +284,7 @@ function myFunction(imgs) {
   Request from @khashayarshahenshah on Insta, who looks up to Turtle Pope.
   &lt;/small&gt;
  &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/reel/CtmlGZ8ohqC/?igshid=ZWQyN2ExYTkwZQ==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CuKnK8xxWXj/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/artwork/Ke2bAB&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
@@ -1990,80 +2165,6 @@ div.desc {
         
         
         <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Soulsborne Art Contest on Reddit!</title>
-        <description>&lt;p&gt;I’m entering a Soulsborne art contest! It’s been amazing to work on these all throughout the year as a consistent activity to do every Saturday. Thanks for watching me, I do have the intention of bringing these to postcard/digital form, that’s what the Cybernomicon’s for ;) along with webcomics. But until then, which artwork should I pick? Maybe Ranni because it’s been really hot lately and I could use some cooler tones. Let me know on my IG or Twitter I suppose, I also do have a Tumblr :3&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/post-images/09092022-soulsborne-art-contest-1.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ah Malenia, who didn’t get chills when watching the first trailer for Elden Ring? I am working right now on her rune for some kind of stamp or even tattoo design.&lt;/p&gt;
-&lt;p&gt;The squid is from Bloodborne, I took a chance with watercolors but I think it turned out pretty well!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/post-images/09092022-soulsborne-art-contest-2.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/post-images/09092022-soulsborne-art-contest-3.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/post-images/09092022-soulsborne-art-contest-4.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
-
-&lt;h2&gt;Links&lt;/h2&gt;
-&lt;p&gt;&lt;ul&gt;
-&lt;h4&gt;Storybook&lt;/h4&gt;
-&lt;li&gt;Instagram: https://www.instagram.com/p/Cd09Id1lsx2/&lt;/li&gt;
-&lt;li&gt;Artstation:  https://www.artstation.com/artwork/EaXq2K&lt;/li&gt;
-&lt;br /&gt;
-&lt;h4&gt;Marika&lt;/h4&gt;
-&lt;li&gt;Instagram: https://www.instagram.com/p/CdQ5HTyOxYQ/&lt;/li&gt;
-&lt;li&gt;Artstation: https://www.artstation.com/artwork/wJQZDL&lt;/li&gt;
-&lt;br /&gt;
-
-&lt;h4&gt;Malenia&lt;/h4&gt;
-&lt;li&gt;Instagram: https://www.instagram.com/p/CeG8P9SOLYI/&lt;/li&gt;
-&lt;li&gt;Artstation: https://www.artstation.com/artwork/r9KNe2&lt;/li&gt;
-&lt;br /&gt;
-
-&lt;h4&gt;Miquella&lt;/h4&gt;
-&lt;li&gt;Instagram: https://www.instagram.com/p/CeY-o-euY_V/&lt;/li&gt;
-&lt;br /&gt;
-
-&lt;h4&gt;Godfrey&lt;/h4&gt;
-&lt;li&gt;Instagram: https://www.instagram.com/p/Ce9BHtBrnnh/&lt;/li&gt;
-&lt;li&gt;Artstation: https://www.artstation.com/artwork/lR5YWo&lt;/li&gt;
-&lt;br /&gt;
-
-
-&lt;h4&gt;Ranni&lt;/h4&gt;
-&lt;li&gt;Instagram: https://www.instagram.com/p/Cg7Lvv2Ot3e/&lt;/li&gt;
-&lt;li&gt;Artstation: https://www.artstation.com/artwork/vJKJg3&lt;/li&gt;
-
-&lt;br /&gt;
-
-&lt;h4&gt;Bloodborne Squid&lt;/h4&gt;
-&lt;li&gt;Instagram: https://www.instagram.com/p/CSkBVpbLWze/?igshid=NDRkN2NkYzU=&lt;/li&gt;
-&lt;li&gt;Artstation: https://www.artstation.com/artwork/nYnqKE&lt;/li&gt;
-&lt;br /&gt;
-
-&lt;h4&gt;Alice in Yharnam&lt;/h4&gt;
-&lt;li&gt;Instagram: https://www.instagram.com/p/CCOyW7iDYNs/?igshid=NDRkN2NkYzU=&lt;/li&gt;
-&lt;li&gt;Artstation: https://www.artstation.com/artwork/rAAdVe&lt;/li&gt;
-&lt;br /&gt;
-
-&lt;h4&gt;Eileen the Crow&lt;/h4&gt;
-&lt;li&gt;Instagram: https://www.instagram.com/p/CcIz1DypZET/?igshid=NDRkN2NkYzU=&lt;/li&gt;
-&lt;li&gt;Artstation: https://www.artstation.com/artwork/9NKkGW&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Sep 2022 13:39:45 -0700</pubDate>
-        <link>http://localhost:4000/topics/soulsborne-art-contest-reddit/</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/soulsborne-art-contest-reddit/</guid>
-        
-        
-        <category>topics</category>
-        
-        <category>soulsborne</category>
         
       </item>
     
