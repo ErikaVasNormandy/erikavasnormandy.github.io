@@ -1,7 +1,7 @@
 ---
 title: Coruscant Library
 author: technomancer-01
-excerpt: Archive Retrieval from the Coruscant libraries, Unsorted texts and other content pertaining to the Jedi order
+excerpt: Archive Retrieval from the Coruscant Library, Unsorted texts and other content pertaining to the Jedi order
 priority: 2
 skills:
   - ink
@@ -16,7 +16,6 @@ background-image: aurabesh.jpg
 
 ---
 <style>
-
     small{
     font-size: 10px;
   }
@@ -28,12 +27,10 @@ background-image: aurabesh.jpg
     padding-top: 100px;
     padding-bottom: 100px;
   }
- 
  .flex-container {
   display: flex;
   justify-content: center;
 }
-
 .flex-container > div {
   margin: auto;
   padding: 20px;
@@ -76,11 +73,6 @@ div.main img{
   margin-right: auto;
   display: block;
 }
-
-
-/* div.gallery img 
-
-*/
 
 .displayImage{
   /* width: 100%;
@@ -133,13 +125,26 @@ Archive Retrieval from the Coruscant libraries, Unsorted texts and other content
 <!-- 2. -->
 <div class="flex-container">
 
-<div class="gallery">
-  <a target="_blank" href="/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis.png" >
+<!-- <div class="gallery">
+  <a target="_blank" href="/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg" >
     <img class="displayImage" src="/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis.png" alt="Page 02" width="600" height="400">
   </a>
   
   <div class="desc"><small>Mar 25, 2023<br><i>"The Last of Us"</i><br>
  <a href="https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+     <a href="https://www.artstation.com/artwork/dKK3O3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a> </small></div>
+</div> -->
+
+
+<div class="gallery">
+  <a target="_blank" href="/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg" >
+    <img class="displayImage" src="/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg" alt="Page 02" width="600" height="400">
+  </a>
+  
+  <div class="desc"><small>July 8, 2023<br><i>"02 - Cal Kestis"</i><br>
+ <a href="https://www.instagram.com/p/CucqBoGRHiH/?igshid=MTIzZWMxMTBkOA=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
      <a href="https://www.artstation.com/artwork/dKK3O3"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a> </small></div>
@@ -149,11 +154,11 @@ Archive Retrieval from the Coruscant libraries, Unsorted texts and other content
 
 
 <div class="gallery">
-  <a target="_blank" href="/images/arcaneink/coruscant-library/01-aurabesh.jpg" >
-    <img class="displayImage" src="/images/arcaneink/coruscant-library/01-aurabesh.jpg"  alt="Page 01" width="600" height="400">
+  <a target="_blank" href="/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg" >
+    <img class="displayImage" src="/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg"  alt="Page 01" width="600" height="400">
   </a>
   
-  <div class="desc"><small>Dec 17, 2022<br><i>"Wednesday's child is full of woe..."</i><br>
+  <div class="desc"><small>July 8, 2023<br><i>"Translation: "</i><br>
  <a href="https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
      <a href="https://www.artstation.com/artwork/b59Kqm"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
