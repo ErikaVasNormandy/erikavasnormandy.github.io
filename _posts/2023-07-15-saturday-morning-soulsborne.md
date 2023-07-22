@@ -94,12 +94,42 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
     Ah the one that sort of kicked it off. We were driving around in some of the smaller towns and backgrounds of rural Washington in search of coffee and pastries while Mom and Dad were still asleep.
     </small>
  <br>
-    <a href="https://www.instagram.com/p/CcIz1DypZET/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
 </p>
 </div>
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230722-bloodborneinwonderland2.jpeg" onclick="myFunction(this);">
+    </p>
+  <h2 style="padding-top: 20px">Bloodborne in Wonderland</h2>
+   <p> 
+   <i><p>The Plain Doll thought she had never seen such a curious Great One in her existence: its body was sleek and grey, like that of a slug, although from its head sprouted a great many append-ages that twitched when her wooden hands brushed the damp skin.
+</p>
+<p>
+“Are you cold?”
+</p>
+<p>
+	The little infant of a cephalopod nature twitched, its sleek skin shining in the moonlight as she held it up to peer at its face. 
+</p>
+“Oh, Good Hunter.”
+
+</i>
+<br><br>
+<small>
+
+  </small>
+ <br>
+    <a href="https://www.instagram.com/p/CuKnK8xxWXj/?igshid=MTIzZWMxMTBkOA=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/artwork/rJDYPm"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Malenia-972053596"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div> 
+
 
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
