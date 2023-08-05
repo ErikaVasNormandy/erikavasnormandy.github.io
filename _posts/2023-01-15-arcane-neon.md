@@ -1,14 +1,14 @@
 ---
-title: A Bloodborne-Tober (2022)
+title: Arcane Neon
 author: technomancer-01
-excerpt: A Return to Yharnam for Spooky Vibes
+excerpt: 
 priority: 1
 skills:
   - ink
 categories:
   - works
 
-background-image: bloodborne-tober-overall.jpg
+background-image: arcaneneon/banner.png
 
 #date/lastmod are optional
 #date: 2022-05-07 16:02:16 -0700

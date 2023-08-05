@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Jul 2023 09:01:46 -0700</pubDate>
-    <lastBuildDate>Sat, 29 Jul 2023 09:01:46 -0700</lastBuildDate>
+    <pubDate>Sat, 05 Aug 2023 09:51:52 -0700</pubDate>
+    <lastBuildDate>Sat, 05 Aug 2023 09:51:52 -0700</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -181,8 +181,8 @@ div.desc {
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/BloodborneInWonderland.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/BloodborneInWonderland.html</guid>
+        <link>http://localhost:4000/works/bloodborneinwonderland.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/bloodborneinwonderland.html</guid>
         
         
         <category>works</category>
@@ -361,8 +361,8 @@ div.desc {
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 22 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/OnTheNatureOfTarnishedSouls.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/OnTheNatureOfTarnishedSouls.html</guid>
+        <link>http://localhost:4000/works/onthenatureoftarnishedsouls.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/onthenatureoftarnishedsouls.html</guid>
         
         
         <category>works</category>
@@ -2095,7 +2095,7 @@ div.desc {
       </item>
     
       <item>
-        <title>A Bloodborne-Tober (2022)</title>
+        <title>Arcane Neon</title>
         <description>&lt;hr /&gt;
 &lt;style&gt;
   .centertext{  
