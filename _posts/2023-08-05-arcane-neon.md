@@ -1,7 +1,7 @@
 ---
 title: Arcane Neon
 author: technomancer-01
-excerpt: 
+excerpt: Bridging the gap between ink and neon
 priority: 1
 skills:
   - ink
@@ -118,45 +118,18 @@ div.desc {
 }
 </style>
 
-<p class="centertext" align="center">
-"Farewell, good hunter. May you find your worth in the waking world."
-</p>
+
 <div class="main">
-  <a target="_blank" href="/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg">
-    <img src="/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc"></div>
-</div>
-
-<div class="flex-container">
-
-
-
-
-<div class="gallery">
-  <a target="_blank" href="/images/satmorningsoulsborne/BloodborneTober2022/Week0-a.jpeg">
-    <img src="/images/satmorningsoulsborne/BloodborneTober2022/Week0-a.jpeg" alt="Forest" width="600" height="400">
-  </a>
+    <img src="/images/arcaneneon/banner.png" alt="Cinque Terre" width="600" height="400">
   <div class="desc"></div>
 </div>
 
 
-<div class="gallery">
-  <a target="_blank" href="/images/satmorningsoulsborne/BloodborneTober2022/Week0-b.jpeg">
-    <img src="/images/satmorningsoulsborne/BloodborneTober2022/Week0-b.jpeg" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc"></div>
-</div>
 
-<div class="gallery">
-  <a target="_blank" href="/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg">
-    <img src="/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc"></div>
-</div>
-</div>
+<!-- comment -->
 
-<div class="flex-container">
+
+<!-- <div class="flex-container">
 
 <div class="gallery">
   <a target="_blank" href="/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg">
@@ -179,19 +152,18 @@ div.desc {
   <div class="desc"></div>
 </div>
 
-</div>
-
+</div> -->
 
 <div class="flex-container">
 
 <div class="gallery">
-  <a target="_blank" href="/images/satmorningsoulsborne/BloodborneTober2022/Week1-d.jpeg">
-    <img src="/images/satmorningsoulsborne/BloodborneTober2022/Week1-d.jpeg" alt="Forest" width="600" height="400">
+  <a target="_blank" href="/images/arcaneneon/banner.png">
+    <img src="/images/arcaneneon/banner.png" alt="Forest" width="600" height="400">
   </a>
   <div class="desc"></div>
 </div>
 
-<div class="gallery">
+<!-- <div class="gallery">
   <a target="_blank" href="/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg">
     <img src="/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg" alt="Forest" width="600" height="400">
   </a>
@@ -203,7 +175,7 @@ div.desc {
     <img src="/images/satmorningsoulsborne/BloodborneTober2022/Week2-b.jpg" alt="Forest" width="600" height="400">
   </a>
   <div class="desc"></div>
-</div>
+</div> -->
 </div>
 
 

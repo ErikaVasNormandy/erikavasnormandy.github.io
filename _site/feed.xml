@@ -5,9 +5,180 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Aug 2023 09:51:52 -0700</pubDate>
-    <lastBuildDate>Sat, 05 Aug 2023 09:51:52 -0700</lastBuildDate>
+    <pubDate>Sat, 05 Aug 2023 10:37:17 -0700</pubDate>
+    <lastBuildDate>Sat, 05 Aug 2023 10:37:17 -0700</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Arcane Neon</title>
+        <description>&lt;hr /&gt;
+&lt;style&gt;
+  .centertext{  
+    align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+ 
+ .flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container &gt; div {
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+}
+
+div.gallery {
+  /* border: 1px solid #ccc; */
+  width: 60%;
+  margin-bottom: 80px;
+
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+  .gallery &gt;* {
+        flex: 1 1 80px;
+    }
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.main{
+  /* background-color: red; */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+div.main img{
+
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+div.gallery img {
+  /* width: 100%;
+  height: auto; */
+  width: 300px; 
+  height: 337px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+ @media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 80%;
+  }
+} 
+
+.clearfix:after {
+  content: &quot;&quot;;
+  display: table;
+  clear: both;
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;main&quot;&gt;
+    &lt;img src=&quot;/images/arcaneneon/banner.png&quot; alt=&quot;Cinque Terre&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- comment --&gt;
+
+&lt;!-- &lt;div class=&quot;flex-container&quot;&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-b.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-b.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt; --&gt;
+
+&lt;div class=&quot;flex-container&quot;&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneneon/banner.png&quot;&gt;
+    &lt;img src=&quot;/images/arcaneneon/banner.png&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-b.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-b.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 05 Aug 2023 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/arcane-neon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/arcane-neon.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
     
       <item>
         <title>Bloodborne in Wonderland</title>
@@ -2088,208 +2259,6 @@ div.desc {
         <pubDate>Sat, 21 Jan 2023 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/works/arcane-ink-starwars-bad-batch.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/arcane-ink-starwars-bad-batch.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Arcane Neon</title>
-        <description>&lt;hr /&gt;
-&lt;style&gt;
-  .centertext{  
-    align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
- 
- .flex-container {
-  display: flex;
-  justify-content: center;
-}
-
-.flex-container &gt; div {
-  margin: auto;
-  padding: 20px;
-  font-size: 30px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
-}
-
-div.gallery {
-  /* border: 1px solid #ccc; */
-  width: 60%;
-  margin-bottom: 80px;
-
-  height: 500px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-  .gallery &gt;* {
-        flex: 1 1 80px;
-    }
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.main{
-  /* background-color: red; */
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
-div.main img{
-
-  width: 70%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-
-div.gallery img {
-  /* width: 100%;
-  height: auto; */
-  width: 300px; 
-  height: 337px;
-  object-fit: cover;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
- @media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 80%;
-  }
-} 
-
-.clearfix:after {
-  content: &quot;&quot;;
-  display: table;
-  clear: both;
-}
-&lt;/style&gt;
-
-&lt;p class=&quot;centertext&quot; align=&quot;center&quot;&gt;
-&quot;Farewell, good hunter. May you find your worth in the waking world.&quot;
-&lt;/p&gt;
-&lt;div class=&quot;main&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg&quot; alt=&quot;Cinque Terre&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;flex-container&quot;&gt;
-
-
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-a.jpeg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-b.jpeg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-b.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;flex-container&quot;&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-b.jpg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-b.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;flex-container&quot;&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-d.jpeg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-d.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-b.jpg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-b.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 15 Jan 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/arcane-neon.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/arcane-neon.html</guid>
         
         
         <category>works</category>
