@@ -22,7 +22,7 @@ description: Netrunning, Illustrations, Concept Art
 owner:
   name: Erika # or company name
   url: "https://technomancer-01.com" # your URL
-first_published: 2017 # if migrating another site, the year of your first publish
+first_published: 2021 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "https://technomancer-01.com" # the base hostname & protocol for this site.
 baseurl: "" # the subpath of your site, e.g. /blog
