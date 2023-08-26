@@ -5,9 +5,234 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Aug 2023 09:54:55 -0700</pubDate>
-    <lastBuildDate>Sat, 12 Aug 2023 09:54:55 -0700</lastBuildDate>
+    <pubDate>Sat, 26 Aug 2023 09:01:08 -0700</pubDate>
+    <lastBuildDate>Sat, 26 Aug 2023 09:01:08 -0700</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Coruscant Library</title>
+        <description>&lt;hr /&gt;
+&lt;style&gt;
+    small{
+    font-size: 10px;
+  }
+  .social-media-icons {
+    width: 20px;
+  }
+  .centertext{  
+    align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+ .flex-container {
+  display: flex;
+  justify-content: center;
+}
+.flex-container &gt; div {
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+}
+
+div.gallery {
+  /* border: 1px solid #ccc; */
+  width: 60%;
+  margin-bottom: 80px;
+
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+  .gallery &gt;* {
+        flex: 1 1 80px;
+    }
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.main{
+  /* background-color: red; */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+div.main img{
+
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.displayImage{
+  /* width: 100%;
+  height: auto; */
+  width: 300px; 
+  height: 337px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+ @media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 80%;
+  }
+} 
+
+.clearfix:after {
+  content: &quot;&quot;;
+  display: table;
+  clear: both;
+}
+&lt;/style&gt;
+
+&lt;p&gt;Archive Retrieval from the Coruscant libraries, Unsorted texts and other content pertaining to the Jedi order. Please be sure to handle these pages with care; it is advised that all materials taken into micro gravity environments be kept sealed to prevent paper fibers from contaminating the vessel’s air.&lt;/p&gt;
+
+&lt;!-- 3. --&gt;
+&lt;div class=&quot;flex-container&quot;&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/03-Ahsoka3.jpeg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/03-Ahsoka3.jpeg&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Aug 26, 2023&lt;br /&gt;&lt;i&gt;03 - Ahsoka&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/Xg43xY&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Archival-Retrieval-Coruscant-Library-03-2-979130175&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/03-Ahsoka2.jpeg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/03-Ahsoka2.jpeg&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Aug 26, 2023&lt;br /&gt;&lt;i&gt;03 - Ahsoka&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/CucqBoGRHiH/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/Xg43xY&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Archival-Retrieval-Coruscant-Library-03-2-979130175&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/03-Ahsoka1.jpeg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/03-Ahsoka1.jpeg&quot; alt=&quot;Page 01&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Aug 26, 2023&lt;br /&gt;&lt;i&gt;03 - Ahsoka&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/Xg43xY&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Archival-Retrieval-Coruscant-Library-03-2-979130175&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;!-- 2. --&gt;
+&lt;div class=&quot;flex-container&quot;&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis2.jpeg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis2.jpeg&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023 &lt;br /&gt;02 - Cal Kestis&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;02 - Cal Kestis&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/CucqBoGRHiH/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/01-aurebesh-close.jpeg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/01-aurebesh-close.jpeg&quot; alt=&quot;Page 01&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;01 - Aurebesh Transcription&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot; &gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot;  alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br&gt;&lt;i&gt;&quot;Horizon Zero Dawn&quot;&lt;/i&gt;&lt;br&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 26 Aug 2023 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/Coruscant-Library.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Coruscant-Library.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
     
       <item>
         <title>Arcane Ink</title>
@@ -1787,186 +2012,6 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
         <guid isPermaLink="true">http://localhost:4000/works/saturday-morning-soulsborne.html</guid>
         
         <category>featured</category>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Coruscant Library</title>
-        <description>&lt;hr /&gt;
-&lt;style&gt;
-    small{
-    font-size: 10px;
-  }
-  .social-media-icons {
-    width: 20px;
-  }
-  .centertext{  
-    align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
- .flex-container {
-  display: flex;
-  justify-content: center;
-}
-.flex-container &gt; div {
-  margin: auto;
-  padding: 20px;
-  font-size: 30px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
-}
-
-div.gallery {
-  /* border: 1px solid #ccc; */
-  width: 60%;
-  margin-bottom: 80px;
-
-  height: 500px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-  .gallery &gt;* {
-        flex: 1 1 80px;
-    }
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.main{
-  /* background-color: red; */
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
-div.main img{
-
-  width: 70%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-.displayImage{
-  /* width: 100%;
-  height: auto; */
-  width: 300px; 
-  height: 337px;
-  object-fit: cover;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-div.desc {
-  padding: 10px;
-  text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
- @media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 80%;
-  }
-} 
-
-.clearfix:after {
-  content: &quot;&quot;;
-  display: table;
-  clear: both;
-}
-&lt;/style&gt;
-
-&lt;p&gt;Archive Retrieval from the Coruscant libraries, Unsorted texts and other content pertaining to the Jedi order. Please be sure to handle these pages with care; it is advised that all materials taken into micro gravity environments be kept sealed to prevent paper fibers from contaminating the vessel’s air.&lt;/p&gt;
-
-&lt;!-- 2. --&gt;
-&lt;div class=&quot;flex-container&quot;&gt;
-
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; &gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis.png&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br&gt;&lt;i&gt;&quot;The Last of Us&quot;&lt;/i&gt;&lt;br&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;&quot;02 - Cal Kestis&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CucqBoGRHiH/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg&quot; alt=&quot;Page 01&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;&quot;Translation: &quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot; &gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot;  alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br&gt;&lt;i&gt;&quot;Horizon Zero Dawn&quot;&lt;/i&gt;&lt;br&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 08 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/Coruscant-Library.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/Coruscant-Library.html</guid>
         
         
         <category>works</category>

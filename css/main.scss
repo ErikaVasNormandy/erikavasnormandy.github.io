@@ -109,14 +109,30 @@ width: 10%;
 			}
 		}
 	}
-
+	@font-face {
+		font-family: myFirstFont;
+		// src: url(Technomancer01-Regular.otf);
+		src: url(Mina-Regular.ttf)
+	  }
+	  
+	  @font-face {
+		font-family: mySecondFont;
+		// src: url(Technomancer01-Regular.otf);
+		src: url(Mina-Bold.ttf)
+	  }
+	  
 	body, input, select, textarea {
 		p{
 			font-family: _font(ctrl-family);
 		}
 		color: _palette(fg);
 		/*font-family: _font(ctrl-family);*/
-		 			font-family: "Courier New";
+		// font-family: "Gill Sans", sans-serif;
+
+		font-family: myFirstFont;
+	
+		text-shadow: 2px 2px black;
+
 
 		font-size: _font(ctrl-size-xxlarge);
 		font-weight: _font(weight);
@@ -170,6 +186,7 @@ width: 10%;
 		line-height: 1em;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
 		text-transform: uppercase;
+		font-family: mySecondFont;
 
 		code {
 			text-transform: none;
