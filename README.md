@@ -23,6 +23,8 @@ _ config.yml is the most important aspect
 #### Running on Ubuntu
 sudo apt install ruby-full
 
+/home/[user]/.bundle
+
 neon@tanalorr:~/erikavasnormandy.github.io$ sudo bundle install
 Don't run Bundler as root. Installing your bundle as root will break this application for all non-root users on this machine.
 Fetching gem metadata from https://rubygems.org/............
