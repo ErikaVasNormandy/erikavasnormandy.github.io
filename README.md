@@ -25,6 +25,8 @@ sudo apt install ruby-full
 
 /home/[user]/.bundle
 
+https://www.maketecheasier.com/host-blog-for-free-jekyll-github-pages/
+
 neon@tanalorr:~/erikavasnormandy.github.io$ sudo bundle install
 Don't run Bundler as root. Installing your bundle as root will break this application for all non-root users on this machine.
 Fetching gem metadata from https://rubygems.org/............
