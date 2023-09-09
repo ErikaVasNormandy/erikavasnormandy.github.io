@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Sep 2023 16:26:25 -0700</pubDate>
-    <lastBuildDate>Fri, 08 Sep 2023 16:26:25 -0700</lastBuildDate>
+    <pubDate>Sat, 09 Sep 2023 09:12:08 -0700</pubDate>
+    <lastBuildDate>Sat, 09 Sep 2023 09:12:08 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -43,8 +43,6 @@ function myFunction(imgs) {
   bottom: 3%;
 }
 
-
-
 /* Expanding image text */
 #imgtext {
   position: absolute;
@@ -65,11 +63,7 @@ function myFunction(imgs) {
 }
   &lt;/style&gt;
 
-&lt;p&gt;Every Saturday I try to do an old school looking illustration, either to pretty up my notes or to practice. It started out as Bloodborne since I needed a way to use a concept art book someone gave to me as a gift, but I’ve branched out into Horizon Zero Dawn and most recently, Elden Ring.&lt;/p&gt;
-
-&lt;p&gt;This is a project I started very early into 2020 after deciding that I wanted to get better at drawing the kinds of Victorian/steampunk aesthetics that I had planned for Arda Hyperion. I’d also received the Bloodborne official concept art book, so what better way to kick off a playthrough than going through the book to practice the artwork?&lt;/p&gt;
-
-&lt;p&gt;Now, three years later, I’m hoping to scan these up into digital assets so I can start using the to make either actual spellbook or my technical illustrations.&lt;/p&gt;
+&lt;p&gt;Annotated illustrations fetched from Waterdeep’s public archives and recreations from Gatewardens’ accounts&lt;/p&gt;
 
 &lt;div class=&quot;container&quot;&gt;
   &lt;span onclick=&quot;this.parentElement.style.display='none'&quot; class=&quot;closebtn&quot;&gt;&amp;times;&lt;/span&gt;
@@ -80,19 +74,48 @@ function myFunction(imgs) {
 
 &lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
     &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/arcaneink/baldurs-gate/20230812-cthulhuclose.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/arcaneink/baldurs-gate/small-image.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Baldur's Gate - Illithid&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; &lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    Ah the one that sort of kicked it off. We were driving around in some of the smaller towns and backgrounds of rural Washington in search of coffee and pastries while Mom and Dad were still asleep.
-    &lt;/small&gt;
+   “He who fights with monsters should look to it that he himself does not become a monster...when you gaze into the abyss the abyss also gazes into you...
+&quot; 
+&lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Annals-From-Waterdeep-Mind-Flayer-981628174&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/arcaneink/baldurs-gate/20230812-illithidclose1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Baldur's Gate - Illithid&lt;/h2&gt;
+   &lt;p&gt; 
+&quot;You will claw back the truth, but first you must claw your way out of here”
+
+
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Annals-From-Waterdeep-Mind-Flayer-981628174&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/arcaneink/baldurs-gate/20230812-cthulhuclose.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Baldur's Gate - Illithid&lt;/h2&gt;
+   &lt;p&gt;   “He who fights with monsters should look to it that he himself does not become a monster...when you gaze into the abyss the abyss also gazes into you...
+&quot; 
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Annals-From-Waterdeep-Mind-Flayer-981628174&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;/div&gt;
