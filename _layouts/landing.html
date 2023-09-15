@@ -6,13 +6,13 @@
   {% include head.html %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8G33H0R5HV"></script>
-<script>
+<!-- <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-8G33H0R5HV');
-</script>
+</script> -->
 
 <body class="landing">
 
@@ -20,7 +20,7 @@
   <div id="page-wrapper">
 
     {% include header.html %}
-
+<h1></h1>
       <!-- Banner -->
         <section id="banner">
           <div class="inner">
@@ -72,6 +72,61 @@
 
 
 
+
+
+              <!-- Three -->{%
+    if site.tags.featured %}
+        <section id="landing_features" class="wrapper style3 special">
+          <div class="inner">
+            <header class="major">
+              <h2>{{ site.features-title }}</h2>
+              <!-- <p>Blog posts with decent content</p> -->
+            </header>
+            <ul class="features">{%
+              for my_post in site.posts %}{%
+                if my_post.tags contains 'featured' %}{%
+                  assign i = i | plus:1 %}
+                <!-- <li class="icon fa-{% if my_post.icon %}{{ my_post.icon }}{% else %}heart-o{% endif %}">featured:{{ i }} -->
+
+              <li class="icon fa-{% if my_post.icon %}{{ my_post.icon }}{% else %} {% endif %}"><!-- featured:{{ i }} -->
+                <a href="{{ my_post.url | prepend:site.baseurl }}">
+                <div class="container">
+                <h3>{{ my_post.title }}</h3>
+                {{ my_post.data}}{{ my_post.excerpt | strip_html | truncatewords: 16 }}
+                </div>
+                </a>
+              </li>{%
+                  if i == 8 %}{%
+                    break %}{%
+                  endif %}{%
+                endif %}{%
+              endfor %}
+            </ul>
+            <!---potentially replace-->
+             <ul class="icons major">{%
+            for socloc in site.social limit:3 %}{%
+              if socloc[1] %}{%
+                if socloc[0] == 'email' %}
+              <li><a target="_blank" href="{%
+                  if socloc[1] contains '@' %}mailto:{{ socloc[1] }}{%
+                  else %}{{ socloc[1] }}{%
+                  endif %}" class="icon fa-envelope major style1"
+                     ><span class="label">E-mail</span></a></li>{%
+                else %}
+              <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }} major style{% cycle 1, 2, 3 %}"
+                     ><span class="label">{{ socloc[0] }}</span></a></li>{%
+                endif %}{%
+              endif %}{%
+            endfor %}
+            </ul>
+
+            <!---potentially replace-->
+          </div>
+        </section>
+        {%    endif %}
+
+
+
         <!-- Two -->
         
         <section id="landing_pages" class="wrapper alt style2">{%
@@ -107,40 +162,6 @@
 
 
       <!---THIS IS WHERE YOU GET THE LIST AT THE BOTTOM-->
-
-      <!-- Three -->{%
-    if site.tags.featured %}
-        <section id="landing_features" class="wrapper style3 special">
-          <div class="inner">
-            <header class="major">
-              <h2>{{ site.features-title }}</h2>
-              <!-- <p>Blog posts with decent content</p> -->
-            </header>
-            <!---potentially replace-->
-            <ul class="features">{%
-              for my_post in site.posts %}{%
-                if my_post.tags contains 'featured' %}{%
-                  assign i = i | plus:1 %}
-                <!-- <li class="icon fa-{% if my_post.icon %}{{ my_post.icon }}{% else %}heart-o{% endif %}">featured:{{ i }} -->
-
-              <li class="icon fa-{% if my_post.icon %}{{ my_post.icon }}{% else %} {% endif %}"><!-- featured:{{ i }} -->
-                <a href="{{ my_post.url | prepend:site.baseurl }}">
-                <div class="container">
-                <h3>{{ my_post.title }}</h3>
-                {{ my_post.data}}{{ my_post.excerpt | strip_html | truncatewords: 16 }}
-                </div>
-                </a>
-              </li>{%
-                  if i == 8 %}{%
-                    break %}{%
-                  endif %}{%
-                endif %}{%
-              endfor %}
-            </ul>
-            <!---potentially replace-->
-          </div>
-        </section>
-        {%    endif %}
 
       <!-- CTA -->
         <section id="cta" class="wrapper style4">

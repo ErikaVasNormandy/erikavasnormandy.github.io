@@ -1237,7 +1237,8 @@ width: 10%;
 			@include vendor('order', '2');
 		}
 		.content-wrap {
-			width: 60%;
+			// width: 60%;
+			width: 80%;
 		}
 		&:nth-child(1n) {
 			text-align: right;
@@ -1257,10 +1258,14 @@ width: 10%;
 
 		@include breakpoint(large) {
 			.image {
-				width: 45%;
+				// width: 45%;
+				width: 20%;
+
 			}
 			.content-wrap {
-				width: 60%;
+								// width: 60%;
+
+				width: 80%;
 			}
 		}
 
