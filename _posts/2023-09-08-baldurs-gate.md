@@ -2,8 +2,8 @@
 title: Annals From Waterdeep
 author: technomancer-01
 excerpt: Annotated illustrations fetched from Waterdeep's public archives
-priority: 1
-tags: featured
+
+tags: dnd, baldurs gate, cthulhu, dungeons and dragons
 skills:
   - ink
 categories:
