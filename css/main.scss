@@ -1208,7 +1208,8 @@ width: 10%;
 /* Spotlight */
 
 	.spotlight {
-		background-color: black;
+		// background-color: black;
+		background-color: rgba(33, 37, 41, 0.75);
    	@include vendor('align-items', 'center');
  		@include vendor('display', 'flex');
 
@@ -1236,7 +1237,7 @@ width: 10%;
 		}
 
 		.content {
-			@include padding(2em, 4em);
+			@include padding(2em, 2em);
 			@include vendor('order', '2');
 		}
 		.content-wrap {
@@ -1255,7 +1256,8 @@ width: 10%;
 			$j: 0.075 * $i;
 			&:nth-child(#{$i}) {
 			/*	background-color: rgba(0,0,0, $j);*/
-			background-color: rgba(0,0,0,1);
+			// background-color: rgba(0,0,0,1);
+			background-color: rgba(33, 37, 41, 0.75);
 			}
 		}
 
@@ -1727,6 +1729,7 @@ width: 10%;
 
 		&.style2 {
 			background-color: _palette(bg);
+			background-color:rgba(33, 37, 41, 0.75);
 		}
 
 		&.style3 {
@@ -1739,6 +1742,7 @@ width: 10%;
 
 		&.style5 {
 			@include wrapper(accent7);
+			background-color: rgba(33, 37, 41, 0.75);
 		}
 
 		@include breakpoint(medium) {
@@ -2296,7 +2300,8 @@ width: 10%;
 	#footer {
 		@include padding(6em, 0);
 /*		background-color: darken(_palette(bg), 8);*/
-	background-color: black;
+	// background-color: black;
+	background-color: rgba(33, 37, 41, 0.75);
 
 		text-align: center;
 
