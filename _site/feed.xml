@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Sep 2023 17:45:36 -0700</pubDate>
-    <lastBuildDate>Fri, 15 Sep 2023 17:45:36 -0700</lastBuildDate>
+    <pubDate>Fri, 15 Sep 2023 18:02:46 -0700</pubDate>
+    <lastBuildDate>Fri, 15 Sep 2023 18:02:46 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -125,7 +125,19 @@ function myFunction(imgs) {
         <link>http://localhost:4000/works/baldurs-gate.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/baldurs-gate.html</guid>
         
-        <category>featured</category>
+        <category>dnd,</category>
+        
+        <category>baldurs</category>
+        
+        <category>gate,</category>
+        
+        <category>cthulhu,</category>
+        
+        <category>dungeons</category>
+        
+        <category>and</category>
+        
+        <category>dragons</category>
         
         
         <category>works</category>
