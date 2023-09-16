@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Sep 2023 19:50:33 -0700</pubDate>
-    <lastBuildDate>Fri, 15 Sep 2023 19:50:33 -0700</lastBuildDate>
+    <pubDate>Fri, 15 Sep 2023 22:51:47 -0700</pubDate>
+    <lastBuildDate>Fri, 15 Sep 2023 22:51:47 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -2469,7 +2469,76 @@ div.desc {
         <description>&lt;h4 id=&quot;shops&quot;&gt;Shops:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.etsy.com/shop/Technomancer01&quot;&gt;Etsy&lt;/a&gt;
 &lt;a href=&quot;https://www.redbubble.com/people/Technomancer-01&quot;&gt;Redbubble&lt;/a&gt;
-&lt;a href=&quot;https://ko-fi.com/technomancer_01&quot;&gt;Kofi&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://ko-fi.com/technomancer_01&quot;&gt;Kofi&lt;/a&gt;
+—
+key: 3
+title: Shop + Commissions
+permalink: /shop/
+excerpt: Art Prints, Custom Character Designs, Tome Fragments, Stickers up on my Redbubble and Etsy
+image: shop.png
+background-image: shop.png&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Commission Rates&lt;/h2&gt;
+
+&lt;style&gt;
+  img {
+  float: left;
+  margin-right: 20px;
+}
+a {
+    color: lightgrey ;
+    text-decoration: underline;
+}
+  &lt;/style&gt;
+
+&lt;table&gt;
+
+&lt;tr&gt;
+  &lt;th&gt;Step&lt;/th&gt;
+  &lt;th&gt;Cost&lt;/th&gt;
+  &lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;Brainstorming&lt;/td&gt;
+  &lt;td&gt;Free&lt;/td&gt;
+  &lt;td&gt;Pitching the drawing, ideas, examples&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;Formal Draft (process)&lt;/td&gt;
+  &lt;td&gt;25 USD &lt;/td&gt;
+  &lt;td&gt;Charcoal + Lighting + Text Placement. I'm thinking I most post this on social media on Mondays just for accountability&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;Full Image File(s)&lt;/td&gt;
+  &lt;td&gt;75 USD&lt;/td&gt;
+  &lt;td&gt;Photo (capture full layout with natural lighting and staged images) delivered by email from archives@technomancer-01.com. This is the culmination of actually drawing the piece + the labor of actually going out to stage the photos&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+  &lt;td&gt;Digital Copy&lt;/td&gt;
+  &lt;td&gt;25 USD&lt;/td&gt;
+  &lt;td&gt;Digitized version (scan it in, clean it up, and make it available to print)&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+  &lt;td&gt;Parchment Printout&lt;/td&gt;
+  &lt;td&gt;25 USD&lt;/td&gt;
+  &lt;td&gt;8x11 Cotton Parchment either White or Aged. This requires digital cleanup of the pencil/pen work. Please let me know if you want the pages folded like a page or just a full 8x11 &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+&lt;!-- &lt;h2&gt;Pricing Chart&lt;/h2&gt; --&gt;
+&lt;!-- &lt;ul&gt;
+  &lt;li&gt;Step 1: Brainstorming&lt;/li&gt;
+&lt;/ul&gt; --&gt;
+
 </description>
         <pubDate>Sun, 01 Jan 2023 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/topics/etsy-n-redbubble-shop.html</link>

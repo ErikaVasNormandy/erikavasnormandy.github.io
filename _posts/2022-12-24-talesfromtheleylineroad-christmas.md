@@ -4,7 +4,7 @@ excerpt: Webcomic based on our Fragged Empire Campaign from 2020-2021. Lofi Spac
 priority: 1
 author: technomancer-01
 categories:
-  - works
+  - topics
 background-image: tflr02.jpg
 
 #date/lastmod are optional

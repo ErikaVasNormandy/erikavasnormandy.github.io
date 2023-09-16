@@ -1,12 +1,12 @@
 ---
 title: Fragged Empire Introduction
 excerpt: Comicization of Fragged's intro
-priority: 1
+
 # tags: featured
 author: technomancer-01
 permalink: /Tales-From-The-Leyline-Road/Fragged-Empire-Introduction
 categories:
-  - works
+  - topics
 background-image: comic/Intro/FraggedIntroPreview.jpg
 excerpt: A comic of the intro to the Fragged Empire RPG setting. For showing to newcomers on the fence.
 #date/lastmod are optional

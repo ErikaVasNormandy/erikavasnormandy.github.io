@@ -8,8 +8,8 @@ $baseurl: '{{ site.baseurl }}/images';
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'font-awesome.min.css';
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
-@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
+// @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
 @import 'syntax-highlighting.css';
 @import 'vendor/disqus.css';
 
@@ -99,6 +99,8 @@ width: 10%;
 	}
 
 	body {
+		font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
+
 	/*	background: _palette(bg);*/
 	background-color: black;
 
@@ -110,7 +112,8 @@ width: 10%;
 		}
 	}
 	@font-face {
-		font-family: myFirstFont;
+		// font-family: myFirstFont;
+		font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
 		// src: url(Technomancer01-Regular.otf);
 		src: url(Mina-Regular.ttf)
 	  }
@@ -129,8 +132,8 @@ width: 10%;
 		/*font-family: _font(ctrl-family);*/
 		// font-family: "Gill Sans", sans-serif;
 
-		font-family: myFirstFont;
-	
+		font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
+		
 		text-shadow: 2px 2px black;
 
 
@@ -156,7 +159,7 @@ width: 10%;
 	a {
 		@include vendor('transition', ('color #{_duration(transitions)} ease', 'border-bottom-color #{_duration(transitions)} ease'));
 		// border-bottom: dotted 1px;
-		color: white;
+		color: rgb(200,200,200);
 		text-decoration: none;
 
 		&:hover {
@@ -193,7 +196,6 @@ width: 10%;
 		}
 
 		a {
-			color: white;
 			text-decoration: none;
 		}
 	}
@@ -301,12 +303,13 @@ width: 10%;
   	}
   	*/
     p, dt, dd, p span, th, td, li, blockquote, #post-date {
-      font-family: _font(prose-family);
+//      font-family: _font(prose-family);
       font-size: _font(prose-size-large);
       font-weight: _font(prose-weight);
       line-height: _font(prose-lheight-normal);
       strong, b {
         font-weight: _font(prose-font-weight);
+
       }
     }
     th, dt {
@@ -1041,8 +1044,8 @@ width: 10%;
 		border: 0;
 		box-shadow: inset 0 0 0 2px _palette(border);
 		// color: _palette(fg-bold);
-		color: white;
-		cursor: pointer;
+		color: rgb(200,200,200);
+				cursor: pointer;
 		display: inline-block;
 		font-size: _font(ctrl-bttn-size);
 		font-weight: _font(weight-bold);
@@ -1124,8 +1127,8 @@ width: 10%;
 		a {
 			@include vendor('transition', ('color #{_duration(transitions)} ease', 'border-bottom-color #{_duration(transitions)} ease'));
 			border-bottom: none;
-			color: white;
-			text-decoration: none;
+			color: rgb(200,200,200);
+						text-decoration: none;
 
 			&:hover {
 				border-bottom-color: none;
@@ -1209,7 +1212,7 @@ width: 10%;
 
 	.spotlight {
 		// background-color: black;
-		background-color: rgba(33, 37, 41, 0.75);
+		background-color: rgba(30, 32, 45, 0.75);
    	@include vendor('align-items', 'center');
  		@include vendor('display', 'flex');
 
@@ -1218,7 +1221,7 @@ width: 10%;
 			margin:0;
 			@include vendor('transition', ('color #{_duration(transitions)} ease', 'border-bottom-color #{_duration(transitions)} ease'));
 			border-bottom: none;
-			color: white;
+			 color: rgb(200,200,200);;
 			text-decoration: none;
 
 			&:hover {
@@ -1257,7 +1260,7 @@ width: 10%;
 			&:nth-child(#{$i}) {
 			/*	background-color: rgba(0,0,0, $j);*/
 			// background-color: rgba(0,0,0,1);
-			background-color: rgba(33, 37, 41, 0.75);
+			background-color: rgba(30, 32, 45, 0.75);
 			}
 		}
 
@@ -1305,14 +1308,13 @@ width: 10%;
 	@mixin wrapper($p) {
 		/*background-color: _palette($p, bg);*/
 		background-color: rgba(0,0,0,0.8);
-		color: white;
-
+		color: rgb(200,200,200);
 		// Basic
 
 			strong, b {
 				// color: _palette($p, fg-bold);
-				color: white;
-				text-decoration-line: underline;
+				color: rgb(200,200,200);
+							//	text-decoration-line: underline;
 			}
 
 			h2, h3, h4, h5, h6 {
@@ -1341,17 +1343,17 @@ width: 10%;
 				// font-family: "Courier New";
 					// background-color: black;
 
-					color: white;
+					color: rgb(200,200,200);
 				}
 
 				&.major {
 					h1, h2, h3, h4, h5, h6 {
 						border-color: _palette($p, border);
-						color: white;
-					}
+						color: rgb(200,200,200);}
+
 /////////// The actual description text
 					p {
-						color: white;
+						color: rgb(200,200,200);
 
 					}
 				}
@@ -1373,7 +1375,7 @@ width: 10%;
 
 			.select-wrapper {
 				&:before {
-					color: white;
+					color: rgb(200,200,200);
 				}
 			}
 
@@ -1448,7 +1450,7 @@ width: 10%;
 
 				th {
 					// color: _palette($p, fg-bold);
-					color: white;
+					color: rgb(200,200,200);
 				}
 
 				thead {
@@ -1500,7 +1502,7 @@ width: 10%;
 			.button {
 				box-shadow: inset 0 0 0 2px _palette($p, border);
 				// color: _palette($p, fg-bold);
-				color: white;
+				color: rgb(200,200,200);
 
 				&:hover {
 					background-color: _palette($p, border-bg);
@@ -1548,7 +1550,9 @@ width: 10%;
     			*/
     			.post-date {
 						/*font-family: _font(ctrl-family);*/
-						font-family: "Courier New";
+						font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
+
+						// font-family: "Courier New";
     				font-style: italic;
     				padding: 0 0 5px 0;
     				margin: 0;
@@ -1566,7 +1570,9 @@ width: 10%;
     				padding: 0;
     				margin: 0;
 						/*font-family: _font(ctrl-family);*/
-						font-family: "Courier New";
+						// font-family: "Courier New";
+						font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
+
     				font-weight: _font(weight-bold);
     				font-size: _font(ctrl-size-small);
     				line-height: _font(ctrl-lheight-small);
@@ -1578,7 +1584,9 @@ width: 10%;
     				padding: 0;
     				margin: 0;
 					/*	font-family: _font(ctrl-family);*/
-					font-family: "Courier New";
+					// font-family: "Courier New";
+					font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
+
     				font-size: _font(ctrl-size-xsmall);
     				line-height: _font(ctrl-lheight-smaller);
 						white-space: nowrap;
@@ -1599,7 +1607,7 @@ width: 10%;
 						border: 0;
 						box-shadow: inset 0 0 0 2px _palette($p, border);
 						// color: _palette($p, fg-bold);
-						color: white;
+						color: rgb(200,200,200);
 						cursor: pointer;
 						font-size: _font(ctrl-bttn-size);
 						font-weight: _font(weight-bold);
@@ -1639,7 +1647,9 @@ width: 10%;
       	}
       	.tech {
       		/*font-family: _font(ctrl-family);*/
-      		font-family: "Courier New";
+      		// font-family: "Courier New";
+			  font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
+
       		font-size: _font(ctrl-size-xsmall);
       	}
       }
@@ -1729,7 +1739,7 @@ width: 10%;
 
 		&.style2 {
 			background-color: _palette(bg);
-			background-color:rgba(33, 37, 41, 0.75);
+			background-color:rgba(33, 37, 5, 0.75);
 		}
 
 		&.style3 {
@@ -1742,7 +1752,7 @@ width: 10%;
 
 		&.style5 {
 			@include wrapper(accent7);
-			background-color: rgba(33, 37, 41, 0.75);
+			background-color: rgba(30, 32, 45, 0.75);
 		}
 
 		@include breakpoint(medium) {
@@ -1830,7 +1840,7 @@ width: 10%;
 
 				> a {
 					border: 0;
-					color: white;
+					color: rgb(200,200,200);
 					// color: inherit;
 					display: block;
 					font-size: _font(hdr-size-xsmall);
@@ -2301,7 +2311,7 @@ width: 10%;
 		@include padding(6em, 0);
 /*		background-color: darken(_palette(bg), 8);*/
 	// background-color: black;
-	background-color: rgba(33, 37, 41, 0.75);
+	background-color: rgba(30, 32, 45, 0.75);
 
 		text-align: center;
 
@@ -2482,7 +2492,10 @@ width: 10%;
 
   .works_inprogress {
   	/*font-family: _font(prose-family);*/
-  	 			font-family: "Courier New";
+  	 			// font-family: "Courier New";
+
+				   font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
+
 
   	width:100%;
   	text-align:center;
