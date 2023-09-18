@@ -1,5 +1,5 @@
 ---
-title: Coruscant Library
+title: On the Nature of Tarnished Souls
 author: technomancer-01
 excerpt: Archive Retrieval from the Coruscant Library, Unsorted texts and other content pertaining to the Jedi order
 priority: 2

@@ -1,19 +1,16 @@
 ---
-title: Annals From Waterdeep
+title: Baldur's Gate 
 author: technomancer-01
-excerpt: Annotated illustrations fetched from Waterdeep's public archives
-
+excerpt: Annotations on the observations and data gathered from Gatewardens' reports and testimonies
+priority: 7
 tags: dnd, baldurs gate, cthulhu, dungeons and dragons
 skills:
-  - ink
+  - ink, sketching
 categories:
   - works
 
 background-image: arcaneink/baldurs-gate/small-image.png
 
-#date/lastmod are optional
-#date: 2022-05-07 16:02:16 -0700
-#lastmod: 2022-05-07 16:02:16 -0700
 ---
 
 ---
@@ -66,8 +63,7 @@ function myFunction(imgs) {
   cursor: pointer;
 }
   </style>
-Annotated illustrations fetched from Waterdeep's public archives and recreations from Gatewardens' accounts
-
+Annotated illustrations fetched from Waterdeep's public archives and recreations from Gatewardens' testimonies. This initiative received funding from the Lords of Waterdeep in efforts to counter Mind Flayer activity
 
 <div class="container">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>

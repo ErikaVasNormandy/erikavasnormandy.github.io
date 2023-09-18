@@ -1,8 +1,8 @@
 ---
-title: Saturday Morning Soulsborne
+title: Saturday Morning Soulsborne Collection
 author: technomancer-01
-excerpt: Spellbooks and scientific illustrations meet the Soulsborne universe and various other games
-priority: 1
+excerpt: Collection of Soulsborne-related pieces started in 2020 all the way up from Bloodborne to Elden Ring
+priority: 10
 tags: featured
 skills:
   - ink
@@ -11,10 +11,7 @@ categories:
 
 background-image: bloodbornecrow1.jpeg
 
-#date/lastmod are optional
-#date: 2022-05-07 16:02:16 -0700
-#lastmod: 2022-05-07 16:02:16 -0700
----
+
 
 ---
 <script>
