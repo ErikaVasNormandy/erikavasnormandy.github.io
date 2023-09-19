@@ -1,8 +1,8 @@
 ---
 title: Baldur's Gate 
 author: technomancer-01
-excerpt: Annotations on the observations and data gathered from Gatewardens' reports and testimonies
-priority: 7
+excerpt: Annotations on the observations and data gathered from Waterdeep
+priority: 4
 tags: dnd, baldurs gate, cthulhu, dungeons and dragons
 skills:
   - ink, sketching

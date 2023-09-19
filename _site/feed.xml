@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Sep 2023 23:32:49 -0700</pubDate>
-    <lastBuildDate>Sun, 17 Sep 2023 23:32:49 -0700</lastBuildDate>
+    <pubDate>Tue, 19 Sep 2023 16:47:46 -0700</pubDate>
+    <lastBuildDate>Tue, 19 Sep 2023 16:47:46 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -1332,8 +1332,50 @@ div.desc {
 &lt;/div&gt;
 
 
+&lt;/div&gt;
+
+&lt;!-- 1. --&gt;
+&lt;div class=&quot;flex-container&quot;&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/01-07-2023-starwars-hunter.png&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;&lt;i&gt;Blind allegiance makes you a pawn. A real leader protects his squad.&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/2023-01-2023-starwars-crosshair.png&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/2023-01-2023-starwars-crosshair.png&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;&lt;i&gt;&quot;You’re still their brother Crosshair. And you’re mine too.&quot;&lt;/i&gt; &lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/CucqBoGRHiH/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/01-aurebesh-close.jpeg&quot; &gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/01-aurebesh-close.jpeg&quot;  alt=&quot;Page 01&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br&gt;&lt;i&gt;01 - Aurebesh Transcription&lt;/i&gt;&lt;br&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+
+&lt;/div&gt;
 
 &lt;!-- &lt;div class=&quot;gallery&quot;&gt;
   &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot; &gt;
@@ -1347,7 +1389,6 @@ div.desc {
     &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
 &lt;/div&gt; --&gt;
 
-&lt;/div&gt;
 </description>
         <pubDate>Sat, 26 Aug 2023 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/works/star-wars.html</link>
@@ -1813,178 +1854,229 @@ div.desc {
     
       <item>
         <title>Bloodborne in Wonderland</title>
-        <description>&lt;hr /&gt;
+        <description>&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
 &lt;style&gt;
-    small{
+  small{
     font-size: 10px;
   }
-  .social-media-icons {
-    width: 20px;
-  }
-  .centertext{  
-    align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
- .flex-container {
-  display: flex;
-  justify-content: center;
-}
-.flex-container &gt; div {
-  margin: auto;
-  padding: 20px;
-  font-size: 30px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
-}
+  /* The expanding image container */
+.container {
+  display: none;
 
-div.gallery {
-  /* border: 1px solid #ccc; */
-  width: 60%;
-  margin-bottom: 80px;
-
-  height: 500px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-  .gallery &gt;* {
-        flex: 1 1 80px;
-    }
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.main{
-  /* background-color: red; */
+  z-index: 10;
   margin-left: auto;
   margin-right: auto;
-  display: block;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
-div.main img{
 
-  width: 70%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
 }
 
-.displayImage{
-  /* width: 100%;
-  height: auto; */
-  width: 300px; 
-  height: 337px;
-  object-fit: cover;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
 }
 
-div.desc {
-  padding: 10px;
-  text-align: center;
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
 }
+  &lt;/style&gt;
 
-* {
-  box-sizing: border-box;
-}
+&lt;p text-align=&quot;justify&quot;&gt;
+&quot;The Hunter wearied of lingering beside Gehrman in the dismal workshop, his idleness weighing heavy upon him. Once or twice, he dared to sneak a glimpse into Gehrman's arcane tome, but found no solace in its void of illustrations or dialogue. 'What use is a tome,' pondered the Hunter, 'bereft of images and discourse?'
+&lt;/p&gt;
+&lt;p&gt;
+Thus, as the somber atmosphere of the Hunter's Dream enshrouded him in lethargy and frost, he contemplated—albeit sluggishly—whether the joy of crafting a garland of nightshade blooms was worth the effort of rising and plucking the spectral flora. Then, as the Hunter lingered in this contemplation, a White Beast with eyes as pale as the Abyss itself darted past.
+&lt;/p&gt;
 
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
+&lt;div class=&quot;main&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg&quot;&gt;
+    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg&quot; alt=&quot;Cinque Terre&quot; width=&quot;30%&quot; display=&quot;inline-flex&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
 
- @media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 80%;
-  }
-} 
-
-.clearfix:after {
-  content: &quot;&quot;;
-  display: table;
-  clear: both;
-}
-&lt;/style&gt;
-
-&lt;p&gt;Collection of texts from Yharnam’s public library and some fragments from donations from the Healing Church.&lt;/p&gt;
-
+&lt;p text-align=&quot;justify&quot;&gt;
+This spectacle, at first seemingly mundane, did not perturb the Hunter. Nor did it appear unusual when the Beast, murmuring to itself, uttered, 'Oh dear, oh dear, I shall be delayed!' In retrospect, the Hunter would wonder at the peculiarity of this utterance, but in that moment, it all seemed fitting. Yet, when the Beast, from its waistcoat-pocket, produced a timepiece and scrutinized it before scurrying onward, the Hunter jolted upright. A revelation seized him—he had never before beheld a beast with a waistcoat-pocket, nor one carrying a timepiece. Fueled by curiosity, he gave chase across the eerie field, his pursuit culminating as the Beast descended into a gaping chasm, concealed beneath the sinister hedge.&quot;
+&lt;/p&gt;
 &lt;!-- 2. --&gt;
-&lt;div class=&quot;flex-container&quot;&gt;
 
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; &gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis.png&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br&gt;&lt;i&gt;&quot;The Last of Us&quot;&lt;/i&gt;&lt;br&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/arcaneink/bloodborneinwonderland/20230722-bloodborneinwonderland2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt; The Plain Doll&lt;/h2&gt;
+  &lt;i&gt;The Plain Doll thought she had never seen such a curious Great One in her existence: its body was sleek and grey, like that of a slug, although from its ‬head sprouted a great many append-ages that twitched when her wooden hands brushed the damp skin.
+&lt;br /&gt;&lt;br /&gt;
+“Are you cold?”
+&lt;br /&gt;&lt;br /&gt;
 
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/bloodborneinwonderland/20230729-bloodborneinwonderlandCrow.png&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/bloodborneinwonderland/20230729-bloodborneinwonderlandCrow.png&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 29, 2023&lt;br /&gt;&lt;i&gt;A Cheshire Crow&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CucqBoGRHiH/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+The little infant of a cephalopod nature twitched, its sleek skin shining in the moonlight as she held it up to peer at its face.
+&lt;br /&gt;&lt;br /&gt;
+“Oh, Good Hunter.”&lt;/i&gt;&lt;br /&gt;
+&lt;p&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
 &lt;/div&gt;
 
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/arcaneink/bloodborneinwonderland/20230729-bloodborneinwonderlandCrow.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt; The Cheshire Crow&lt;/h2&gt;
+ &lt;i&gt;
+ “…in that direction,” the Crow said, waving her right blade round, “lives Henryk, an old hunter, who has gone quite mad: &amp;amp; in that direction, is Father Gascoigne. Visit either you like: they’re both mad.”&lt;br /&gt;&lt;br /&gt;
 
+“But I don’t want to go among mad people,” the Hunter said.&lt;br /&gt;&lt;br /&gt;
 
+“Oh, you can’t help that,” said the Crow.&lt;br /&gt;&lt;br /&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/bloodborneinwonderland/20230722-bloodborneinwonderland2.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/bloodborneinwonderland/20230722-bloodborneinwonderland2.jpeg&quot; alt=&quot;Page 01&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 22, 2023&lt;br /&gt;&lt;i&gt;The Plain Doll as Alice holding the Duchess's baby.&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/rJDYPm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+“We’re all mad here. You must be, or you wouldn’t have come here.”&lt;br /&gt;&lt;br /&gt;
+ 
+ &lt;/i&gt;&lt;p&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
 &lt;/div&gt;
 
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-a.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt; 
+    &lt;h2&gt;Going Down Further Into Yharnam&lt;/h2&gt;
+   
+&lt;p&gt;
+ &lt;i&gt;
+The Hunter, unscathed, sprang to his feet without delay. He scanned his surroundings, but an ominous darkness loomed above. Ahead, a corridor stretched endlessly, and the White Beast persisted in its frenzied descent. Time was a fleeting phantom. 
+&lt;/i&gt;
 
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
 
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-b.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+    &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
 
+&lt;/i&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot; &gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot;  alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br&gt;&lt;i&gt;&quot;Horizon Zero Dawn&quot;&lt;/i&gt;&lt;br&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+    &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
 
+&lt;/i&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-b.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+    &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
+
+&lt;/i&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+    &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
+
+&lt;/i&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-d.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+    &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
+
+&lt;/i&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/BloodborneInWonderland.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/BloodborneInWonderland.html</guid>
+        <link>http://localhost:4000/works/bloodborne.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/bloodborne.html</guid>
         
         
         <category>works</category>
@@ -2099,7 +2191,9 @@ div.desc {
 }
 &lt;/style&gt;
 
-&lt;p&gt;Archive Retrieval from the Coruscant libraries, Unsorted texts and other content pertaining to the Jedi order. Please be sure to handle these pages with care; it is advised that all materials taken into micro gravity environments be kept sealed to prevent paper fibers from contaminating the vessel’s air.&lt;/p&gt;
+&lt;p&gt;“On the Nature of Tarnished Souls” is a meticulously curated anthology from the personal libraries of Sir Gideon Ofnir the All-Knowing. It is an amaglamation of accounts and translations of various Tarnished that have travelled to the Lands Between over the centuries that have followed the Shattering.&lt;/p&gt;
+
+&lt;p&gt;Within its leather-bound pages lies a repository of reflections and unearthed secrets, showcasing this world of the Lands Between in the accounts of the innumerable Tarnished Souls that have passed through here in the quest to become the Elden Lord.&lt;/p&gt;
 
 &lt;!-- 2. --&gt;
 &lt;div class=&quot;flex-container&quot;&gt;
@@ -2163,8 +2257,8 @@ div.desc {
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 22 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/OnTheNatureOfTarnishedSouls.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/OnTheNatureOfTarnishedSouls.html</guid>
+        <link>http://localhost:4000/works/elden-ring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/elden-ring.html</guid>
         
         
         <category>works</category>
@@ -2237,11 +2331,11 @@ a {
 &lt;/table&gt;
 </description>
         <pubDate>Mon, 27 Feb 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/commissions-julianna.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/commissions-julianna.html</guid>
+        <link>http://localhost:4000/topics/commissions-julianna.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/commissions-julianna.html</guid>
         
         
-        <category>works</category>
+        <category>topics</category>
         
       </item>
     
@@ -2455,11 +2549,11 @@ div.desc {
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 Jan 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/arcane-ink-starwars-bad-batch.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/arcane-ink-starwars-bad-batch.html</guid>
+        <link>http://localhost:4000/topics/arcane-ink-starwars-bad-batch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/arcane-ink-starwars-bad-batch.html</guid>
         
         
-        <category>works</category>
+        <category>topics</category>
         
       </item>
     

@@ -1,10 +1,10 @@
 ---
 title: Commissions - Julianna The Rest Giver
-excerpt: Quick chart on prices and such. Feel free to dm me for brainstorming though!
+excerpt: An example of a commission5
 priority: 1
 author: technomancer-01
 categories:
-  - works
+  - topics
 background-image: commissions/Julianna-Rest-Giver/full.png
 
 #date/lastmod are optional

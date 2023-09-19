@@ -1,14 +1,14 @@
 ---
 title: Arcane Ink
 author: technomancer-01
-excerpt: Saturdays
-priority: 2
+excerpt: Collection of Ink-Based Works 
+priority: 1
 skills:
   - ink
 categories:
   - works
 
-background-image: banner-horizon-zero-dawn.jpg
+background-image: bloodborne2.jpg
 
 #date/lastmod are optional
 #date: 2022-05-07 16:02:16 -0700

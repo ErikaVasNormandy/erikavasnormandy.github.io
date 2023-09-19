@@ -1,14 +1,14 @@
 ---
 title: On the Nature of Tarnished Souls
 author: technomancer-01
-excerpt: Archive Retrieval from the Coruscant Library, Unsorted texts and other content pertaining to the Jedi order
-priority: 2
+excerpt: A curated anthology from Sir Gideon Ofnir the All-Knowing. It is an amaglamation of accounts and translations of various Tarnished that have travelled to the Lands Between over the centuries that have followed the Shattering.
+priority: 9
 skills:
   - ink
 categories:
   - works
 
-background-image: aurabesh.jpg
+background-image: pic02-Marika.jpg
 #date/lastmod are optional
 #date: 2022-05-07 16:02:16 -0700
 #lastmod: 2022-05-07 16:02:16 -0700
@@ -120,7 +120,9 @@ div.desc {
 }
 </style>
 
-Archive Retrieval from the Coruscant libraries, Unsorted texts and other content pertaining to the Jedi order. Please be sure to handle these pages with care; it is advised that all materials taken into micro gravity environments be kept sealed to prevent paper fibers from contaminating the vessel's air.
+"On the Nature of Tarnished Souls" is a meticulously curated anthology from the personal libraries of Sir Gideon Ofnir the All-Knowing. It is an amaglamation of accounts and translations of various Tarnished that have travelled to the Lands Between over the centuries that have followed the Shattering.
+
+Within its leather-bound pages lies a repository of reflections and unearthed secrets, showcasing this world of the Lands Between in the accounts of the innumerable Tarnished Souls that have passed through here in the quest to become the Elden Lord. 
 
 <!-- 2. -->
 <div class="flex-container">

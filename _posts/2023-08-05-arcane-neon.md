@@ -2,13 +2,13 @@
 title: Arcane Neon
 author: technomancer-01
 excerpt: Bridging the gap between ink and neon
-priority: 1
+priority: 6
 skills:
   - ink
 categories:
   - works
 
-background-image: arcaneneon/banner.png
+background-image: pic01.jpg
 
 #date/lastmod are optional
 #date: 2022-05-07 16:02:16 -0700

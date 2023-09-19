@@ -6,7 +6,7 @@ priority: 1
 skills:
   - ink
 categories:
-  - works
+  - topics
 
 background-image: bloodborne-tober-overall.jpg
 
@@ -118,6 +118,9 @@ div.desc {
 }
 </style>
 
+
+
+
 <p class="centertext" align="center">
 "Farewell, good hunter. May you find your worth in the waking world."
 </p>
@@ -127,6 +130,9 @@ div.desc {
   </a>
   <div class="desc"></div>
 </div>
+
+
+
 
 <div class="flex-container">
 
