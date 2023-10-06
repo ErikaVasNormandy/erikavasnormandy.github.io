@@ -1,47 +1,21 @@
 ---
-title: Redbubble + Etsy Shop
-excerpt: Stickers, Spellbooks, Prints, Pins, Commissions/Requests
+title: Commissions
+excerpt: Commissions, Requests, Stickers, Spellbooks, Prints, Pins
 priority: 1
 tags: featured
 author: technomancer-01
-# permalink: /Tales-From-The-Leyline-Road/Fragged-Empire-Introduction
 categories:
   - topics
-background-image: comic/Intro/FraggedIntroPreview.jpg
+background-image: shop.png
 #date/lastmod are optional
 #date: 2022-04-01 14:30:42 -0700
 #lastmod: 2022-04-01 14:30:42 -0700
 ---
 
 
+## Commissions
 
-#### Shops:
-[Etsy](https://www.etsy.com/shop/Technomancer01)
-[Redbubble](https://www.redbubble.com/people/Technomancer-01)
-[Kofi](https://ko-fi.com/technomancer_01)
----
-key: 3
-title: Shop + Commissions
-permalink: /shop/
-excerpt: Art Prints, Custom Character Designs, Tome Fragments, Stickers up on my Redbubble and Etsy
-image: shop.png
-background-image: shop.png
-
----
-
-
-<h2>Commission Rates</h2>
-
-<style>
-  img {
-  float: left;
-  margin-right: 20px;
-}
-a {
-    color: lightgrey ;
-    text-decoration: underline;
-}
-  </style> 
+Would you like a custom spellbook page for your story or character? These page fragments are great props for fantasy rpg games or even Call of Cthulhu ones where the Necronomicon is concerned. 
 <table>
 
 <tr>
@@ -55,6 +29,14 @@ a {
   <td>Free</td>
   <td>Pitching the drawing, ideas, examples</td>
 </tr>
+
+<tr>
+  <td>Logo Design (File)</td>
+  <td>Free</td>
+  <td>Pitching the drawing, ideas, examples</td>
+</tr>
+
+
 
 <tr>
   <td>Formal Draft (process)</td>
@@ -83,6 +65,27 @@ a {
 </tr>
 
 </table>
+
+
+### Online Shops
+
+I have an actual shop page [here](https://technomancer-01.com/shop/) :)
+
+
+<!-- 
+<h2>Commission Rates</h2> -->
+
+<style>
+  img {
+  float: left;
+  margin-right: 20px;
+}
+a {
+    color: lightgrey ;
+    text-decoration: underline;
+}
+  </style> 
+
 <!-- <h2>Pricing Chart</h2> -->
 <!-- <ul>
   <li>Step 1: Brainstorming</li>
