@@ -3,10 +3,10 @@
   <channel>
     <title>Technomancer-01</title>
     <description>Netrunning, Illustrations, Concept Art</description>
-    <link>http://localhost:40001/</link>
-    <atom:link href="http://localhost:40001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Oct 2023 12:57:04 -0700</pubDate>
-    <lastBuildDate>Sat, 07 Oct 2023 12:57:04 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Oct 2023 20:31:41 -0700</pubDate>
+    <lastBuildDate>Fri, 20 Oct 2023 20:31:41 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -988,8 +988,8 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
 
 </description>
         <pubDate>Fri, 15 Sep 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:40001/works/saturday-morning-soulsborne.html</link>
-        <guid isPermaLink="true">http://localhost:40001/works/saturday-morning-soulsborne.html</guid>
+        <link>http://localhost:4000/works/saturday-morning-soulsborne.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/saturday-morning-soulsborne.html</guid>
         
         <category>featured</category>
         
@@ -1111,8 +1111,8 @@ function myFunction(imgs) {
 
 </description>
         <pubDate>Fri, 08 Sep 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:40001/works/baldurs-gate.html</link>
-        <guid isPermaLink="true">http://localhost:40001/works/baldurs-gate.html</guid>
+        <link>http://localhost:4000/works/baldurs-gate.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/baldurs-gate.html</guid>
         
         <category>dnd,</category>
         
@@ -1391,8 +1391,8 @@ div.desc {
 
 </description>
         <pubDate>Sat, 26 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:40001/works/star-wars.html</link>
-        <guid isPermaLink="true">http://localhost:40001/works/star-wars.html</guid>
+        <link>http://localhost:4000/works/star-wars.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/star-wars.html</guid>
         
         
         <category>works</category>
@@ -1673,8 +1673,8 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 12 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:40001/works/arcane-ink.html</link>
-        <guid isPermaLink="true">http://localhost:40001/works/arcane-ink.html</guid>
+        <link>http://localhost:4000/works/arcane-ink.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/arcane-ink.html</guid>
         
         
         <category>works</category>
@@ -1844,8 +1844,8 @@ div.desc {
 
 </description>
         <pubDate>Sat, 05 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:40001/works/arcane-neon.html</link>
-        <guid isPermaLink="true">http://localhost:40001/works/arcane-neon.html</guid>
+        <link>http://localhost:4000/works/arcane-neon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/arcane-neon.html</guid>
         
         
         <category>works</category>
@@ -2075,8 +2075,8 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:40001/works/bloodborne.html</link>
-        <guid isPermaLink="true">http://localhost:40001/works/bloodborne.html</guid>
+        <link>http://localhost:4000/works/bloodborne.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/bloodborne.html</guid>
         
         
         <category>works</category>
@@ -2257,8 +2257,8 @@ div.desc {
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 22 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:40001/works/elden-ring.html</link>
-        <guid isPermaLink="true">http://localhost:40001/works/elden-ring.html</guid>
+        <link>http://localhost:4000/works/elden-ring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/elden-ring.html</guid>
         
         
         <category>works</category>
@@ -2331,8 +2331,8 @@ a {
 &lt;/table&gt;
 </description>
         <pubDate>Mon, 27 Feb 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:40001/topics/commissions-julianna.html</link>
-        <guid isPermaLink="true">http://localhost:40001/topics/commissions-julianna.html</guid>
+        <link>http://localhost:4000/topics/commissions-julianna.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/commissions-julianna.html</guid>
         
         
         <category>topics</category>
@@ -2549,8 +2549,8 @@ div.desc {
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 Jan 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:40001/topics/arcane-ink-starwars-bad-batch.html</link>
-        <guid isPermaLink="true">http://localhost:40001/topics/arcane-ink-starwars-bad-batch.html</guid>
+        <link>http://localhost:4000/topics/arcane-ink-starwars-bad-batch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/arcane-ink-starwars-bad-batch.html</guid>
         
         
         <category>topics</category>
@@ -2562,6 +2562,18 @@ div.desc {
         <description>&lt;h2 id=&quot;commissions&quot;&gt;Commissions&lt;/h2&gt;
 
 &lt;p&gt;Would you like a custom spellbook page for your story or character? These page fragments are great props for fantasy rpg games or even Call of Cthulhu ones where the Necronomicon is concerned.&lt;/p&gt;
+
+&lt;p&gt;Example from a client’s book&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/commissions/Julianna-Rest-Giver/full.png&quot; alt=&quot;Desktop View&quot; width=&quot;872&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The client found me through Instagram, and through some messages, we communicated an idea of what he was aiming for, what he wanted, and generally just bounced ideas back and forth on what kind of spellbook page to make&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-contact&quot;&gt;How to Contact&lt;/h2&gt;
+
+&lt;p&gt;DM me on Instagram! Or Linkedin if you like. I suppose I also have my business account at archives@technomancer-01.com for now.&lt;/p&gt;
+
+&lt;h2 id=&quot;cost-breakdown&quot;&gt;Cost Breakdown&lt;/h2&gt;
 &lt;table&gt;
 
 &lt;tr&gt;
@@ -2596,7 +2608,7 @@ div.desc {
   &lt;td&gt;Photo (capture full layout with natural lighting and staged images) delivered by email from archives@technomancer-01.com. This is the culmination of actually drawing the piece + the labor of actually going out to stage the photos&lt;/td&gt;
 &lt;/tr&gt;
 
-
+ 
 &lt;tr&gt;
   &lt;td&gt;Digital Copy&lt;/td&gt;
   &lt;td&gt;25 USD&lt;/td&gt;
@@ -2614,7 +2626,7 @@ div.desc {
 
 &lt;h3 id=&quot;online-shops&quot;&gt;Online Shops&lt;/h3&gt;
 
-&lt;p&gt;I have an actual shop page &lt;a href=&quot;https://technomancer-01.com/shop/&quot;&gt;here&lt;/a&gt; :)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://technomancer-01.com/shop/&quot;&gt;The usual Etsy ‘n Redbubble Line Up&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- 
 &lt;h2&gt;Commission Rates&lt;/h2&gt; --&gt;
@@ -2637,8 +2649,8 @@ a {
 
 </description>
         <pubDate>Sun, 01 Jan 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:40001/topics/commissions.html</link>
-        <guid isPermaLink="true">http://localhost:40001/topics/commissions.html</guid>
+        <link>http://localhost:4000/topics/commissions.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/commissions.html</guid>
         
         <category>featured</category>
         
