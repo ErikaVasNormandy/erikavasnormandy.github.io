@@ -1,8 +1,8 @@
 ---
-title: Bloodborne in Wonderland
+title: Bloodborne - Bloodborne in Wonderland
 author: technomancer-01
 excerpt: Beyond the Hunters' Dream and Through the Paleblood Looking Glass
-priority: 5
+priority: 8
 skills:
   - ink
 categories:
@@ -22,7 +22,7 @@ function myFunction(imgs) {
 </script>
 <style>
   small{
-    font-size: 10px;
+    font-size: 10px; 
   }
   /* The expanding image container */
 .container {
@@ -61,14 +61,25 @@ function myFunction(imgs) {
   font-size: 35px;
   cursor: pointer;
 }
+
+
+ 
+    img { 
+      float: left; 
+      margin: 4%; 
+
+    } 
+  
+    .book { 
+      text-align: justify; 
+      font-size: 25px; 
+    } 
+ 
+  
   </style>
-<p  text-align="justify">
+<p  class="book">
 "The Hunter wearied of lingering beside Gehrman in the dismal workshop, his idleness weighing heavy upon him. Once or twice, he dared to sneak a glimpse into Gehrman's arcane tome, but found no solace in its void of illustrations or dialogue. 'What use is a tome,' pondered the Hunter, 'bereft of images and discourse?'
 </p>
-<p>
-Thus, as the somber atmosphere of the Hunter's Dream enshrouded him in lethargy and frost, he contemplated—albeit sluggishly—whether the joy of crafting a garland of nightshade blooms was worth the effort of rising and plucking the spectral flora. Then, as the Hunter lingered in this contemplation, a White Beast with eyes as pale as the Abyss itself darted past.
-</p>
-
 
 <div class="main">
   <a target="_blank" href="/images/satmorningsoulsborne/BloodborneTober2022/Week5-b.jpg">
@@ -76,10 +87,14 @@ Thus, as the somber atmosphere of the Hunter's Dream enshrouded him in lethargy 
   </a>
   <div class="desc"></div>
 </div>
+<p class="book">
+Thus, as the somber atmosphere of the Hunter's Dream enshrouded him in lethargy and frost, he contemplated—albeit sluggishly—whether the joy of crafting a garland of nightshade blooms was worth the effort of rising and plucking the spectral flora. Then, as the Hunter lingered in this contemplation, a White Beast with eyes as pale as the Abyss itself darted past.
+</p>
 
-<p  text-align="justify">
+<p class="book">
 This spectacle, at first seemingly mundane, did not perturb the Hunter. Nor did it appear unusual when the Beast, murmuring to itself, uttered, 'Oh dear, oh dear, I shall be delayed!' In retrospect, the Hunter would wonder at the peculiarity of this utterance, but in that moment, it all seemed fitting. Yet, when the Beast, from its waistcoat-pocket, produced a timepiece and scrutinized it before scurrying onward, the Hunter jolted upright. A revelation seized him—he had never before beheld a beast with a waistcoat-pocket, nor one carrying a timepiece. Fueled by curiosity, he gave chase across the eerie field, his pursuit culminating as the Beast descended into a gaping chasm, concealed beneath the sinister hedge."
 </p>
+<br><br>
 <!-- 2. -->
 
 
@@ -208,6 +223,25 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
     <a href="https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
+    <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
+</p>
+</div>
+
+
+
+<div style="clear: left;" class="imageContainer">
+    <p style="float: left;">
+    <img class="inktoberdisplay"  src="/images/satmorningsoulsborne/BloodborneTober2022/Week3-d.png" onclick="myFunction(this);">
+    </p>
+    <h2>Valtr of the League</h2>
+<p><i>
+“Haven’t you seen enough of these wretched beasts, freakish slugs, and mad doctors? Sentence these fiends to death, with the help of your League confederates!"
+
+</i>
+ <br>
+    <a href="https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
+    <a href="https://www.artstation.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
+    <a href="https://www.deviantart.com/technomancer-01/art/Valtr-Master-of-The-League-992353155"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
 </p>
 </div>

@@ -5,12 +5,12 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Oct 2023 20:31:41 -0700</pubDate>
-    <lastBuildDate>Fri, 20 Oct 2023 20:31:41 -0700</lastBuildDate>
+    <pubDate>Sat, 04 Nov 2023 10:29:10 -0700</pubDate>
+    <lastBuildDate>Sat, 04 Nov 2023 10:29:10 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Saturday Morning Soulsborne Collection</title>
+        <title>Soulsborne - Full Collection</title>
         <description>&lt;script&gt;
 function myFunction(imgs) {
   var expandImg = document.getElementById(&quot;expandedImg&quot;);
@@ -1853,7 +1853,7 @@ div.desc {
       </item>
     
       <item>
-        <title>Bloodborne in Wonderland</title>
+        <title>Bloodborne - Bloodborne in Wonderland</title>
         <description>&lt;script&gt;
 function myFunction(imgs) {
   var expandImg = document.getElementById(&quot;expandedImg&quot;);
@@ -1866,7 +1866,7 @@ function myFunction(imgs) {
 
 &lt;style&gt;
   small{
-    font-size: 10px;
+    font-size: 10px; 
   }
   /* The expanding image container */
 .container {
@@ -1905,13 +1905,25 @@ function myFunction(imgs) {
   font-size: 35px;
   cursor: pointer;
 }
+
+
+ 
+    img { 
+      float: left; 
+      margin: 4%; 
+
+    } 
+  
+    .book { 
+      text-align: justify; 
+      font-size: 25px; 
+    } 
+ 
+  
   &lt;/style&gt;
 
-&lt;p text-align=&quot;justify&quot;&gt;
+&lt;p class=&quot;book&quot;&gt;
 &quot;The Hunter wearied of lingering beside Gehrman in the dismal workshop, his idleness weighing heavy upon him. Once or twice, he dared to sneak a glimpse into Gehrman's arcane tome, but found no solace in its void of illustrations or dialogue. 'What use is a tome,' pondered the Hunter, 'bereft of images and discourse?'
-&lt;/p&gt;
-&lt;p&gt;
-Thus, as the somber atmosphere of the Hunter's Dream enshrouded him in lethargy and frost, he contemplated—albeit sluggishly—whether the joy of crafting a garland of nightshade blooms was worth the effort of rising and plucking the spectral flora. Then, as the Hunter lingered in this contemplation, a White Beast with eyes as pale as the Abyss itself darted past.
 &lt;/p&gt;
 
 &lt;div class=&quot;main&quot;&gt;
@@ -1920,11 +1932,15 @@ Thus, as the somber atmosphere of the Hunter's Dream enshrouded him in lethargy 
   &lt;/a&gt;
   &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
+&lt;p class=&quot;book&quot;&gt;
+Thus, as the somber atmosphere of the Hunter's Dream enshrouded him in lethargy and frost, he contemplated—albeit sluggishly—whether the joy of crafting a garland of nightshade blooms was worth the effort of rising and plucking the spectral flora. Then, as the Hunter lingered in this contemplation, a White Beast with eyes as pale as the Abyss itself darted past.
+&lt;/p&gt;
 
-&lt;p text-align=&quot;justify&quot;&gt;
+&lt;p class=&quot;book&quot;&gt;
 This spectacle, at first seemingly mundane, did not perturb the Hunter. Nor did it appear unusual when the Beast, murmuring to itself, uttered, 'Oh dear, oh dear, I shall be delayed!' In retrospect, the Hunter would wonder at the peculiarity of this utterance, but in that moment, it all seemed fitting. Yet, when the Beast, from its waistcoat-pocket, produced a timepiece and scrutinized it before scurrying onward, the Hunter jolted upright. A revelation seized him—he had never before beheld a beast with a waistcoat-pocket, nor one carrying a timepiece. Fueled by curiosity, he gave chase across the eerie field, his pursuit culminating as the Beast descended into a gaping chasm, concealed beneath the sinister hedge.&quot;
 &lt;/p&gt;
-&lt;!-- 2. --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;!-- 2. --&gt;&lt;/p&gt;
 
 &lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
     &lt;p style=&quot;float: left;&quot;&gt;
@@ -2042,6 +2058,23 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
 
 &lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
     &lt;p style=&quot;float: left;&quot;&gt;
+    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week3-d.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+    &lt;/p&gt;
+    &lt;h2&gt;Valtr of the League&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;
+“Haven’t you seen enough of these wretched beasts, freakish slugs, and mad doctors? Sentence these fiends to death, with the help of your League confederates!&quot;
+
+&lt;/i&gt;
+ &lt;br /&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Valtr-Master-of-The-League-992353155&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
+    &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
     &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
@@ -2084,7 +2117,7 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
       </item>
     
       <item>
-        <title>On the Nature of Tarnished Souls</title>
+        <title>Elden Ring - On the Nature of Tarnished Souls</title>
         <description>&lt;hr /&gt;
 &lt;style&gt;
     small{
