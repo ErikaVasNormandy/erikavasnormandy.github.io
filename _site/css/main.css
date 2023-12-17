@@ -8,11 +8,11 @@
 
 .inktoberdisplay { max-width: 400px; max-height: 400px; object-fit: cover; margin: 20px 20px 20px 20px; object-fit: cover; display: block; }
 
-.imageContainer { clear: left; /* border: 1px solid #ccc; */ max-height: 500px; justify-content: center; object-fit: cover; min-height: 300px; display: inline-block; float: left; }
+.imageContainer { clear: left; /* border: 1px solid #ccc; */ max-height: 500px; justify-content: center; object-fit: cover; min-height: 300px; display: inline-block; float: left; margin-bottom: 25px; }
 
 .imageContainer img { max-width: 50%; height: auto; display: block; float: left; }
 
-.imageContainer p { padding-top: 40px; float: right; width: 45%; /* Adjust as needed */ }
+.imageContainer p { float: right; width: 45%; /* Adjust as needed */ }
 
 .social-media-icons { width: 20px; margin: 5px 5px 5px 5px; }
 
@@ -239,7 +239,7 @@ hr.major { /*margin: (_size(element-margin) * 2.25) 0;*/ }
 
 .inner .actions * { font-family: "Open Sans", Helvetica, sans-serif; }
 
-.inner li { margin-left: 0.2em; padding-left: 0.4em; }
+.inner li { padding-left: 0.4em; }
 
 blockquote { border-left: solid 5px #fff; font-style: italic; margin: 0 0 2em 0; padding: 0.5em 0 0.5em 2em; }
 
@@ -508,7 +508,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .features a:hover { border-bottom-color: none; }
 
-.features li { display: block; position: relative; text-align: left; width: 50%; }
+.features li { display: block; text-align: left; width: 50%; }
 
 .features li .container { width: 100%; height: 100%; margin: 0; padding: 2em 2em 2em 4em; }
 
@@ -1227,9 +1227,9 @@ body.is-mobile.landing #footer { background-color: #1d242a; }
 .works_inprogress { /*font-family: _font(prose-family);*/ font-family: "Source Sans Pro","Microsoft Yahei",sans-serif; width: 100%; text-align: center; margin-bottom: 16px; }
 
 /* Table of Contents */
-#markdown-toc { list-style: none; font-weight: bold; margin-bottom: 30px; position: fixed; top: 50%; /* Adjust the top position as needed */ right: 0; transform: translateY(-50%); padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); z-index: 1000; background-color: rgba(255, 255, 255, 0.2); }
+#markdown-toc { list-style-type: lower-roman; font-weight: bold; margin-bottom: 30px; position: fixed; top: 50%; /* Adjust the top position as needed */ right: 0; transform: translateY(-50%); padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); z-index: 1000; background-color: rgba(255, 255, 255, 0.2); font-size: 20%; width: 20%; }
 
-#markdown-toc li { list-style: none; font-weight: bold; }
+#markdown-toc li { list-style-type: lower-roman; font-weight: bold; font-size: small; }
 
 /* Video embeds http://embedresponsively.com https://github.com/jeffehobbs/embedresponsively MIT License */
 .embed-container { position: relative; padding-bottom: 56.25%; margin: 0 0 2em 0; height: 0; overflow: hidden; max-width: 100%; }

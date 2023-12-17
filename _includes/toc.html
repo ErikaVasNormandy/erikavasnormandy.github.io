@@ -1,4 +1,4 @@
-{% assign enable_toc = false %}
+<!-- {% assign enable_toc = false %}
 {% if site.toc and page.toc %}
   {% if page.content contains '<h2' or page.content contains '<h3' %}
     {% assign enable_toc = true %}
@@ -6,11 +6,11 @@
 {% endif %}
 
 {% if enable_toc %}
-  <section id="toc-wrapper" >
-    <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.toc -}}</h2>
+  <section id="toc-wrapper" class="ps-0 pe-4 mb-5">
+    <h2 class="panel-heading ps-3 pt-2 mb-2">{{- site.data.locales[include.lang].panel.toc -}}</h2>
     table of contents
     <nav id="toc"></nav>
   </section>
 {% endif %}
 
-
+ -->
