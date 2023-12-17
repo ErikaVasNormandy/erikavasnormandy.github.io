@@ -41,21 +41,32 @@ width: 10%;
 	
 }
 .imageContainer{
+	clear: left;
   /* border: 1px solid #ccc; */
 	max-height: 500px;
 	justify-content: center;
 	object-fit: cover;
   	min-height: 300px;
 	display: inline-block;
+	float: left;
 }
 
-/*imageContainer p {
-	padding: 5px 5px 5px 5px;
-	
+.imageContainer img{
+	max-width: 50%;
+	height: auto;
+	display: block; 
+	float: left;
 }
-.imageContainer h1 h2 h3 h4 h5 {
+
+.imageContainer p {
+	// padding: 5px 5px 5px 5px;
+	padding-top: 40px;
+	// float: right;
+	// width: 50%; /* Adjust as needed */
+	float: right;
+	width: 45%; /* Adjust as needed */
 }
-*/
+
 .social-media-icons {
 	width: 20px;
 	margin: 5px 5px 5px 5px;
@@ -279,11 +290,12 @@ width: 10%;
 	}
 
 /* customization */
+/// These are the "Cards"
 .inner{
 	// padding: 10px 10px 10px 10px;
 /*	background-color: white;
 	color: black;
-	*/
+	
 }
 
 
@@ -702,7 +714,7 @@ width: 10%;
 	}
 
 /* Image */
-
+ 
 	.image {
 		border-radius: 3px;
 		border: 0;
@@ -2493,14 +2505,36 @@ width: 10%;
   .works_inprogress {
   	/*font-family: _font(prose-family);*/
   	 			// font-family: "Courier New";
-
-				   font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
+	 font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
 
 
   	width:100%;
   	text-align:center;
   	margin-bottom:16px;
   }
+
+  /* Table of Contents */
+
+#markdown-toc {
+	list-style:none;
+	font-weight: bold;
+	margin-bottom: 30px;
+	position: fixed;
+	top: 50%; /* Adjust the top position as needed */
+	right: 0;
+	transform: translateY(-50%);
+	padding: 20px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	z-index: 1000;
+	background-color: rgba(255,255,255,0.2)
+}
+
+
+
+#markdown-toc li  {
+	list-style:none;
+	font-weight: bold;
+}
 
 /* Video embeds
      http://embedresponsively.com

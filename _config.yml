@@ -150,3 +150,8 @@ defaults:
 # to initialize arrays in assignments (assign myarr = site.empty_array)
 # (easier to grok than assign myarr = '' | split',')
 empty_array: []
+
+
+markdown: kramdown
+# kramdown:
+#   parse_block_html: true

@@ -119,7 +119,21 @@ div.desc {
 </style>
 
 
+{% include toc.html %}
+* toc
+{:toc}
+# The title of my page
+## The Subtitle of my page
+## hi
+## 2
+# Second oone
+# hello
+
+
 <div class="main">
+
+## 1st one
+## Second one
     <img src="/images/arcaneneon/banner.png" alt="Cinque Terre" width="600" height="400">
   <div class="desc"></div>
 </div>

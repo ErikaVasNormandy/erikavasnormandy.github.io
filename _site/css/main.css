@@ -8,15 +8,12 @@
 
 .inktoberdisplay { max-width: 400px; max-height: 400px; object-fit: cover; margin: 20px 20px 20px 20px; object-fit: cover; display: block; }
 
-.imageContainer { /* border: 1px solid #ccc; */ max-height: 500px; justify-content: center; object-fit: cover; min-height: 300px; display: inline-block; }
+.imageContainer { clear: left; /* border: 1px solid #ccc; */ max-height: 500px; justify-content: center; object-fit: cover; min-height: 300px; display: inline-block; float: left; }
 
-/*imageContainer p {
-	padding: 5px 5px 5px 5px;
-	
-}
-.imageContainer h1 h2 h3 h4 h5 {
-}
-*/
+.imageContainer img { max-width: 50%; height: auto; display: block; float: left; }
+
+.imageContainer p { padding-top: 40px; float: right; width: 45%; /* Adjust as needed */ }
+
 .social-media-icons { width: 20px; margin: 5px 5px 5px 5px; }
 
 .worksdisplay { width: 70%; padding-bottom: 50px; padding-left: 10px; padding-right: 10px; display: flex; }
@@ -230,21 +227,19 @@ hr { border: 0; border-bottom: solid 2px #fff; margin: 3em 0; }
 hr.major { /*margin: (_size(element-margin) * 2.25) 0;*/ }
 
 /* customization */
-.inner { /*	background-color: white; color: black; */ }
+.inner { /*	background-color: white; color: black; } article .inner { /* // If choosing serif font for headers h1, h2, h3, h4, h5, h6, h7 { color: _palette(accent7,fg); font-family: _font(prose-family); text-transform: none; letter-spacing: _size(letter-spacing); //font-weight: _font(weight); } // might have to adjust sizes as well h2 { font-size: _font(hdr-size-xlarge); } */ }
 
-article .inner { /* // If choosing serif font for headers h1, h2, h3, h4, h5, h6, h7 { color: _palette(accent7,fg); font-family: _font(prose-family); text-transform: none; letter-spacing: _size(letter-spacing); //font-weight: _font(weight); } // might have to adjust sizes as well h2 { font-size: _font(hdr-size-xlarge); } */ }
+.inner p, .inner dt, .inner dd, .inner p span, .inner th, .inner td, .inner li, .inner blockquote, .inner #post-date { font-size: 12pt; font-weight: 400; line-height: 1.65em; }
 
-article .inner p, article .inner dt, article .inner dd, article .inner p span, article .inner th, article .inner td, article .inner li, article .inner blockquote, article .inner #post-date { font-size: 12pt; font-weight: 400; line-height: 1.65em; }
+.inner th, .inner dt { font-weight: 700; }
 
-article .inner th, article .inner dt { font-weight: 700; }
+.inner #post-date { font-weight: 700; }
 
-article .inner #post-date { font-weight: 700; }
+.inner p code { font-size: 1.05em; }
 
-article .inner p code { font-size: 1.05em; }
+.inner .actions * { font-family: "Open Sans", Helvetica, sans-serif; }
 
-article .inner .actions * { font-family: "Open Sans", Helvetica, sans-serif; }
-
-article .inner li { margin-left: 0.2em; padding-left: 0.4em; }
+.inner li { margin-left: 0.2em; padding-left: 0.4em; }
 
 blockquote { border-left: solid 5px #fff; font-style: italic; margin: 0 0 2em 0; padding: 0.5em 0 0.5em 2em; }
 
@@ -1230,6 +1225,11 @@ body.is-mobile.landing #footer { background-color: #1d242a; }
 .nobullet { list-style-type: none; }
 
 .works_inprogress { /*font-family: _font(prose-family);*/ font-family: "Source Sans Pro","Microsoft Yahei",sans-serif; width: 100%; text-align: center; margin-bottom: 16px; }
+
+/* Table of Contents */
+#markdown-toc { list-style: none; font-weight: bold; margin-bottom: 30px; position: fixed; top: 50%; /* Adjust the top position as needed */ right: 0; transform: translateY(-50%); padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); z-index: 1000; background-color: rgba(255, 255, 255, 0.2); }
+
+#markdown-toc li { list-style: none; font-weight: bold; }
 
 /* Video embeds http://embedresponsively.com https://github.com/jeffehobbs/embedresponsively MIT License */
 .embed-container { position: relative; padding-bottom: 56.25%; margin: 0 0 2em 0; height: 0; overflow: hidden; max-width: 100%; }

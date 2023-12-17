@@ -11,8 +11,7 @@ categories:
 
 background-image: bloodbornecrow1.jpeg
 
-
-
+---
 ---
 <script>
 function myFunction(imgs) {
@@ -65,11 +64,55 @@ function myFunction(imgs) {
   cursor: pointer;
 }
   </style>
+
+{% include toc.html %}
+* toc
+{:toc}
+
+
+## Preface
 Every Saturday I try to do an old school looking illustration, either to pretty up my notes or to practice. It started out as Bloodborne since I needed a way to use a concept art book someone gave to me as a gift, but I've branched out into Horizon Zero Dawn and most recently, Elden Ring.
 
 This is a project I started very early into 2020 after deciding that I wanted to get better at drawing the kinds of Victorian/steampunk aesthetics that I had planned for Arda Hyperion. I'd also received the Bloodborne official concept art book, so what better way to kick off a playthrough than going through the book to practice the artwork? 
 
 Now, three years later, I'm hoping to scan these up into digital assets so I can start using the to make either actual spellbook or my technical illustrations.
+
+## Volumes
+- Elden Ring - On the Nature of Tarnished Souls
+- Bloodborne - Through the Paleblood Looking Glass & Beyond the Hunter’s Dream
+- Sekiro - On the Memories of Deadened Shadows
+- Dark Souls - Whispers Among the Ashen, From the Tales of Hollowed Undead 
+
+<br/>
+
+
+
+## Bloodborne 
+
+### Eileen the Crow
+ <div  class="imageContainer"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg" onclick="myFunction(this);">
+<p>"The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally..." </p>
+</div>
+
+### Bloodborne in Wonderland
+ <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230722-bloodborneinwonderland2.jpeg" onclick="myFunction(this);">
+
+### Beast's Embrace
+<img class="inktoberdisplay" src="/images/satmorningsoulsborne/10222022-bloodborne-beast-embrace1.jpeg" onclick="myFunction(this);" >
+
+
+
+## Elden Ring 
+### Shadow of The Erdtree
+
+
+
+
+
+
+
+
+
 
 <div class="container">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
@@ -79,11 +122,12 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
 </div>
 
 
+
 <div style="clear: left;" class="imageContainer">
     <p style="float: left;">
     <img class="inktoberdisplay" src="/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg" onclick="myFunction(this);">
     </p>
-  <h2 style="padding-top: 20px"> Eileen the Crow</h2>
+  <h2 style="padding-top: 20px"> </h2>
    <p> 
    <i>"The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally..." </i>
 <br><br>
@@ -91,13 +135,15 @@ Now, three years later, I'm hoping to scan these up into digital assets so I can
     Ah the one that sort of kicked it off. We were driving around in some of the smaller towns and backgrounds of rural Washington in search of coffee and pastries while Mom and Dad were still asleep.
     </small>
  <br>
+
+ <a target="_blank" href="https://www.instagram.com/technomancer_01" class="icon fa-instagram style2"><span class="label">instagram</span></a>
+ <a target="_blank" href="https://www.instagram.com/technomancer_01" class="icon  style1"><span class="label">instagram</span></a>
     <a href="https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA=="><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png"></a>
     <a href="https://www.artstation.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png"></a>
     <a href="https://www.deviantart.com/technomancer-01"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png"></a>
     <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png"></a>
 </p>
 </div>
-
 
 
 
@@ -182,7 +228,7 @@ Soon, soon it's coming soon. I obtained this from the 'Unprocessed' section. But
     <img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230601-TurtlePope.jpeg" onclick="myFunction(this);">
     </p>
   <h2 style="padding-top: 20px">Miriel, Pastor of Vows, aka Turtle Pope </h2>
-   <p> 
+   <p>  ## Miriel, Pastor of Vows, aka Turtle Pope
    <i>I welcome you, to the Church of Vows. I am Miriel, Steward of this sacred chamber. My apologies for the unseemly state of affairs.</i>
 <br><br>
 <small>
@@ -1066,5 +1112,6 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”"</i>
   
    </p>
 </div>
+
 
 
