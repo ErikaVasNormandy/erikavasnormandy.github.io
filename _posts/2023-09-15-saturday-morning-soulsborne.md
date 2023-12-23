@@ -188,7 +188,7 @@ Through the Paleblood Looking Glass & Beyond the Hunter’s Dream are volumes fr
 On the Nature of Tarnished Souls is a collection of accounts from various Tarnished and individuals with considerable knowledge of the past, present, and future of the Lands Between. 
 
 
-### Malenia
+### Malenia - Scarlet Flower
  <div class="imageContainer"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/07152022-eldenring-malenia.jpg" onclick="myFunction(this);">
  
 <p>“Each time the scarlet flower blooms, Malenia’s rot advances. It has bloomed twice already. With the third bloom, she will become a true goddess. I dreamt for so long, my flesh was dull gold, and my blood, rotted. Corpse after corpse, left in my wake… As I awaited… his return. Heed my words. I am Malenia, Blade of Miquella. And I have never known defeat. Now let your flesh be consumed by the Scarlet Rot!” 
@@ -222,6 +222,18 @@ On the Nature of Tarnished Souls is a collection of accounts from various Tarnis
   <a href="https://www.artstation.com/artwork/XgemJ3"><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-artstation.png"></a>
   <a href="https://www.redbubble.com/people/technomancer-01/shop/"><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-redbubble.png"></a>
   <a href="https://www.deviantart.com/technomancer-01/art/Ranni-Portrait-952123155"><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-deviantart.png"></a>
+  </p>
+</div>
+
+### Miquella
+ <div class="imageContainer"><img class="inktoberdisplay" src="/images/satmorningsoulsborne/20230401-eldenringmiquella.png" onclick="myFunction(this);">
+ 
+<p>"My brother will keep his promise. He possesses the wisdom, the allure, of a god - he is the most fearsome Empyrean of all."
+ </p><p>
+  <a href="https://www.instagram.com/p/Coz8rBgpYtk/?igshid=YmMyMTA2M2Y="><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-instagram.png"></a>
+  <a href="https://www.artstation.com/artwork/ZaW3gR"><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-artstation.png"></a>
+  <a href="https://www.redbubble.com/shop/ap/156464183"><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-redbubble.png"></a>
+  <a href="https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Miquella-995439934"><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-deviantart.png"></a>
   </p>
 </div>
 

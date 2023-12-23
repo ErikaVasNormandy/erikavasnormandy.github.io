@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Dec 2023 14:53:51 -0800</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 14:53:51 -0800</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2023 08:50:22 -0800</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2023 08:50:22 -0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -1175,9 +1175,10 @@ function myFunction(imgs) {
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#elden-ring&quot; id=&quot;markdown-toc-elden-ring&quot;&gt;Elden Ring&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#malenia&quot; id=&quot;markdown-toc-malenia&quot;&gt;Malenia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#malenia---scarlet-flower&quot; id=&quot;markdown-toc-malenia---scarlet-flower&quot;&gt;Malenia - Scarlet Flower&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#ranni&quot; id=&quot;markdown-toc-ranni&quot;&gt;Ranni&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#malenia-1&quot; id=&quot;markdown-toc-malenia-1&quot;&gt;Malenia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#malenia&quot; id=&quot;markdown-toc-malenia&quot;&gt;Malenia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#miquella&quot; id=&quot;markdown-toc-miquella&quot;&gt;Miquella&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#journey-to-the-lands-between&quot; id=&quot;markdown-toc-journey-to-the-lands-between&quot;&gt;Journey to The Lands Between&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#queen-marika&quot; id=&quot;markdown-toc-queen-marika&quot;&gt;Queen Marika&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#lord-godfrey&quot; id=&quot;markdown-toc-lord-godfrey&quot;&gt;Lord Godfrey&lt;/a&gt;&lt;/li&gt;
@@ -1307,7 +1308,7 @@ function myFunction(imgs) {
 &lt;h2 id=&quot;elden-ring&quot;&gt;Elden Ring&lt;/h2&gt;
 &lt;p&gt;On the Nature of Tarnished Souls is a collection of accounts from various Tarnished and individuals with considerable knowledge of the past, present, and future of the Lands Between.&lt;/p&gt;
 
-&lt;h3 id=&quot;malenia&quot;&gt;Malenia&lt;/h3&gt;
+&lt;h3 id=&quot;malenia---scarlet-flower&quot;&gt;Malenia - Scarlet Flower&lt;/h3&gt;
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/07152022-eldenring-malenia.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
  
 &lt;p&gt;“Each time the scarlet flower blooms, Malenia’s rot advances. It has bloomed twice already. With the third bloom, she will become a true goddess. I dreamt for so long, my flesh was dull gold, and my blood, rotted. Corpse after corpse, left in my wake… As I awaited… his return. Heed my words. I am Malenia, Blade of Miquella. And I have never known defeat. Now let your flesh be consumed by the Scarlet Rot!” 
@@ -1331,7 +1332,7 @@ function myFunction(imgs) {
   &lt;/p&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;malenia-1&quot;&gt;Malenia&lt;/h3&gt;
+&lt;h3 id=&quot;malenia&quot;&gt;Malenia&lt;/h3&gt;
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/2023-02-18-malenia.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
  
 &lt;p&gt;&quot;I dreamt for so long. My flesh was dull gold...and my blood, rotted. Corpse after corpse, left in my wake... As I awaited... his return ...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat.&quot;
@@ -1340,6 +1341,18 @@ function myFunction(imgs) {
   &lt;a href=&quot;https://www.artstation.com/artwork/XgemJ3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Ranni-Portrait-952123155&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;miquella&quot;&gt;Miquella&lt;/h3&gt;
+&lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230401-eldenringmiquella.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+ 
+&lt;p&gt;&quot;My brother will keep his promise. He possesses the wisdom, the allure, of a god - he is the most fearsome Empyrean of all.&quot;
+ &lt;/p&gt;&lt;p&gt;
+  &lt;a href=&quot;https://www.instagram.com/p/Coz8rBgpYtk/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;https://www.artstation.com/artwork/ZaW3gR&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;https://www.redbubble.com/shop/ap/156464183&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Miquella-995439934&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
   &lt;/p&gt;
 &lt;/div&gt;
 
