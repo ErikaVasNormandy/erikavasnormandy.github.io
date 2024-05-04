@@ -117,7 +117,7 @@ width: 10%;
 
 		&.is-loading {
 			*, *:before, *:after {
-				@include vendor('animation', 'none !important');
+				// @include vendor('animation', 'none !important');
 				@include vendor('transition', 'none !important');
 			}
 		}
@@ -345,7 +345,7 @@ width: 10%;
 
 	blockquote {
 		border-left: solid 5px _palette(border);
-		font-style: italic;
+		//font-style: italic;
 		margin: 0 0 _size(element-margin) 0;
 		padding: 0.5em 0 0.5em 2em;
 		p:last-child {
@@ -357,7 +357,7 @@ width: 10%;
 		font-family: _font(family-fixed);
 		font-size: _font(fixed-size);
 		letter-spacing: 0;
-		//background: #eeeeee;
+	//	background: #eeeeee;
 		//border: 1px solid #e2e2e2;
 		//margin: 0 0.25em;
 		//padding: 0.1em 0.3em 0.1em 0.3em;
@@ -373,9 +373,10 @@ width: 10%;
 			border-radius: 6px;
 			display: block;
 			line-height: _font(fixed-lheight);
-			background-color: #EEEEEB;
+		//	background-color: #EEEEEB;
 			padding: 1em 1.5em;
 			overflow-x: auto;
+            color: rgb(10,250,20);
 		}
 
 	}
@@ -2026,8 +2027,8 @@ width: 10%;
 
 		h1 {
 			@include vendor('transform', 'scale(1)');
-//		@include vendor('transition', ('transform 0.5s ease', 'opacity 0.5s ease'));
-			@include vendor('transition', ('transform 0.2s ease', 'opacity 0.2s ease'));
+		@include vendor('transition', ('transform 0.5s ease', 'opacity 0.5s ease'));
+			// @include vendor('transition', ('transform 0.2s ease', 'opacity 0.2s ease'));
 			display: inline-block;
 			font-size: 1.75em;
 			line-height: 1.75em;
@@ -2038,10 +2039,10 @@ width: 10%;
 			text-transform: none;
 
 			&:before, &:after {
-//			@include vendor('transition', 'width 0.85s ease');
-//			@include vendor('transition-delay', '0.25s');
-				@include vendor('transition', 'width 0.85s ease');
-				@include vendor('transition-delay', '0');
+			@include vendor('transition', 'width 0.85s ease');
+			@include vendor('transition-delay', '0.25s');
+				// @include vendor('transition', 'width 0.85s ease');
+				// @include vendor('transition-delay', '0');
 				background: _palette(fg-bold);
 				content: '';
 				display: block;
@@ -2072,8 +2073,8 @@ width: 10%;
 
 		.more {
 			@include vendor('transition', ('transform 0.75s ease', 'opacity 0.75s ease'));
-//		@include vendor('transition-delay', '3.5s');
-			@include vendor('transition-delay', '0');
+		@include vendor('transition-delay', '3.5s');
+			// @include vendor('transition-delay', '0');
 			@include vendor('transform', 'translateY(0)');
 			border: none;
 			bottom: 0;

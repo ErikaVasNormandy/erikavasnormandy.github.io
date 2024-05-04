@@ -3,11 +3,96 @@
   <channel>
     <title>Technomancer-01</title>
     <description>Netrunning, Illustrations, Concept Art</description>
-    <link>http://localhost:4001/</link>
-    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Dec 2023 09:16:30 -0800</pubDate>
-    <lastBuildDate>Sat, 30 Dec 2023 09:16:30 -0800</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 04 May 2024 15:55:31 -0700</pubDate>
+    <lastBuildDate>Sat, 04 May 2024 15:55:31 -0700</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Scratchpad Vol 1</title>
+        <description>&lt;h2 id=&quot;00-starting-out&quot;&gt;00 Starting Out&lt;/h2&gt;
+
+&lt;h3 id=&quot;some-conversion-units&quot;&gt;Some Conversion Units&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1 oz = 28.35 g
+1 g = 0.035 oz
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;some-variables&quot;&gt;Some Variables&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Unit_Of_Purchase&lt;/li&gt;
+    &lt;li&gt;Cost_Purchase&lt;/li&gt;
+    &lt;li&gt;Unit_Serving_A:&lt;/li&gt;
+    &lt;li&gt;Unit_Serving_B:&lt;/li&gt;
+    &lt;li&gt;Unit_Serving_C:&lt;/li&gt;
+    &lt;li&gt;Cost_Serving: ?&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;01-espresso&quot;&gt;01 Espresso&lt;/h2&gt;
+
+&lt;blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Unit_Of_Purchase: 10oz bag of beans usually&lt;/li&gt;
+    &lt;li&gt;Cost_Purchase: $9 (for our example)&lt;/li&gt;
+    &lt;li&gt;Unit_Serving_A: Espresso Shot&lt;/li&gt;
+    &lt;li&gt;Unit_Serving_B:&lt;/li&gt;
+    &lt;li&gt;Unit_Serving_C:&lt;/li&gt;
+    &lt;li&gt;Cost_Serving: ?&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You need to find this file, it should be in the directory you downloaded and unzipped.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;content
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;02-flour&quot;&gt;02 Flour&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&quot;language-`&quot;&gt;&amp;gt;&amp;gt;&amp;gt; If the bag of flour is 5 pounds, and I bought the bag of flour for 3 dollars, how many dollars is a cup of flour?
+
+Great! To find out how much a cup of flour costs, we need to know the weight of a cup of flour. One cup of all-purpose flour weighs approximately 120 grams.
+
+So, if the bag of flour weighs 5 pounds (which is equal to 5 x 453.6 grams), and you bought the bag for $3, you can calculate the cost of a cup of
+ flour as follows:
+
+Cost of a cup of flour = Total cost of the bag of flour / Weight of a cup of flour
+= $3 / 120 grams
+= $0.025 per gram
+
+Therefore, the cost of a cup of flour is $0.025 per gram. Since there are 120 grams in a cup, you can multiply the cost per gram by 120 to find the cost of a cup of flour:
+
+Cost of a cup of flour = $0.025 per gram x 120 grams/cup
+= $3 per cup
+
+So, if the bag of flour is 5 pounds, then the cost of a cup of flour is $3 per cup.
+
+&amp;gt;&amp;gt;&amp;gt; Send a message (/? for help)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Sat, 17 Feb 2024 19:33:00 -0800</pubDate>
+        <link>http://localhost:4000/topics/collection-of-scripts-vol-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/collection-of-scripts-vol-1.html</guid>
+        
+        <category>forensics</category>
+        
+        <category>memprocfs</category>
+        
+        <category>annotations</category>
+        
+        <category>13cubed</category>
+        
+        
+        <category>topics</category>
+        
+      </item>
     
       <item>
         <title>Elden Ring - Ranni Portrait</title>
@@ -40,8 +125,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 30 Dec 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4001/works/Ranni-Portrait.html</link>
-        <guid isPermaLink="true">http://localhost:4001/works/Ranni-Portrait.html</guid>
+        <link>http://localhost:4000/works/Ranni-Portrait.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Ranni-Portrait.html</guid>
         
         
         <category>works</category>
@@ -80,8 +165,8 @@
 
 </description>
         <pubDate>Sun, 17 Dec 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4001/topics/Winter-Cleaning.html</link>
-        <guid isPermaLink="true">http://localhost:4001/topics/Winter-Cleaning.html</guid>
+        <link>http://localhost:4000/topics/Winter-Cleaning.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/Winter-Cleaning.html</guid>
         
         
         <category>topics</category>
@@ -190,7 +275,7 @@ function myFunction(imgs) {
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
  
 
-&lt;p&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor&apos;s mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; 
+&lt;p&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; 
  &lt;/p&gt;
   &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -208,7 +293,7 @@ function myFunction(imgs) {
 &lt;h3 id=&quot;shadow-of-the-erdtree&quot;&gt;Shadow of The Erdtree&lt;/h3&gt;
 
 &lt;div class=&quot;container&quot;&gt;
-  &lt;span onclick=&quot;this.parentElement.style.display=&apos;none&apos;&quot; class=&quot;closebtn&quot;&gt;&amp;times;&lt;/span&gt;
+  &lt;span onclick=&quot;this.parentElement.style.display='none'&quot; class=&quot;closebtn&quot;&gt;&amp;times;&lt;/span&gt;
   &lt;img id=&quot;expandedImg&quot; style=&quot;width:100%&quot; /&gt;
   &lt;div id=&quot;imgtext&quot;&gt;&lt;/div&gt;
   &lt;!-- &lt;button onclick=&quot;toggle(this);&quot;&gt;Hide Iframe&lt;/button&gt; --&gt;
@@ -220,7 +305,7 @@ function myFunction(imgs) {
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt; &lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor&apos;s mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; &lt;/i&gt;
+   &lt;i&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; &lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
     Ah the one that sort of kicked it off. We were driving around in some of the smaller towns and backgrounds of rural Washington in search of coffee and pastries while Mom and Dad were still asleep.
@@ -245,7 +330,7 @@ function myFunction(imgs) {
    &lt;i&gt;“Rise, Tarnished, and let us walk a new path together.”&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
-Soon, soon it&apos;s coming soon. I obtained this from the &apos;Unprocessed&apos; section. But it feels a bit more like some portent of the future, or perhaps somewhere further down in the timeline.
+Soon, soon it's coming soon. I obtained this from the 'Unprocessed' section. But it feels a bit more like some portent of the future, or perhaps somewhere further down in the timeline.
   &lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CuKnK8xxWXj/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -290,10 +375,10 @@ Soon, soon it&apos;s coming soon. I obtained this from the &apos;Unprocessed&apo
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;The Battle of Malenia and General Radahn&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt;“And now Caelid has been engulfed by the scarlet rot, even approaching the region is no mean feat. I&apos;ve heard survivors of Radahn&apos;s army are still in the wilds, staving off the rot with fire. And if it&apos;s true, I suspect Radahn is still there as well, in Caelid. Though I doubt he much resembles his former self anymore...”&lt;/i&gt;
+   &lt;i&gt;“And now Caelid has been engulfed by the scarlet rot, even approaching the region is no mean feat. I've heard survivors of Radahn's army are still in the wilds, staving off the rot with fire. And if it's true, I suspect Radahn is still there as well, in Caelid. Though I doubt he much resembles his former self anymore...”&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
-  I have noticed a lot of my friends on instagram hide their like count... and while I generally try to avoid getting too sucked into chasing numbers, it does bother me a bit at times since it feels like some kind of wider change happened due to that &quot;ever so elusive Instagram algorithm&quot;. I&apos;m going to have to focus a bit more on the real world rather than making any drastic changes online. Sorry if I&apos;m technically following you but not interacting as much. I actually do feel that I use the app more yet friends that only sporadically post seem to get pushed down. Stay creative folks. I hope that my social medias and websites, are a nice experience for all of you.
+  I have noticed a lot of my friends on instagram hide their like count... and while I generally try to avoid getting too sucked into chasing numbers, it does bother me a bit at times since it feels like some kind of wider change happened due to that &quot;ever so elusive Instagram algorithm&quot;. I'm going to have to focus a bit more on the real world rather than making any drastic changes online. Sorry if I'm technically following you but not interacting as much. I actually do feel that I use the app more yet friends that only sporadically post seem to get pushed down. Stay creative folks. I hope that my social medias and websites, are a nice experience for all of you.
   &lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CuKnK8xxWXj/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -348,7 +433,7 @@ Soon, soon it&apos;s coming soon. I obtained this from the &apos;Unprocessed&apo
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Statue of Marika the Eternal, 2nd Church of Marika &lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt;&quot;Marika&apos;s trespass demanded a heavy sentence. But even in shackles, she remains a god, and the vision&apos;s vessel. Confer Great Runes to become Elden Lord, and join Queen Marika as her consort. The Fingers have willed it so. Now, you may go&quot;&lt;/i&gt;
+   &lt;i&gt;&quot;Marika's trespass demanded a heavy sentence. But even in shackles, she remains a god, and the vision's vessel. Confer Great Runes to become Elden Lord, and join Queen Marika as her consort. The Fingers have willed it so. Now, you may go&quot;&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
     Properly finished this one up, next week is more Tears of the Kingdom, and somewhere in that, Bloodborne in Wonderland (finally) :).
@@ -385,7 +470,7 @@ Soon, soon it&apos;s coming soon. I obtained this from the &apos;Unprocessed&apo
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Scarlet Rot &lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt;&quot;And now Caelid has been engulfed by the scarlet rot, even approaching the region is no mean feat. I&apos;ve heard survivors of Radahn&apos;s army are still in the wilds, staving off the rot with fire. And if it&apos;s true, I suspect Radahn is still there as well, in Caelid. Though I doubt he much resembles his former self anymore...&quot;&lt;/i&gt;
+   &lt;i&gt;&quot;And now Caelid has been engulfed by the scarlet rot, even approaching the region is no mean feat. I've heard survivors of Radahn's army are still in the wilds, staving off the rot with fire. And if it's true, I suspect Radahn is still there as well, in Caelid. Though I doubt he much resembles his former self anymore...&quot;&lt;/i&gt;
 &lt;br&gt;&lt;br&gt;
 &lt;small&gt;
     Remember that Marika piece from way back? I finally got around to cleaning it up and printing it out in greeting card form.
@@ -460,7 +545,7 @@ Soon, soon it&apos;s coming soon. I obtained this from the &apos;Unprocessed&apo
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Ranni&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt; This doll&apos;s body is not without its hindrances...I shall soon enter my slumber.And it will be some time before I wake.Still, I have high hopes for thee.I look forward to the good news when I arise.”
+   &lt;i&gt; This doll's body is not without its hindrances...I shall soon enter my slumber.And it will be some time before I wake.Still, I have high hopes for thee.I look forward to the good news when I arise.”
 &lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
@@ -518,9 +603,9 @@ Soon, soon it&apos;s coming soon. I obtained this from the &apos;Unprocessed&apo
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard-Rune.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Rykard&apos;s Rune&lt;/h2&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Rykard's Rune&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt; &quot;A Great Rune of the shardbearer Rykard. Rykard was amongst the children of Rennala and Radago, who became demigod stepchildren after Radagon&apos;s union with the Queen Marika. But Rykard fed himself to the blasphemous serpent, Great Rune and all.&quot;&lt;/i&gt;
+   &lt;i&gt; &quot;A Great Rune of the shardbearer Rykard. Rykard was amongst the children of Rennala and Radago, who became demigod stepchildren after Radagon's union with the Queen Marika. But Rykard fed himself to the blasphemous serpent, Great Rune and all.&quot;&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
 
@@ -579,7 +664,7 @@ Zullie the Witch&quot;&gt;Zullie the Witch&lt;/a&gt;
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;General Radahn (Pre-Scarlet Rot Madness)&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt; &quot;Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia&apos;s scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.&quot;&lt;/i&gt;
+   &lt;i&gt; &quot;Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.&quot;&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;Not much for today, I’m in the flurry of holidays. Hopefully you are too, but if not, maybe General Radahn pre-Scarlet Rot Madness can uplift you.
 
@@ -602,7 +687,7 @@ Zullie the Witch&quot;&gt;Zullie the Witch&lt;/a&gt;
    &lt;i&gt; &quot;A living construct fashioned after felines and hounds, made to watch over catacombs. The Watchdogs, battered and broken over their lengthy tenure, rule the catacombs and are even said to command the imps.&quot;&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
-  Wow Elden Ring got Game of the Year!!! I have a soft spot for Horizon Forbidden West, but I can see why Elden Ring won. I&apos;m a bit curious to see where the next Soulsborne game goes, but for now I&apos;m sure we&apos;ll all have quite a bit of content to go off for for a while.
+  Wow Elden Ring got Game of the Year!!! I have a soft spot for Horizon Forbidden West, but I can see why Elden Ring won. I'm a bit curious to see where the next Soulsborne game goes, but for now I'm sure we'll all have quite a bit of content to go off for for a while.
     &lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -618,7 +703,7 @@ Zullie the Witch&quot;&gt;Zullie the Witch&lt;/a&gt;
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Starscourge Radahn&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt; &quot;Radahn was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon&apos;s union with Queen Marika.
+   &lt;i&gt; &quot;Radahn was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika.
 The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
@@ -638,7 +723,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Starscourge Radahn&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt; “Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia&apos;s scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.”&lt;/i&gt;
+   &lt;i&gt; “Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.”&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
    I was amongst many who focused on Malenia when the trailer first dropped, but Radahn’s growing on me character wise. Elden Ring somehow makes a huge troll-like figure riding around on a tiny horse a dramatic boss fight.
@@ -657,10 +742,10 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;/p&gt;
   &lt;h2 style=&quot;padding-top: 20px&quot;&gt;A Letter to my Archivist&lt;/h2&gt;
    &lt;p&gt; 
-   &lt;i&gt; “But where is Ranni&apos;s own Great Rune? As daughter of Rennala, last Queen of Caria and Queen of the Full Moon, pperhaps she hid it on the Moon itself&quot;&lt;/i&gt;
+   &lt;i&gt; “But where is Ranni's own Great Rune? As daughter of Rennala, last Queen of Caria and Queen of the Full Moon, pperhaps she hid it on the Moon itself&quot;&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
-    I&apos;m at a loss, I love handwriting but I can&apos;t be handwriting all the time... I don&apos;t really want to make my own fonts but maybe I need to.
+    I'm at a loss, I love handwriting but I can't be handwriting all the time... I don't really want to make my own fonts but maybe I need to.
     &lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/ClbxIwevSLW/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -698,7 +783,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
    &lt;i&gt; “The stakes honor Queen Marika the Eternal, ruler of the Lands Between.&lt;br /&gt;Queen Marika has high hopes for us. That we continue to struggle. Unto eternity.&quot;&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
-    I have a shop now, a couple of items and some prototypes if you&apos;d like. I&apos;m a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I&apos;m there : )
+    I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
     &lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -718,7 +803,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
 ”&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
-    I have a shop now, a couple of items and some prototypes if you&apos;d like. I&apos;m a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I&apos;m there : )
+    I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
     &lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -737,7 +822,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
    &lt;i&gt; “Oh yes... Tarnished, are we? Come to the Lands Between for the Elden Ring, hmm? Of course you have. No shame in it. Unfortunately for you, however, you are maidenless.”&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;small&gt;
-    Glad I didn&apos;t immediately smack him on finding him in Limgrave but he&apos;s got a sly vibe don&apos;t he? This week is a bit of a smaller one since I&apos;ve been busy with Code for America stuff and printing these out on paper : ). I may take a break next week, both to celebrate Thanksgiving with family and friends, and also to work on the shop....
+    Glad I didn't immediately smack him on finding him in Limgrave but he's got a sly vibe don't he? This week is a bit of a smaller one since I've been busy with Code for America stuff and printing these out on paper : ). I may take a break next week, both to celebrate Thanksgiving with family and friends, and also to work on the shop....
     &lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -751,7 +836,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10222022-bloodborne-beast-embrace1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-    &lt;h3 style=&quot;padding-top: 20px&quot;&gt;Bloodborne-tober VI - Beast&apos;s Embrace &lt;/h3&gt;
+    &lt;h3 style=&quot;padding-top: 20px&quot;&gt;Bloodborne-tober VI - Beast's Embrace &lt;/h3&gt;
    &lt;p&gt; &lt;i&gt;”Those who swear this oath take on a ghastly form and enjoy accentuated transformation effects, especially while wielding a beast weapon.&quot;&lt;/i&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -766,7 +851,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
   &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10152022-bloodborne-Valtr.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
 &lt;/p&gt;
     &lt;h3 style=&quot;padding-top: 20px&quot;&gt;Bloodborne-tober III - Valtr &lt;/h3&gt;
-   &lt;p&gt;&lt;i&gt; ”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man&apos;s impurity.  This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always.&quot;&lt;/i&gt;&lt;small&gt;&lt;/small&gt;
+   &lt;p&gt;&lt;i&gt; ”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man's impurity.  This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always.&quot;&lt;/i&gt;&lt;small&gt;&lt;/small&gt;
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/artwork/zDvEBm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -780,7 +865,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10082022-bloodborne-pose2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
     &lt;h3 style=&quot; padding: 5px 5px 5px 5px&quot;&gt;Bloodborne-tober II &lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; You&apos;re a hunter with your sanity, aren&apos;t you? Must&apos;ve taken a wrong turn then, eh? Well, we&apos;re more alike than you think. This is the Hunter&apos;s Nightmare, where hunters end up when drunk with blood. You&apos;ve seen them before. Aimless, wandering hunters, slavering like beasts. This is what the poor fools have to look forward to. So, don&apos;t be brash, turn back before it&apos;s too late. Unless, you&apos;ve something of an interest in nightmares? 
+   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; You're a hunter with your sanity, aren't you? Must've taken a wrong turn then, eh? Well, we're more alike than you think. This is the Hunter's Nightmare, where hunters end up when drunk with blood. You've seen them before. Aimless, wandering hunters, slavering like beasts. This is what the poor fools have to look forward to. So, don't be brash, turn back before it's too late. Unless, you've something of an interest in nightmares? 
    &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;
     &lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;
@@ -800,7 +885,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;p style=&quot;float: left;&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/09302022-bloodborne-2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt; 
 &lt;/p&gt;
     &lt;h3 style=&quot; padding: 5px 5px 5px 5px&quot;&gt;Bloodborne-tober&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; ”Oh, a hunter, are ya? And an outsider? What a mess you&apos;ve been caught up in. And tonight, of all nights. Here, to welcome the new hunter. Prepare yourself for the worst. There are no humans left. They&apos;re all flesh-hungry beasts, now.&quot; 
+   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; ”Oh, a hunter, are ya? And an outsider? What a mess you've been caught up in. And tonight, of all nights. Here, to welcome the new hunter. Prepare yourself for the worst. There are no humans left. They're all flesh-hungry beasts, now.&quot; 
  &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/artwork/Pe0exZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -869,7 +954,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;p style=&quot;float: left;&quot;&gt;
       &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-Flask-of-Crimson-Tears1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Herbalists&apos; Notebook &lt;/h3&gt;
+    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Herbalists' Notebook &lt;/h3&gt;
    &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “The full page set. Sometimes I wonder how exactly the healing flask here works, and the reasoning behind the seed increasing the charges.” 
     &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -910,7 +995,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;p style=&quot;float: left;&quot;&gt;
       &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-originalflask.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
     &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Flask of Crimson Tears I&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; This was the original I did a while back. For sure I think my photography has improved but I&apos;m not sure which one I&apos;d prioritize for sticker format
+   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; This was the original I did a while back. For sure I think my photography has improved but I'm not sure which one I'd prioritize for sticker format
     &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CbSs7_qOQL3/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/artwork/14RbVG&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -963,7 +1048,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;p style=&quot;float: left;&quot;&gt;
       &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08062022-eldenring-ranni3.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
     &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Ranni The Witch III&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “Upon my name as Ranni the Witch. Mother&apos;s rich slumber shall not be disturbed by thee. Foul trespasser. Send word far and wide.” 
+   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “Upon my name as Ranni the Witch. Mother's rich slumber shall not be disturbed by thee. Foul trespasser. Send word far and wide.” 
     &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/artwork/vJKJg3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -989,7 +1074,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;p style=&quot;float: left;&quot;&gt;
       &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/07222022-sekiro-okami.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
     &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Sekiro!&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “The day I pulled you from that battlefield, I had no idea what you would become. How many times have you died and come back for me? Once? Twice? Three Times? Or perhaps a number so large it cannot be counted? A Shinobi&apos;s eyes do not follow the blade without anticipating its movements. Remaining composed even when the fearful of its sharp edge is the key to victory.” 
+   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “The day I pulled you from that battlefield, I had no idea what you would become. How many times have you died and come back for me? Once? Twice? Three Times? Or perhaps a number so large it cannot be counted? A Shinobi's eyes do not follow the blade without anticipating its movements. Remaining composed even when the fearful of its sharp edge is the key to victory.” 
     &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/artwork/LewKYr&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -1041,7 +1126,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;p style=&quot;float: left;&quot;&gt;
       &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/06182022-eldenring-godfrey1.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
     &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Godfrey, the First Elden Lord&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; Once known as Hoarah Loux, Godfrey was chosen for his prowess in battle. &quot;Godfrey led the war against the Giants, whose flame threatened the Erdtree, and faced the Storm Lord alone. But after his last worthy opponent fell, Godfrey&apos;s warrior spirit sank, the hue from his eyes faded and he lost the guidance of grace. His purpose now fulfilled, Marika exiled Godfrey and his warriors from the Lands Between, making him the first Tarnished.   
+   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; Once known as Hoarah Loux, Godfrey was chosen for his prowess in battle. &quot;Godfrey led the war against the Giants, whose flame threatened the Erdtree, and faced the Storm Lord alone. But after his last worthy opponent fell, Godfrey's warrior spirit sank, the hue from his eyes faded and he lost the guidance of grace. His purpose now fulfilled, Marika exiled Godfrey and his warriors from the Lands Between, making him the first Tarnished.   
     &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/Ce9AzgyLFJL/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/artwork/lR5YWo/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -1066,7 +1151,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
 &lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
     &lt;p style=&quot;float: left;&quot;&gt;
       &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/06112022-eldenring-malenia-helm1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt; Malenia&apos;s Helm&lt;/h3&gt;
+    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt; Malenia's Helm&lt;/h3&gt;
    &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; A winged helm of unalloyed gold. Obtainable upon defeating Malenia the Severed.
     &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CdQ5HTyOxYQ/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -1080,7 +1165,7 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
     &lt;p style=&quot;float: left;&quot;&gt;
       &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/05072022-eldenringrosegarden.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
     &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt; Queen Marika &lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt;  And the Mother&apos;s Day award of the year goes to.... Queen Marika! Just look at all her lovely demigod children.
+   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt;  And the Mother's Day award of the year goes to.... Queen Marika! Just look at all her lovely demigod children.
     &lt;br /&gt;
     &lt;a href=&quot;https://www.instagram.com/p/CdQ5HTyOxYQ/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.artstation.com/artwork/VyYX5P/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -1128,8 +1213,8 @@ The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt
 
 </description>
         <pubDate>Sat, 16 Dec 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4001/works/copy.html</link>
-        <guid isPermaLink="true">http://localhost:4001/works/copy.html</guid>
+        <link>http://localhost:4000/works/copy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/copy.html</guid>
         
         
         <category>works</category>
@@ -1256,7 +1341,7 @@ function myFunction(imgs) {
 &lt;h3 id=&quot;eileen-the-crow&quot;&gt;Eileen the Crow&lt;/h3&gt;
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
  
-&lt;p&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor&apos;s mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; 
+&lt;p&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; 
  &lt;/p&gt;
   &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -1281,7 +1366,7 @@ function myFunction(imgs) {
 &lt;h3 id=&quot;a-merry-bloodbornetober-ii&quot;&gt;A Merry BloodborneTober II&lt;/h3&gt;
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/09302022-bloodborne-2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
  
-&lt;p&gt;”Oh, a hunter, are ya? And an outsider? What a mess you&apos;ve been caught up in. And tonight, of all nights. Here, to welcome the new hunter. Prepare yourself for the worst. There are no humans left. They&apos;re all flesh-hungry beasts, now.&quot;
+&lt;p&gt;”Oh, a hunter, are ya? And an outsider? What a mess you've been caught up in. And tonight, of all nights. Here, to welcome the new hunter. Prepare yourself for the worst. There are no humans left. They're all flesh-hungry beasts, now.&quot;
  &lt;/p&gt;
  &lt;p&gt;
   &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
@@ -1323,7 +1408,7 @@ function myFunction(imgs) {
 ### Valtr
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10152022-bloodborne-Valtr.jpeg&quot; onclick=&quot;myFunction(this);&quot;&gt;
  
-&lt;p&gt;”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man&apos;s impurity.  This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always.&quot;
+&lt;p&gt;”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man's impurity.  This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always.&quot;
  &lt;/p&gt;
   &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
   &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
@@ -1334,7 +1419,7 @@ function myFunction(imgs) {
 &lt;h3 id=&quot;huntsman&quot;&gt;Huntsman&lt;/h3&gt;
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10082022-bloodborne-pose2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
  
-&lt;p&gt;”You&apos;re a hunter with your sanity, aren&apos;t you? Must&apos;ve taken a wrong turn then, eh? Well, we&apos;re more alike than you think. This is the Hunter&apos;s Nightmare, where hunters end up when drunk with blood. You&apos;ve seen them before. Aimless, wandering hunters, slavering like beasts. This is what the poor fools have to look forward to. So, don&apos;t be brash, turn back before it&apos;s too late. Unless, you&apos;ve something of an interest in nightmares?&quot;
+&lt;p&gt;”You're a hunter with your sanity, aren't you? Must've taken a wrong turn then, eh? Well, we're more alike than you think. This is the Hunter's Nightmare, where hunters end up when drunk with blood. You've seen them before. Aimless, wandering hunters, slavering like beasts. This is what the poor fools have to look forward to. So, don't be brash, turn back before it's too late. Unless, you've something of an interest in nightmares?&quot;
  &lt;/p&gt;
   &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -1362,7 +1447,7 @@ function myFunction(imgs) {
 &lt;h3 id=&quot;ranni&quot;&gt;Ranni&lt;/h3&gt;
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/03022023-RanniBlue.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
  
-&lt;p&gt;“This doll&apos;s body is not without its hindrances...I shall soon enter my slumber.And it will be some time before I wake.Still, I have high hopes for thee.I look forward to the good news when I arise.&quot; 
+&lt;p&gt;“This doll's body is not without its hindrances...I shall soon enter my slumber.And it will be some time before I wake.Still, I have high hopes for thee.I look forward to the good news when I arise.&quot; 
  &lt;/p&gt;&lt;p&gt;
   &lt;a href=&quot;https://www.instagram.com/p/CpX_usQuIZt/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;https://www.artstation.com/artwork/m8DmN8&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -1410,7 +1495,7 @@ function myFunction(imgs) {
 &lt;h3 id=&quot;queen-marika&quot;&gt;Queen Marika&lt;/h3&gt;
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/05072022-eldenringrosegarden.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
  
-&lt;p&gt;And the Mother&apos;s Day award of the year goes to.... Queen Marika! Just look at all her lovely demigod children.
+&lt;p&gt;And the Mother's Day award of the year goes to.... Queen Marika! Just look at all her lovely demigod children.
  &lt;/p&gt;&lt;p&gt;
   &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -1463,7 +1548,7 @@ function myFunction(imgs) {
 &lt;h3 id=&quot;wolf&quot;&gt;Wolf&lt;/h3&gt;
 &lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/07222022-sekiro-okami.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
  
-&lt;p&gt;“The day I pulled you from that battlefield, I had no idea what you would become. How many times have you died and come back for me? Once? Twice? Three Times? Or perhaps a number so large it cannot be counted? A Shinobi&apos;s eyes do not follow the blade without anticipating its movements. Remaining composed even when the fearful of its sharp edge is the key to victory.” 
+&lt;p&gt;“The day I pulled you from that battlefield, I had no idea what you would become. How many times have you died and come back for me? Once? Twice? Three Times? Or perhaps a number so large it cannot be counted? A Shinobi's eyes do not follow the blade without anticipating its movements. Remaining composed even when the fearful of its sharp edge is the key to victory.” 
  &lt;/p&gt;&lt;p&gt;
   &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;https://www.artstation.com/artwork/LewKYr&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
@@ -1493,8 +1578,8 @@ function myFunction(imgs) {
 
 </description>
         <pubDate>Fri, 15 Sep 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4001/works/saturday-morning-soulsborne.html</link>
-        <guid isPermaLink="true">http://localhost:4001/works/saturday-morning-soulsborne.html</guid>
+        <link>http://localhost:4000/works/saturday-morning-soulsborne.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/saturday-morning-soulsborne.html</guid>
         
         <category>featured</category>
         
@@ -1504,7 +1589,7 @@ function myFunction(imgs) {
       </item>
     
       <item>
-        <title>Baldur&apos;s Gate</title>
+        <title>Baldur's Gate</title>
         <description>&lt;hr /&gt;
 &lt;script&gt;
 function myFunction(imgs) {
@@ -1560,7 +1645,7 @@ function myFunction(imgs) {
 &lt;p&gt;Annotated illustrations fetched from Waterdeep’s public archives and recreations from Gatewardens’ testimonies. This initiative received funding from the Lords of Waterdeep in efforts to counter Mind Flayer activity&lt;/p&gt;
 
 &lt;div class=&quot;container&quot;&gt;
-  &lt;span onclick=&quot;this.parentElement.style.display=&apos;none&apos;&quot; class=&quot;closebtn&quot;&gt;&amp;times;&lt;/span&gt;
+  &lt;span onclick=&quot;this.parentElement.style.display='none'&quot; class=&quot;closebtn&quot;&gt;&amp;times;&lt;/span&gt;
   &lt;img id=&quot;expandedImg&quot; style=&quot;width:100%&quot; /&gt;
   &lt;div id=&quot;imgtext&quot;&gt;&lt;/div&gt;
   &lt;!-- &lt;button onclick=&quot;toggle(this);&quot;&gt;Hide Iframe&lt;/button&gt; --&gt;
@@ -1570,7 +1655,7 @@ function myFunction(imgs) {
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/arcaneink/baldurs-gate/small-image.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Baldur&apos;s Gate - Illithid&lt;/h2&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Baldur's Gate - Illithid&lt;/h2&gt;
    &lt;p&gt; 
    “He who fights with monsters should look to it that he himself does not become a monster...when you gaze into the abyss the abyss also gazes into you...
 &quot; 
@@ -1586,7 +1671,7 @@ function myFunction(imgs) {
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/arcaneink/baldurs-gate/20230812-illithidclose1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Baldur&apos;s Gate - Illithid&lt;/h2&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Baldur's Gate - Illithid&lt;/h2&gt;
    &lt;p&gt; 
 &quot;You will claw back the truth, but first you must claw your way out of here”
 
@@ -1603,7 +1688,7 @@ function myFunction(imgs) {
     &lt;p style=&quot;float: left;&quot;&gt;
     &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/arcaneink/baldurs-gate/20230812-cthulhuclose.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
     &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Baldur&apos;s Gate - Illithid&lt;/h2&gt;
+  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Baldur's Gate - Illithid&lt;/h2&gt;
    &lt;p&gt;   “He who fights with monsters should look to it that he himself does not become a monster...when you gaze into the abyss the abyss also gazes into you...
 &quot; 
  &lt;br /&gt;
@@ -1616,8 +1701,8 @@ function myFunction(imgs) {
 
 </description>
         <pubDate>Fri, 08 Sep 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4001/works/baldurs-gate.html</link>
-        <guid isPermaLink="true">http://localhost:4001/works/baldurs-gate.html</guid>
+        <link>http://localhost:4000/works/baldurs-gate.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/baldurs-gate.html</guid>
         
         <category>dnd,</category>
         
@@ -1896,8 +1981,8 @@ div.desc {
 
 </description>
         <pubDate>Sat, 26 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4001/works/star-wars.html</link>
-        <guid isPermaLink="true">http://localhost:4001/works/star-wars.html</guid>
+        <link>http://localhost:4000/works/star-wars.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/star-wars.html</guid>
         
         
         <category>works</category>
@@ -2144,7 +2229,7 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
     &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/12-15-2022-april1.png&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
   &lt;/a&gt;
   
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br /&gt;&lt;i&gt;&quot;Wednesday&apos;s child is full of woe...&quot;&lt;/i&gt;&lt;br /&gt;
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br /&gt;&lt;i&gt;&quot;Wednesday's child is full of woe...&quot;&lt;/i&gt;&lt;br /&gt;
  &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
      &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
@@ -2178,8 +2263,8 @@ Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 12 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4001/works/arcane-ink.html</link>
-        <guid isPermaLink="true">http://localhost:4001/works/arcane-ink.html</guid>
+        <link>http://localhost:4000/works/arcane-ink.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/arcane-ink.html</guid>
         
         
         <category>works</category>
@@ -2376,8 +2461,8 @@ div.desc {
 
 </description>
         <pubDate>Sat, 05 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4001/works/arcane-neon.html</link>
-        <guid isPermaLink="true">http://localhost:4001/works/arcane-neon.html</guid>
+        <link>http://localhost:4000/works/arcane-neon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/arcane-neon.html</guid>
         
         
         <category>works</category>
@@ -2455,7 +2540,7 @@ function myFunction(imgs) {
   &lt;/style&gt;
 
 &lt;p class=&quot;book&quot;&gt;
-&quot;The Hunter wearied of lingering beside Gehrman in the dismal workshop, his idleness weighing heavy upon him. Once or twice, he dared to sneak a glimpse into Gehrman&apos;s arcane tome, but found no solace in its void of illustrations or dialogue. &apos;What use is a tome,&apos; pondered the Hunter, &apos;bereft of images and discourse?&apos;
+&quot;The Hunter wearied of lingering beside Gehrman in the dismal workshop, his idleness weighing heavy upon him. Once or twice, he dared to sneak a glimpse into Gehrman's arcane tome, but found no solace in its void of illustrations or dialogue. 'What use is a tome,' pondered the Hunter, 'bereft of images and discourse?'
 &lt;/p&gt;
 
 &lt;div class=&quot;main&quot;&gt;
@@ -2465,11 +2550,11 @@ function myFunction(imgs) {
   &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p class=&quot;book&quot;&gt;
-Thus, as the somber atmosphere of the Hunter&apos;s Dream enshrouded him in lethargy and frost, he contemplated—albeit sluggishly—whether the joy of crafting a garland of nightshade blooms was worth the effort of rising and plucking the spectral flora. Then, as the Hunter lingered in this contemplation, a White Beast with eyes as pale as the Abyss itself darted past.
+Thus, as the somber atmosphere of the Hunter's Dream enshrouded him in lethargy and frost, he contemplated—albeit sluggishly—whether the joy of crafting a garland of nightshade blooms was worth the effort of rising and plucking the spectral flora. Then, as the Hunter lingered in this contemplation, a White Beast with eyes as pale as the Abyss itself darted past.
 &lt;/p&gt;
 
 &lt;p class=&quot;book&quot;&gt;
-This spectacle, at first seemingly mundane, did not perturb the Hunter. Nor did it appear unusual when the Beast, murmuring to itself, uttered, &apos;Oh dear, oh dear, I shall be delayed!&apos; In retrospect, the Hunter would wonder at the peculiarity of this utterance, but in that moment, it all seemed fitting. Yet, when the Beast, from its waistcoat-pocket, produced a timepiece and scrutinized it before scurrying onward, the Hunter jolted upright. A revelation seized him—he had never before beheld a beast with a waistcoat-pocket, nor one carrying a timepiece. Fueled by curiosity, he gave chase across the eerie field, his pursuit culminating as the Beast descended into a gaping chasm, concealed beneath the sinister hedge.&quot;
+This spectacle, at first seemingly mundane, did not perturb the Hunter. Nor did it appear unusual when the Beast, murmuring to itself, uttered, 'Oh dear, oh dear, I shall be delayed!' In retrospect, the Hunter would wonder at the peculiarity of this utterance, but in that moment, it all seemed fitting. Yet, when the Beast, from its waistcoat-pocket, produced a timepiece and scrutinized it before scurrying onward, the Hunter jolted upright. A revelation seized him—he had never before beheld a beast with a waistcoat-pocket, nor one carrying a timepiece. Fueled by curiosity, he gave chase across the eerie field, his pursuit culminating as the Beast descended into a gaping chasm, concealed beneath the sinister hedge.&quot;
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 &lt;!-- 2. --&gt;&lt;/p&gt;
@@ -2543,7 +2628,7 @@ The Hunter, unscathed, sprang to his feet without delay. He scanned his surround
     &lt;/p&gt;
     &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
 &lt;p&gt;&lt;i&gt;
-The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it&apos;s getting!&quot;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
 
 &lt;/i&gt;
  &lt;br /&gt;
@@ -2560,7 +2645,7 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
     &lt;/p&gt;
     &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
 &lt;p&gt;&lt;i&gt;
-The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it&apos;s getting!&quot;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
 
 &lt;/i&gt;
  &lt;br /&gt;
@@ -2577,7 +2662,7 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
     &lt;/p&gt;
     &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
 &lt;p&gt;&lt;i&gt;
-The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it&apos;s getting!&quot;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
 
 &lt;/i&gt;
  &lt;br /&gt;
@@ -2611,7 +2696,7 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
     &lt;/p&gt;
     &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
 &lt;p&gt;&lt;i&gt;
-The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it&apos;s getting!&quot;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
 
 &lt;/i&gt;
  &lt;br /&gt;
@@ -2628,7 +2713,7 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
     &lt;/p&gt;
     &lt;h2&gt;The Hunter in Wonderland&lt;/h2&gt;
 &lt;p&gt;&lt;i&gt;
-The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it&apos;s getting!&quot;
+The Hunter surged forward like a tempest, his footsteps as swift as the night. Just as he rounded the corner, hee caught a murmur from the Beast: &quot;Oh, my ears and whiskers, how late it's getting!&quot;
 
 &lt;/i&gt;
  &lt;br /&gt;
@@ -2640,190 +2725,8 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4001/works/bloodborne.html</link>
-        <guid isPermaLink="true">http://localhost:4001/works/bloodborne.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Elden Ring - On the Nature of Tarnished Souls</title>
-        <description>&lt;hr /&gt;
-&lt;style&gt;
-    small{
-    font-size: 10px;
-  }
-  .social-media-icons {
-    width: 20px;
-  }
-  .centertext{  
-    align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
- .flex-container {
-  display: flex;
-  justify-content: center;
-}
-.flex-container &gt; div {
-  margin: auto;
-  padding: 20px;
-  font-size: 30px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
-}
-
-div.gallery {
-  /* border: 1px solid #ccc; */
-  width: 60%;
-  margin-bottom: 80px;
-
-  height: 500px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-  .gallery &gt;* {
-        flex: 1 1 80px;
-    }
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.main{
-  /* background-color: red; */
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
-div.main img{
-
-  width: 70%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-.displayImage{
-  /* width: 100%;
-  height: auto; */
-  width: 300px; 
-  height: 337px;
-  object-fit: cover;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-div.desc {
-  padding: 10px;
-  text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
- @media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 80%;
-  }
-} 
-
-.clearfix:after {
-  content: &quot;&quot;;
-  display: table;
-  clear: both;
-}
-&lt;/style&gt;
-
-&lt;p&gt;“On the Nature of Tarnished Souls” is a meticulously curated anthology from the personal libraries of Sir Gideon Ofnir the All-Knowing. It is an amaglamation of accounts and translations of various Tarnished that have travelled to the Lands Between over the centuries that have followed the Shattering.&lt;/p&gt;
-
-&lt;p&gt;Within its leather-bound pages lies a repository of reflections and unearthed secrets, showcasing this world of the Lands Between in the accounts of the innumerable Tarnished Souls that have passed through here in the quest to become the Elden Lord.&lt;/p&gt;
-
-&lt;!-- 2. --&gt;
-&lt;div class=&quot;flex-container&quot;&gt;
-
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; &gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis.png&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br&gt;&lt;i&gt;&quot;The Last of Us&quot;&lt;/i&gt;&lt;br&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;&quot;02 - Cal Kestis&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CucqBoGRHiH/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg&quot; alt=&quot;Page 01&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;&quot;Translation: &quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot; &gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot;  alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br&gt;&lt;i&gt;&quot;Horizon Zero Dawn&quot;&lt;/i&gt;&lt;br&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 22 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4001/works/elden-ring.html</link>
-        <guid isPermaLink="true">http://localhost:4001/works/elden-ring.html</guid>
+        <link>http://localhost:4000/works/bloodborne.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/bloodborne.html</guid>
         
         
         <category>works</category>

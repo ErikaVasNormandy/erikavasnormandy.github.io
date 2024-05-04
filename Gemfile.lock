@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.5)
+    addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
@@ -14,7 +14,7 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
-    jekyll (4.3.2)
+    jekyll (4.3.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -46,11 +46,13 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nokogiri (1.15.4-x86_64-darwin)
+    nokogiri (1.13.10-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.10-x86_64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (5.0.3)
+    public_suffix (5.0.4)
     racc (1.7.3)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
@@ -66,6 +68,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
+  universal-darwin-23
   x86_64-darwin-21
 
 DEPENDENCIES
@@ -73,4 +76,4 @@ DEPENDENCIES
   jekyll-toc
 
 BUNDLED WITH
-   2.4.22
+   2.3.22
