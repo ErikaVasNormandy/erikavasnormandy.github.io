@@ -1074,7 +1074,7 @@ body.is-menu-visible #menu { -moz-transform: translateX(0); -webkit-transform: t
 #header.alt h1 { -moz-pointer-events: none; -webkit-pointer-events: none; -ms-pointer-events: none; pointer-events: none; opacity: 0; }
 
 /* Banner */
-#banner { display: -moz-flex; display: -webkit-flex; display: -ms-flex; display: flex; -moz-flex-direction: column; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; -moz-justify-content: center; -webkit-justify-content: center; -ms-justify-content: center; justify-content: center; cursor: default; height: 100vh; min-height: 35em; overflow: hidden; position: relative; text-align: center; }
+#banner { display: -moz-flex; display: -webkit-flex; display: -ms-flex; display: flex; -moz-flex-direction: column; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; -moz-justify-content: center; -webkit-justify-content: center; -ms-justify-content: center; justify-content: center; cursor: default; height: 80vh; min-height: 35em; overflow: hidden; position: relative; text-align: center; }
 
 #banner h1 { -moz-transform: scale(1); -webkit-transform: scale(1); -ms-transform: scale(1); transform: scale(1); -moz-transition: -moz-transform 0.5s ease, opacity 0.5s ease; -webkit-transition: -webkit-transform 0.5s ease, opacity 0.5s ease; -ms-transition: -ms-transform 0.5s ease, opacity 0.5s ease; transition: transform 0.5s ease, opacity 0.5s ease; display: inline-block; font-size: 1.75em; line-height: 1.75em; opacity: 1; padding: 0.35em 1em; position: relative; z-index: 1; text-transform: none; }
 

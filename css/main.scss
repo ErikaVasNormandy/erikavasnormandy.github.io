@@ -2019,7 +2019,7 @@ width: 10%;
 		@include vendor('flex-direction', 'column');
 		@include vendor('justify-content', 'center');
 		cursor: default;
-		height: 100vh;
+		height: 80vh;
 		min-height: 35em;
 		overflow: hidden;
 		position: relative;
