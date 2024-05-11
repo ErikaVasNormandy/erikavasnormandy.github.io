@@ -3,7 +3,7 @@ title: Soulsborne - Full Collection
 author: technomancer-01
 excerpt: Collection of Soulsborne-related pieces started in 2020 all the way up from Bloodborne to Elden Ring
 priority: 10
-tags: featured
+# tags: featured
 skills:
   - ink
 categories:

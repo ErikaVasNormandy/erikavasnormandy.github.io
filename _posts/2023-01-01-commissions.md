@@ -2,7 +2,7 @@
 title: Commissions
 excerpt: Commissions, Requests, Stickers, Spellbooks, Prints, Pins
 priority: 1
-tags: featured
+# tags: featured
 author: technomancer-01
 categories:
   - topics
