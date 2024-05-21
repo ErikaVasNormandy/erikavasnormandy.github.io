@@ -28,6 +28,14 @@ width: 10%;
 	font-weight: bold;
 	font-size: 120%;
 }
+
+
+.imageDisplay{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 80%;
+}
 .inktoberdisplay{
 	max-width: 400px; 
 	max-height: 400px;
@@ -40,6 +48,10 @@ width: 10%;
 
 	
 }
+
+
+
+
 .imageContainer{
 	clear: left;
   /* border: 1px solid #ccc; */
@@ -951,8 +963,65 @@ width: 10%;
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
+		max-width: fit-content;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.tableImage{
+
+		-webkit-box-sizing: border-box;
+    border: 4px;
+    display: inline-flex;
+
+
+    min-width: 15vw;
+    width: auto;
+		max-width: 25vw;
+    min-height: 35vh;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 5px 5px 5px 5px;
+		text-align: center;
+
+		a{
+			opacity:0.2;
+			object-fit: cover;
+			margin: 0 auto;
+		}
+		a:hover{
+			opacity:1;
+			
+		}
 	}
 
+.innerTableImage {
+		text-align: center;
+    min-width: 15vw;
+    width: auto;
+		max-width: 30vw;
+    min-height: 35vh;
+		background: linear-gradient(to bottom, rgba(20,20,20,0.2), rgba(20,20,20,0.4));
+		object-fit: cover;
+		margin: 0 auto;
+
+		display:flex;
+		align-items:center ;
+
+
+
+	
+}
+.innerTableImage:hover{
+		background-color: rgba(20,20,20,0.8);
+	
+	a{	opacity: 1;}
+
+	}
+
+
+	
 	table {
 		margin: 0 0 _size(element-margin) 0;
 		width: 100%;
@@ -1724,7 +1793,9 @@ width: 10%;
 		}
 
 		> .inner {
-			width: 60em;
+			// width: 60em;
+			width: 80em;
+
 			margin: 0 auto;
 
 			&.fullwidth {

@@ -6,7 +6,7 @@ priority: 1
 skills:
   - ink
 categories:
-  - topics
+  - works
 
 background-image: bloodborne-tober-overall.jpg
 

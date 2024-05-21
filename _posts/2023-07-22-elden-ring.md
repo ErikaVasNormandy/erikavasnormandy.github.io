@@ -1,5 +1,5 @@
 ---
-title: Elden Ring - On the Nature of Tarnished Souls
+title: Elden Ring
 author: technomancer-01
 excerpt: A curated anthology from Sir Gideon Ofnir the All-Knowing. It is an amaglamation of accounts and translations of various Tarnished that have travelled to the Lands Between over the centuries that have followed the Shattering.
 priority: 9

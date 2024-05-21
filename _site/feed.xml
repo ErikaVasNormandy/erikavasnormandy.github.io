@@ -5,176 +5,12 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 May 2024 13:08:42 -0700</pubDate>
-    <lastBuildDate>Sat, 11 May 2024 13:08:42 -0700</lastBuildDate>
+    <pubDate>Mon, 20 May 2024 18:05:42 -0700</pubDate>
+    <lastBuildDate>Mon, 20 May 2024 18:05:42 -0700</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
-        <title>Scratchpad Vol 1</title>
-        <description>&lt;h2 id=&quot;00-starting-out&quot;&gt;00 Starting Out&lt;/h2&gt;
-
-&lt;h3 id=&quot;some-conversion-units&quot;&gt;Some Conversion Units&lt;/h3&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1 oz = 28.35 g
-1 g = 0.035 oz
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;some-variables&quot;&gt;Some Variables&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Unit_Of_Purchase&lt;/li&gt;
-    &lt;li&gt;Cost_Purchase&lt;/li&gt;
-    &lt;li&gt;Unit_Serving_A:&lt;/li&gt;
-    &lt;li&gt;Unit_Serving_B:&lt;/li&gt;
-    &lt;li&gt;Unit_Serving_C:&lt;/li&gt;
-    &lt;li&gt;Cost_Serving: ?&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;01-espresso&quot;&gt;01 Espresso&lt;/h2&gt;
-
-&lt;blockquote&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Unit_Of_Purchase: 10oz bag of beans usually&lt;/li&gt;
-    &lt;li&gt;Cost_Purchase: $9 (for our example)&lt;/li&gt;
-    &lt;li&gt;Unit_Serving_A: Espresso Shot&lt;/li&gt;
-    &lt;li&gt;Unit_Serving_B:&lt;/li&gt;
-    &lt;li&gt;Unit_Serving_C:&lt;/li&gt;
-    &lt;li&gt;Cost_Serving: ?&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;You need to find this file, it should be in the directory you downloaded and unzipped.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;content
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;02-flour&quot;&gt;02 Flour&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&quot;language-`&quot;&gt;&amp;gt;&amp;gt;&amp;gt; If the bag of flour is 5 pounds, and I bought the bag of flour for 3 dollars, how many dollars is a cup of flour?
-
-Great! To find out how much a cup of flour costs, we need to know the weight of a cup of flour. One cup of all-purpose flour weighs approximately 120 grams.
-
-So, if the bag of flour weighs 5 pounds (which is equal to 5 x 453.6 grams), and you bought the bag for $3, you can calculate the cost of a cup of
- flour as follows:
-
-Cost of a cup of flour = Total cost of the bag of flour / Weight of a cup of flour
-= $3 / 120 grams
-= $0.025 per gram
-
-Therefore, the cost of a cup of flour is $0.025 per gram. Since there are 120 grams in a cup, you can multiply the cost per gram by 120 to find the cost of a cup of flour:
-
-Cost of a cup of flour = $0.025 per gram x 120 grams/cup
-= $3 per cup
-
-So, if the bag of flour is 5 pounds, then the cost of a cup of flour is $3 per cup.
-
-&amp;gt;&amp;gt;&amp;gt; Send a message (/? for help)
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-        <pubDate>Sat, 17 Feb 2024 19:33:00 -0800</pubDate>
-        <link>http://localhost:4000/topics/collection-of-scripts-vol-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/collection-of-scripts-vol-1.html</guid>
-        
-        <category>forensics</category>
-        
-        <category>memprocfs</category>
-        
-        <category>annotations</category>
-        
-        <category>13cubed</category>
-        
-        
-        <category>topics</category>
-        
-      </item>
-    
-      <item>
-        <title>Elden Ring - Ranni Portrait</title>
-        <description>&lt;hr /&gt;
-
-&lt;!-- 
-
-
-
-
- --&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#elden-ring---rannis-portrait&quot; id=&quot;markdown-toc-elden-ring---rannis-portrait&quot;&gt;Elden Ring - Ranni’s Portrait&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;elden-ring---rannis-portrait&quot;&gt;Elden Ring - Ranni’s Portrait&lt;/h2&gt;
-
-&lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20231230-eldenring-Ranni-PrintPreview.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-
-
-
-
-
-
-
-
-
-
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 30 Dec 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/Ranni-Portrait.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/Ranni-Portrait.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Winter Cleaning</title>
-        <description>&lt;hr /&gt;
-
-&lt;!-- 
-
-
-
-
- --&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#general-announcement&quot; id=&quot;markdown-toc-general-announcement&quot;&gt;General Announcement&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;general-announcement&quot;&gt;General Announcement&lt;/h2&gt;
-
-&lt;p&gt;Hello World!&lt;/p&gt;
-
-&lt;p&gt;Some of you may have noticed a few changes around here, and that is me attempting to clean this place up so that it can be a proper static site. The focus being on markdown file format instead of messing around with css.&lt;/p&gt;
-
-&lt;p&gt;The big things here is my general Soulsborne Page is getting a bit of a face lift, mainly the pages were getting very clunky and hard to load. I’ve updated this to be less of an image-hosting website with only a preview of content and the main content being on Scavengers-Repo.com to sit alongside my other technical notes&lt;/p&gt;
-
-&lt;p&gt;Things to complete moving forward&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;SQL Database for all materials, links and images&lt;/li&gt;
-  &lt;li&gt;Properly archive things&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sun, 17 Dec 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/topics/Winter-Cleaning.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/Winter-Cleaning.html</guid>
-        
-        
-        <category>topics</category>
-        
-      </item>
-    
-      <item>
-        <title>Archived Soulsborne Stuff</title>
+        <title>Rykard's Rune</title>
         <description>&lt;hr /&gt;
 &lt;script&gt;
 function myFunction(imgs) {
@@ -239,990 +75,148 @@ function myFunction(imgs) {
  --&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#preface&quot; id=&quot;markdown-toc-preface&quot;&gt;Preface&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#volumes&quot; id=&quot;markdown-toc-volumes&quot;&gt;Volumes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#bloodborne&quot; id=&quot;markdown-toc-bloodborne&quot;&gt;Bloodborne&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#eileen-the-crow&quot; id=&quot;markdown-toc-eileen-the-crow&quot;&gt;Eileen the Crow&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#bloodborne-in-wonderland&quot; id=&quot;markdown-toc-bloodborne-in-wonderland&quot;&gt;Bloodborne in Wonderland&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#beasts-embrace&quot; id=&quot;markdown-toc-beasts-embrace&quot;&gt;Beast’s Embrace&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#elden-ring&quot; id=&quot;markdown-toc-elden-ring&quot;&gt;Elden Ring&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#shadow-of-the-erdtree&quot; id=&quot;markdown-toc-shadow-of-the-erdtree&quot;&gt;Shadow of The Erdtree&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#elden-ring---abductor-virgins&quot; id=&quot;markdown-toc-elden-ring---abductor-virgins&quot;&gt;Elden Ring - Abductor Virgins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;preface&quot;&gt;Preface&lt;/h2&gt;
-&lt;p&gt;Every Saturday I try to do an old school looking illustration, either to pretty up my notes or to practice. It started out as Bloodborne since I needed a way to use a concept art book someone gave to me as a gift, but I’ve branched out into Horizon Zero Dawn and most recently, Elden Ring.&lt;/p&gt;
+&lt;h2 id=&quot;elden-ring---abductor-virgins&quot;&gt;Elden Ring - Abductor Virgins&lt;/h2&gt;
 
-&lt;p&gt;This is a project I started very early into 2020 after deciding that I wanted to get better at drawing the kinds of Victorian/steampunk aesthetics that I had planned for Arda Hyperion. I’d also received the Bloodborne official concept art book, so what better way to kick off a playthrough than going through the book to practice the artwork?&lt;/p&gt;
+&lt;p&gt;January 14, 2023&lt;/p&gt;
 
-&lt;p&gt;Now, three years later, I’m hoping to scan these up into digital assets so I can start using the to make either actual spellbook or my technical illustrations.&lt;/p&gt;
+&lt;p&gt;A Great Rune of the shardbearer Rykard. Its blessing restores health on attacking enemies.&lt;/p&gt;
 
-&lt;h2 id=&quot;volumes&quot;&gt;Volumes&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Elden Ring - On the Nature of Tarnished Souls&lt;/li&gt;
-  &lt;li&gt;Bloodborne - Through the Paleblood Looking Glass &amp;amp; Beyond the Hunter’s Dream&lt;/li&gt;
-  &lt;li&gt;Sekiro - On the Memories of Deadened Shadows&lt;/li&gt;
-  &lt;li&gt;Dark Souls - Whispers Among the Ashen, From the Tales of Hollowed Undead&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard-Rune.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+ Rykard was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon’s union with Queen Marika.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard-Rune-full.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;bloodborne&quot;&gt;Bloodborne&lt;/h2&gt;
-&lt;h3 id=&quot;eileen-the-crow&quot;&gt;Eileen the Crow&lt;/h3&gt;
-&lt;div class=&quot;imageContainer&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
- 
+&lt;p&gt;But Rykard fed himself to the blasphemous serpent, Great Rune and all.&lt;/p&gt;
 
-&lt;p&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; 
- &lt;/p&gt;
-  &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-&lt;/div&gt;
+&lt;p&gt;&amp;lt;/p&amp;gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;bloodborne-in-wonderland&quot;&gt;Bloodborne in Wonderland&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230722-bloodborneinwonderland2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;beasts-embrace&quot;&gt;Beast’s Embrace&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10222022-bloodborne-beast-embrace1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;elden-ring&quot;&gt;Elden Ring&lt;/h2&gt;
-&lt;h3 id=&quot;shadow-of-the-erdtree&quot;&gt;Shadow of The Erdtree&lt;/h3&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;span onclick=&quot;this.parentElement.style.display='none'&quot; class=&quot;closebtn&quot;&gt;&amp;times;&lt;/span&gt;
-  &lt;img id=&quot;expandedImg&quot; style=&quot;width:100%&quot; /&gt;
-  &lt;div id=&quot;imgtext&quot;&gt;&lt;/div&gt;
-  &lt;!-- &lt;button onclick=&quot;toggle(this);&quot;&gt;Hide Iframe&lt;/button&gt; --&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/04092022-bloodbornecrow1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt; &lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;&quot;The Raven Hunter: A hunter with an unusual pair of warped swords. Wears a raven mantle and a doctor's mask, uses bizarre swordsmanship. Well, she seems to be an ally...&quot; &lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    Ah the one that sort of kicked it off. We were driving around in some of the smaller towns and backgrounds of rural Washington in search of coffee and pastries while Mom and Dad were still asleep.
-    &lt;/small&gt;
- &lt;br /&gt;
-
- &lt;a target=&quot;_blank&quot; href=&quot;https://www.instagram.com/technomancer_01&quot; class=&quot;icon fa-instagram style2&quot;&gt;&lt;span class=&quot;label&quot;&gt;instagram&lt;/span&gt;&lt;/a&gt;
- &lt;a target=&quot;_blank&quot; href=&quot;https://www.instagram.com/technomancer_01&quot; class=&quot;icon  style1&quot;&gt;&lt;span class=&quot;label&quot;&gt;instagram&lt;/span&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230901-ShadowOfTheErdTree.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-&lt;h2 style=&quot;padding-top: 20px&quot;&gt;Shadow of The Erdtree&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;“Rise, Tarnished, and let us walk a new path together.”&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-Soon, soon it's coming soon. I obtained this from the 'Unprocessed' section. But it feels a bit more like some portent of the future, or perhaps somewhere further down in the timeline.
-  &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CuKnK8xxWXj/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/lDaBak&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Shadow-of-the-Erdtree-980344635&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230722-bloodborneinwonderland2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Bloodborne in Wonderland&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;&lt;p&gt;The Plain Doll thought she had never seen such a curious Great One in her existence: its body was sleek and grey, like that of a slug, although from its head sprouted a great many append-ages that twitched when her wooden hands brushed the damp skin.
-&lt;/p&gt;
-&lt;p&gt;
-“Are you cold?”
-&lt;/p&gt;
-&lt;p&gt;
-	The little infant of a cephalopod nature twitched, its sleek skin shining in the moonlight as she held it up to peer at its face. 
-&lt;/p&gt;
-“Oh, Good Hunter.”
-
-&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-
-  &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CuKnK8xxWXj/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/rJDYPm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Malenia-972053596&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230714-maleniavsradahnp1.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;The Battle of Malenia and General Radahn&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;“And now Caelid has been engulfed by the scarlet rot, even approaching the region is no mean feat. I've heard survivors of Radahn's army are still in the wilds, staving off the rot with fire. And if it's true, I suspect Radahn is still there as well, in Caelid. Though I doubt he much resembles his former self anymore...”&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-  I have noticed a lot of my friends on instagram hide their like count... and while I generally try to avoid getting too sucked into chasing numbers, it does bother me a bit at times since it feels like some kind of wider change happened due to that &quot;ever so elusive Instagram algorithm&quot;. I'm going to have to focus a bit more on the real world rather than making any drastic changes online. Sorry if I'm technically following you but not interacting as much. I actually do feel that I use the app more yet friends that only sporadically post seem to get pushed down. Stay creative folks. I hope that my social medias and websites, are a nice experience for all of you.
-  &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CuKnK8xxWXj/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/LRgAZ0&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Malenia-972053596&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230601-TurtlePope.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Miriel, Pastor of Vows, aka Turtle Pope &lt;/h2&gt;
-   &lt;p&gt;  ## Miriel, Pastor of Vows, aka Turtle Pope
-   &lt;i&gt;I welcome you, to the Church of Vows. I am Miriel, Steward of this sacred chamber. My apologies for the unseemly state of affairs.&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-  Request from @khashayarshahenshah on Insta, who looks up to Turtle Pope.
-  &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CuKnK8xxWXj/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/Ke2bAB&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230617-SellenBanner.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Sorceress Sellen &lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;&quot;Tarnished, are we? A wonder you should turn up here. I am Sellen, a sorcerer, quite plainly. Why are you here?&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    I think this volume shall be called &quot;On the Nature of Tarnished Souls&quot;
-
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/reel/CtmlGZ8ohqC/?igshid=ZWQyN2ExYTkwZQ==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/LREy1l&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230604-MarikaStatue.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Statue of Marika the Eternal, 2nd Church of Marika &lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;&quot;Marika's trespass demanded a heavy sentence. But even in shackles, she remains a god, and the vision's vessel. Confer Great Runes to become Elden Lord, and join Queen Marika as her consort. The Fingers have willed it so. Now, you may go&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    Properly finished this one up, next week is more Tears of the Kingdom, and somewhere in that, Bloodborne in Wonderland (finally) :).
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cqf_nZ3LxZu/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/Dvdwyo&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230520-Vykes.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Lord Vyke, Knight of the Roundtable&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;&quot;No other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy. Did he make his choice for his maiden, or did some other force lure him with suggestion?&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
- Starting to clean up some of my older posts, pull myself out of this brainfog. I have been playing more Tears of the Kingdom lately, I may have to force myself to unwind and relax but I am enjoying it so far! Definitely a shocker from Ocarina of Time but it feels good to game again    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CseJyODRSJj/?igshid=ZWQyN2ExYTkwZQ==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/Dvdwyo&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-The-Nature-of-Tarnished-Souls-Vyke-963358234&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;!-- 
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/IMG-ScarletRot.jpeg&quot; onclick=&quot;myFunction(this);&quot;&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Scarlet Rot &lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;&quot;And now Caelid has been engulfed by the scarlet rot, even approaching the region is no mean feat. I've heard survivors of Radahn's army are still in the wilds, staving off the rot with fire. And if it's true, I suspect Radahn is still there as well, in Caelid. Though I doubt he much resembles his former self anymore...&quot;&lt;/i&gt;
-&lt;br&gt;&lt;br&gt;
-&lt;small&gt;
-    Remember that Marika piece from way back? I finally got around to cleaning it up and printing it out in greeting card form.
-    &lt;/small&gt;
- &lt;br&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cqf_nZ3LxZu/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/Dvdwyo&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt; --&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230513-marika-herself.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Marika - Revisted&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;&quot;Hear me, Demigods. My children beloved. Make of thyself that which ye desire. Be it a Lord, Be it a God. But should y e fail to become aught at all, ye will be forsaken. Amounting only to Sacrifices… &quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    Remember that Marika piece from way back? I finally got around to cleaning it up and printing it out in greeting card form.
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cqf_nZ3LxZu/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/Dvdwyo&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/On-the-Nature-of-Tarnished-Souls-Marika-962297357&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/20230513-marika-rune.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Mending Rune of the Death Prince&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;&quot;The Golden Order was created by confining Destined Death. Thus, this new Order will be one of Death restored.&quot; &lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-   What a strange symbol, I did not think to combine these two half wheels.
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cqf_nZ3LxZu/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/Dvdwyo&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art On-the-Nature-of-Tarnished-Souls-Marika-962297357&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/2023-04-01-Sekiro.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Sekiro&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt;&quot;If you hesitate you’ll be swept away… and lose the battle. That’s right. Best you keep it in mind. Sekiro. Hesitate and you lose. Don’t forget, Sekiro. Hesitate, and you lose… That is the way of war.&quot; &lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-   My favorite Soulsborne game was actually... SEKIRO. 
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cqf_nZ3LxZu/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/LR45Dr&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Sekiro-956137112&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/03022023-RanniBlue.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Ranni&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; This doll's body is not without its hindrances...I shall soon enter my slumber.And it will be some time before I wake.Still, I have high hopes for thee.I look forward to the good news when I arise.”
-&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CpX_usQuIZt/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/m8DmN8&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Ranni-Portrait-952123155&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/2023-02-18-malenia.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Goddess of Rot&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; &quot;I dreamt for so long. My flesh was dull gold...and my blood, rotted. Corpse after corpse, left in my wake... As I awaited... his return ...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat.&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-  The scarlet flowers bloom once more.
-
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Coz8rBgpYtk/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/XgemJ3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/2023-02-04-Melina-Part.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Kindling Maiden&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; &quot;O Erdtree, you shall burn. Burn, for the sake of the new Lord. Thank you. For guiding me here. The one who walks alongside flame, Shall one day meet the road of Destined Death.Good-bye.&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    Kindling Maiden
-
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CnZ1TqbpnlS/?igshid=YmMyMTA2M2Y= &quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/145yYZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard-Rune.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Rykard's Rune&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; &quot;A Great Rune of the shardbearer Rykard. Rykard was amongst the children of Rennala and Radago, who became demigod stepchildren after Radagon's union with the Queen Marika. But Rykard fed himself to the blasphemous serpent, Great Rune and all.&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CnZ1TqbpnlS/?igshid=YmMyMTA2M2Y= &quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/145yYZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Rykard, the Lord of Blasphemy&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; &quot;Praetor Rykard is the Lord of the Volcano Manor on Mt. Gelmir. He is a ruthless justiciar who commands a company of inquisitors, reviled for his serpentine demeanour. Rykard has commited the grave sin of blasphemy. Marking himself as an enemy, never to be forgiven.&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CnZ1TqbpnlS/?igshid=YmMyMTA2M2Y= &quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/145yYZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Rykard-Lord-of-the-Blasphemy-947051568&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/01142023-AbductorVirgins.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Abductor Virgins&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; &quot;Around the Volcano Manor, the player can encounter the Abductor Virgins, powerful mobile torture devices. They seem to have a fairly simple purpose, the capture and transportation of sacrifices for the Great Serpent.&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;Archive Retrieval from the travel journals of &lt;a href=&quot;https://www.youtube.com/watch?v=CKBTAnkQ9VA
-Zullie the Witch&quot;&gt;Zullie the Witch&lt;/a&gt;
-
- 
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CnZ1TqbpnlS/?igshid=YmMyMTA2M2Y= &quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/145yYZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Abductor-Virgins-945152278&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/12242022-generalradahn.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;General Radahn (Pre-Scarlet Rot Madness)&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; &quot;Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;Not much for today, I’m in the flurry of holidays. Hopefully you are too, but if not, maybe General Radahn pre-Scarlet Rot Madness can uplift you.
-
- 
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/145yYZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/General-Radahn-Pre-Scarlet-Rot-942292128&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/12102022-burialwatchdog.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Erdtree Burial Watchdog&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; &quot;A living construct fashioned after felines and hounds, made to watch over catacombs. The Watchdogs, battered and broken over their lengthy tenure, rule the catacombs and are even said to command the imps.&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-  Wow Elden Ring got Game of the Year!!! I have a soft spot for Horizon Forbidden West, but I can see why Elden Ring won. I'm a bit curious to see where the next Soulsborne game goes, but for now I'm sure we'll all have quite a bit of content to go off for for a while.
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/3q5wPA&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/12032022-starscourgeradahn-full.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Starscourge Radahn&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; &quot;Radahn was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika.
-The Great Rune burns, to resist the encroachment of the scarlet rot.”&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-   I was amongst many who focused on Malenia when the trailer first dropped, but Radahn’s growing on me character wise. Elden Ring somehow makes a huge troll-like figure riding around on a tiny horse a dramatic boss fight.
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/reel/Cltqbf-IJkO/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/g8rd1G&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Starscourge-Radahn-939568773&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/12032022-starscourgeradahn.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Starscourge Radahn&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; “Before we begin, allow me to paint you the full picture. General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.”&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-   I was amongst many who focused on Malenia when the trailer first dropped, but Radahn’s growing on me character wise. Elden Ring somehow makes a huge troll-like figure riding around on a tiny horse a dramatic boss fight.
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CltqI70pO75/?igshid=MDJmNzVkMjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/g8rd1G&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Starscourge-Radahn-939568773&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/11282022-ranni-printish.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;A Letter to my Archivist&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; “But where is Ranni's own Great Rune? As daughter of Rennala, last Queen of Caria and Queen of the Full Moon, pperhaps she hid it on the Moon itself&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    I'm at a loss, I love handwriting but I can't be handwriting all the time... I don't really want to make my own fonts but maybe I need to.
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ClbxIwevSLW/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/RnvDde&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/11262022-ranni-print1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Ranni Print&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; Retreating Indoors&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    Here’s the print version I made! Hope your holidays have allowed you to relax somewhat. I took a bit of a break and instead of doing my usual sketch, decided to show a bit of what  I’ve been up to over the break. This is a kind of preview of how these might turn out in print form if I were to sell them. Please let me know what you think of it as something to buy, (comment or dm). I am torn on the amount of printed text, although for some of my real note taking, it’ll just have to be printed since there’s no way I’m hand writing the sheer amount of code blocks required. The paper I know is a strange hue but I managed to get non tinted versions just in. 
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ClbqzhyOym9/?igshid=YmMyMTA2M2Y%3D&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/RnvDde&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/11182022-stakeofmarika1.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Stake of Marika&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; “The stakes honor Queen Marika the Eternal, ruler of the Lands Between.&lt;br /&gt;Queen Marika has high hopes for us. That we continue to struggle. Unto eternity.&quot;&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/RnvDde&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/11182022-stakeofmarika2.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;Limgrave&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; “Stand before the Elden Ring, and become the Elden Lord. If those words held any meaning to you...
-”&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    I have a shop now, a couple of items and some prototypes if you'd like. I'm a bit uncertain how this is supposed to go but if you want to check me out on Etsy or Ko-Fi I'm there : )
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/RnvDde&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Stake-of-Marika-II-937707571&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/11122022-eldenring-varre.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-  &lt;h2 style=&quot;padding-top: 20px&quot;&gt;White Mask Varre&lt;/h2&gt;
-   &lt;p&gt; 
-   &lt;i&gt; “Oh yes... Tarnished, are we? Come to the Lands Between for the Elden Ring, hmm? Of course you have. No shame in it. Unfortunately for you, however, you are maidenless.”&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;small&gt;
-    Glad I didn't immediately smack him on finding him in Limgrave but he's got a sly vibe don't he? This week is a bit of a smaller one since I've been busy with Code for America stuff and printing these out on paper : ). I may take a break next week, both to celebrate Thanksgiving with family and friends, and also to work on the shop....
-    &lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Ck3nODHpqb-/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/4X02N1&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10222022-bloodborne-beast-embrace1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-    &lt;h3 style=&quot;padding-top: 20px&quot;&gt;Bloodborne-tober VI - Beast's Embrace &lt;/h3&gt;
-   &lt;p&gt; &lt;i&gt;”Those who swear this oath take on a ghastly form and enjoy accentuated transformation effects, especially while wielding a beast weapon.&quot;&lt;/i&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/2qv4bA&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/A-Bloodborne-tober-Beasts-Embrace-933914005&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-&lt;p style=&quot;float: left;&quot;&gt;
-  &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10152022-bloodborne-Valtr.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-&lt;/p&gt;
-    &lt;h3 style=&quot;padding-top: 20px&quot;&gt;Bloodborne-tober III - Valtr &lt;/h3&gt;
-   &lt;p&gt;&lt;i&gt; ”Now, there is one thing you must know. By the oath of the League, those who bear its rune will see vermin. Vermin writhe deep within all filth, and are the root of man's impurity.  This bloody fate is ours alone. Do not expect the world to grasp our work... But remember, the confederates will always have my blessing... And each other. Always.&quot;&lt;/i&gt;&lt;small&gt;&lt;/small&gt;
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/zDvEBm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Bloodborne-Tober-II-932305603&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/10082022-bloodborne-pose2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-    &lt;h3 style=&quot; padding: 5px 5px 5px 5px&quot;&gt;Bloodborne-tober II &lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; You're a hunter with your sanity, aren't you? Must've taken a wrong turn then, eh? Well, we're more alike than you think. This is the Hunter's Nightmare, where hunters end up when drunk with blood. You've seen them before. Aimless, wandering hunters, slavering like beasts. This is what the poor fools have to look forward to. So, don't be brash, turn back before it's too late. Unless, you've something of an interest in nightmares? 
-   &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;
-    &lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;
-    &lt;/a&gt;
-
-    &lt;a href=&quot;https://www.artstation.com/artwork/kl6Xed&quot;&gt;
-    &lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Bloodborne-Tober-II-932305603&quot;&gt;
-    &lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;
-    &lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/09302022-bloodborne-2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt; 
-&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 5px 5px 5px 5px&quot;&gt;Bloodborne-tober&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; ”Oh, a hunter, are ya? And an outsider? What a mess you've been caught up in. And tonight, of all nights. Here, to welcome the new hunter. Prepare yourself for the worst. There are no humans left. They're all flesh-hungry beasts, now.&quot; 
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/Pe0exZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Sorcerer-Rogier-III-927319480&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/09232022-bloodborne-1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-    &lt;h3 style=&quot; padding: 5px 5px 5px 5px&quot;&gt;Bloodborne Time &lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; ”That time of the year folks, &lt;i&gt;HALLOWEEN AKA RETURN TO YHARNAM&lt;/i&gt; &quot; 
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/Pe0exZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Sorcerer-Rogier-III-927319480&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08262022-eldenring-Rogier1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-    &lt;h3 style=&quot; padding: 5px 5px 5px 5px&quot;&gt;Sorcerer Rogier  &lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; ”Rogier spent his entire life behaving with utter detachment. No one noticed the anger, grief, regret, or fear that existed along with it. &quot; 
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/Pe0exZ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Sorcerer-Rogier-III-927319480&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/09032022-eldenring-deathrune2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 5px 5px 5px 5px&quot;&gt;Of Death Runes and Knifeprints I&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; ”You recall our conversation about the Night of the Black Knives, yes? They say the assassins who carried out the deed were scions of the Eternal City. &quot; 
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/3qWGeE&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Of-Death-Runes-n-Knifeprints-I-928076929&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-    &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/09032022-eldenring-deathrune1.jpeg&quot; /&gt;
-    &lt;/p&gt;
-    &lt;h3 style=&quot; padding: 5px 5px 5px 5px&quot;&gt;Of Death Runes and Knifeprints II&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; ”You recall our conversation about the Night of the Black Knives, yes? They say the assassins who carried out the deed were scions of the Eternal City. &quot; 
- &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/ChxODr4JuUN/?igshid=NDRkN2NkYzU=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/3qWGeE&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Of-Death-Runes-n-Knifeprints-II-928077532&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-Flask-of-Crimson-Tears1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Herbalists' Notebook &lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “The full page set. Sometimes I wonder how exactly the healing flask here works, and the reasoning behind the seed increasing the charges.” 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/3qzxAJ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Morning-Soulsborne-Herbalists-Notes-926549192&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-A-Golden-Seed3.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;A Golden Seed&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “A golden seed, found at the base of an illusory tree. When the Elden Ring was shattered, these seeds flew from the Erdtree, scattering across the various lands, as if life itself knew that its end has come.” 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/3qzxAJ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Morning-Soulsborne-Herbalists-Notes-926549192&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-Flask-of-Crimson-Tears2.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Flask of Crimson Tears II &lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “A sacred flask modeled after a golden holy chalice that was once graced by a tear of life. It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet…” 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CbSs7_qOQL3/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/kl8P5y&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Flask-of-Crimson-Tears-925655232&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-originalflask.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Flask of Crimson Tears I&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; This was the original I did a while back. For sure I think my photography has improved but I'm not sure which one I'd prioritize for sticker format
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CbSs7_qOQL3/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/14RbVG&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Flask-of-Crimson-Tears-925655232&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-&lt;!----&gt;
-&lt;!----&gt;
-&lt;!--&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;--&gt;
-&lt;!--    &lt;p style=&quot;float: left;&quot;&gt;--&gt;
-&lt;!--      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08132022-eldenring-A-Golden-Seed3.jpeg&quot; /&gt;&lt;/p&gt;--&gt;
-&lt;!--    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;A Golden Seed&lt;/h3&gt;--&gt;
-&lt;!--   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “When the Elden Ring was shattered, these seeds flew from the Erdtree, scattering across the various lands, as if life itself knew that its end has come.&quot;--&gt;
-&lt;!--    &lt;br /&gt;--&gt;
-&lt;!--    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;--&gt;
-&lt;!--    &lt;a href=&quot;https://www.artstation.com/artwork/vJKJg3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;--&gt;
-&lt;!--    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;--&gt;
-&lt;!--    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;--&gt;
-&lt;!--   &lt;/p&gt;--&gt;
-&lt;!--&lt;/div&gt;--&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08062022-eldenring-ranni1.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Ranni The Witch I&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “I am the witch Ranni. I stole Death long ago, and search now for the dark path.” 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/vJKJg3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08062022-eldenring-ranni2.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Ranni The Witch II&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “Mine will be an order not of gold, but the stars and moon of the chill night.&quot;
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/vJKJg3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/08062022-eldenring-ranni3.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Ranni The Witch III&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “Upon my name as Ranni the Witch. Mother's rich slumber shall not be disturbed by thee. Foul trespasser. Send word far and wide.” 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/vJKJg3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Mornin-Soulsborne-Ranni-the-Witch-924958234&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/07302022-bloodbornevial2n.PNG&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Blood Vials Galore - For Sale on Redbubble!&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “Straight out of Yharnam itself. Once a patient has had their blood ministered, a unique but common treatment in Yharnam, successive infusions recall the first, and are all the more invigorating for it. No surprise that most Yharnamites are heavy users of blood.” 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/i/sticker/Bloodborne-Vials-III-Unaltered-by-Technomancer-01/116517425.EJUG5&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/YeBJGP&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Blood-Vials-Galore-924228205&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    
-   &lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/07222022-sekiro-okami.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Sekiro!&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “The day I pulled you from that battlefield, I had no idea what you would become. How many times have you died and come back for me? Once? Twice? Three Times? Or perhaps a number so large it cannot be counted? A Shinobi's eyes do not follow the blade without anticipating its movements. Remaining composed even when the fearful of its sharp edge is the key to victory.” 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CgXJk1vrAjW/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/LewKYr&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/07152022-eldenring-malenia.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Malenia, Goddess of the Scarlet Rot&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “Each time the scarlet flower blooms, Malenia’s rot advances. It has bloomed twice already. With the third bloom, she will become a true goddess. I dreamt for so long, my flesh was dull gold, and my blood, rotted. Corpse after corpse, left in my wake… As I awaited… his return. Heed my words. I am Malenia, Blade of Miquella. And I have never known defeat. Now let your flesh be consumed by the Scarlet Rot!” 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Ce9AzgyLFJL/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/qQdxKz&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Morning-Soulsborne-O-Elden-Ring-921102211&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/07022022-elden-ring.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Elden Ring, O Elden Ring&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; “Then, after thy death, I will give back what I once claimed. Return to the Lands Between, wage war, and brandish the Elden Ring. Grow strong in the face of death. Warriors of my lord. Lord Godfrey. A Tarnished of no renown. Cross the fog, to the Lands Between, to stand before the Elden Ring. And become the Elden Lord.&quot; 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Ce9AzgyLFJL/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/qQdxKz&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Morning-Soulsborne-O-Elden-Ring-921102211&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/06252022-eldenring-melina-locket.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Melina&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; Greetings. Traveller from beyond the fog. I Am Melina. I offer you an accord. Have you heard of the finger maidens? They serve the Two Fingers, offering guidance, and aid, to the Tarnished. But you, I am afraid, are maidenless. I can play the role of maiden. Turning rune fragments into strength. To aid you in your search for the Elden Ring. You need only take me with you. To the foot of the Erdtree.
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CfPBfr9uoA1/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/OmZPrv&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Morning-Soulsborne-Melina-920391589&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/06182022-eldenring-godfrey1.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt;Godfrey, the First Elden Lord&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; Once known as Hoarah Loux, Godfrey was chosen for his prowess in battle. &quot;Godfrey led the war against the Giants, whose flame threatened the Erdtree, and faced the Storm Lord alone. But after his last worthy opponent fell, Godfrey's warrior spirit sank, the hue from his eyes faded and he lost the guidance of grace. His purpose now fulfilled, Marika exiled Godfrey and his warriors from the Lands Between, making him the first Tarnished.   
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Ce9AzgyLFJL/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/lR5YWo/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Godfrey-First-Elden-Lord-919700791&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/06182022-eldenring-godfrey2.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt; Godfrey, the First Elden Lord (Details)&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; &quot;Hark, my Lord Godfrey. We commend your deeds. Guidance hath delivered ye through to each ordeal, to the place ye stand. Put the Giants to the sword, and confine the flame atop the mount. Let a new epoch begin. An epoch glistening with life. Brandish the Elden Ring, for the Age of the Erdtree!&quot;
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Ce9BHtBrnnh/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/lR5YWo/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Godfrey-First-Elden-Lord-919700791&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/06112022-eldenring-malenia-helm1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt; Malenia's Helm&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; A winged helm of unalloyed gold. Obtainable upon defeating Malenia the Severed.
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CdQ5HTyOxYQ/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/VyYX5P/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Malenia-Helm-918952740&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;
-      &lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/05072022-eldenringrosegarden.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt; Queen Marika &lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt;  And the Mother's Day award of the year goes to.... Queen Marika! Just look at all her lovely demigod children.
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CdQ5HTyOxYQ/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/VyYX5P/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&amp;lt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/05072022-eldenringmarika.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot;padding: 10px 10px 10px 10px&quot;&gt; Queen Marika (Details)&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt;   “Hear me, Demigods. My children beloved. Make of thyself that which ye desire. Be it a Lord, Be it a God. But should y e fail to become aught at all, ye will be forsaken. Amounting only to Sacrifices… “
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/reel/CdQ6j2CqHxC/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/CcIz1DypZET/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/05212022-elden-ring-fia.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-    &lt;/p&gt;
-    &lt;h3 style=&quot; padding: 10px 10px 10px 10px&quot;&gt; Elden Ring - Fia, the Deathbed Companion&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt; &quot;I will soon lay with Godwyn. To conceive my child, the rune. Brandish my rune, and take for yourself the throne. Stay the persecution of Those Who Live in Death.By becoming our Elden Lord.&quot;
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cdi5rAxu1uZ/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/5BobZW&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Saturday-Morning-Scribbles-Elden-Ring-Fia-916080725&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-   &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;clear: left;&quot; class=&quot;imageContainer&quot;&gt;
-    &lt;p style=&quot;float: left;&quot;&gt;&lt;img class=&quot;inktoberdisplay&quot; src=&quot;/images/satmorningsoulsborne/04302022-bloodbornechoirattire.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-    &lt;h3 style=&quot;padding: 10px 10px 10px 10px&quot;&gt; Bloodborne- Healing Church Attire&lt;/h3&gt;
-   &lt;p style=&quot;padding: 10px 10px 10px 10px&quot;&gt;   Or Yurie, the Last Scholar 
-    &lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cc-4C3Du0vg/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/RnJY1v&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Yurie-the-Last-Scholar-of-the-Healing-Church-914673380&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-  
-   &lt;/p&gt;
-&lt;/div&gt;
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/Cn93xvbPo5p/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Abductor-Virgins-945152278&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 16 Dec 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/copy.html</guid>
+        <pubDate>Fri, 08 Dec 2023 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/elden-ring/rykard.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/elden-ring/rykard.html</guid>
         
         
         <category>works</category>
         
+        <category>elden-ring</category>
+        
       </item>
     
       <item>
-        <title>Soulsborne - Full Collection</title>
+        <title>Rykard's Rune</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+
+
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;!-- 
+
+
+
+
+ --&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#elden-ring---abductor-virgins&quot; id=&quot;markdown-toc-elden-ring---abductor-virgins&quot;&gt;Elden Ring - Abductor Virgins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;elden-ring---abductor-virgins&quot;&gt;Elden Ring - Abductor Virgins&lt;/h2&gt;
+
+&lt;p&gt;January 14, 2023&lt;/p&gt;
+
+&lt;p&gt;A Great Rune of the shardbearer Rykard. Its blessing restores health on attacking enemies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard-Rune.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+ Rykard was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon’s union with Queen Marika.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard-Rune-full.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But Rykard fed himself to the blasphemous serpent, Great Rune and all.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/p&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/Cn93xvbPo5p/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Abductor-Virgins-945152278&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 08 Dec 2023 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/elden-ring/rune-rykard.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/elden-ring/rune-rykard.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>elden-ring</category>
+        
+      </item>
+    
+      <item>
+        <title>Saturday Morning Soulsborne</title>
         <description>&lt;hr /&gt;
 &lt;script&gt;
 function myFunction(imgs) {
@@ -1722,7 +716,7 @@ function myFunction(imgs) {
       </item>
     
       <item>
-        <title>Coruscant Library</title>
+        <title>Star Wars</title>
         <description>&lt;hr /&gt;
 &lt;style&gt;
     small{
@@ -1988,487 +982,7 @@ div.desc {
       </item>
     
       <item>
-        <title>Arcane Ink</title>
-        <description>&lt;hr /&gt;
-&lt;style&gt;
-
-    small{
-    font-size: 10px;
-  }
-  .social-media-icons {
-    width: 20px;
-  }
-  .centertext{  
-    align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
- 
- .flex-container {
-  display: flex;
-  justify-content: center;
-}
-
-.flex-container &gt; div {
-  margin: auto;
-  padding: 20px;
-  font-size: 30px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
-}
-
-div.gallery {
-  /* border: 1px solid #ccc; */
-  width: 60%;
-  margin-bottom: 80px;
-
-  height: 500px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-  .gallery &gt;* {
-        flex: 1 1 80px;
-    }
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.main{
-  /* background-color: red; */
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
-div.main img{
-
-  width: 70%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-
-/* div.gallery img 
-
-*/
-
-.displayImage{
-  /* width: 100%;
-  height: auto; */
-  width: 300px; 
-  height: 337px;
-  object-fit: cover;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-div.desc {
-  padding: 10px;
-  text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
- @media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 80%;
-  }
-} 
-
-.clearfix:after {
-  content: &quot;&quot;;
-  display: table;
-  clear: both;
-}
-&lt;/style&gt;
-
-&lt;p class=&quot;centertext&quot; align=&quot;center&quot;&gt;
-Charcoal and Ink. For anything outside my usual focus on Soulsborne stuff.
-&lt;/p&gt;
-
-&lt;!-- 3. --&gt;
-&lt;div class=&quot;flex-container&quot;&gt;
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/2023-06-10-totk-zeldaother.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/2023-06-10-totk-zeldaother.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;June 10, 2023&lt;br /&gt;&lt;i&gt;&quot;Tears of the Kingdom 02&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CtUiaKUP7RU/?igshid=ZWQyN2ExYTkwZQ==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/5v1kXJ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Arcane-Ink-Tears-of-the-Kingdom-02-964412430
-&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/2023-06-10-totk-zeldaindividual.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/2023-06-10-totk-zeldaindividual.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;June 10, 2023&lt;br /&gt;&lt;i&gt;&quot;Tears of the Kingdom 02&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CtUiaKUP7RU/?igshid=ZWQyN2ExYTkwZQ==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/5v1kXJ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Arcane-Ink-Tears-of-the-Kingdom-02-964412430&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/2023-06-10-totk-zeldafull.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/2023-06-10-totk-zeldafull.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;June 10, 2023&lt;br /&gt;&lt;i&gt;&quot;Tears of the Kingdom 02&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CtUiaKUP7RU/?igshid=ZWQyN2ExYTkwZQ==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Arcane-Ink-Tears-of-the-Kingdom-02-964412430
-&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;/div&gt;
-
-&lt;!-- 3. --&gt;
-&lt;div class=&quot;flex-container&quot;&gt;
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/2023-05-027-TOTK-link.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/2023-05-027-TOTK-link.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br /&gt;&lt;i&gt;&quot;Tears of the Kingdom 01&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/5v1kXJ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Arcane-Ink-Tears-of-the-Kingdom-02-964412430
-&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/2023-05-027-TOTK-sword.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/2023-05-027-TOTK-sword.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br /&gt;&lt;i&gt;&quot;Tears of the Kingdom 01&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/5v1kXJ&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Arcane-Ink-Tears-of-the-Kingdom-02-964412430&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/2023-05-027-TOTK-full.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/2023-05-027-TOTK-full.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br /&gt;&lt;i&gt;&quot;Tears of the Kingdom 01&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Arcane-Ink-Tears-of-the-Kingdom-02-964412430
-&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;!-- 2. --&gt;
-&lt;div class=&quot;flex-container&quot;&gt;
-
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/2023-03-25-thelastofus.png&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/2023-03-25-thelastofus.png&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br /&gt;&lt;i&gt;&quot;The Last of Us&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/12-15-2022-april1.png&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br /&gt;&lt;i&gt;&quot;Wednesday's child is full of woe...&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br /&gt;&lt;i&gt;&quot;Horizon Zero Dawn&quot;&lt;/i&gt;&lt;br /&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week0-c.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt; --&gt;
-&lt;!-- &lt;/div&gt; --&gt;
-&lt;!-- &lt;/div&gt; --&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 12 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/arcane-ink.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/arcane-ink.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Arcane Neon</title>
-        <description>&lt;hr /&gt;
-&lt;style&gt;
-  .centertext{  
-    align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
- 
- .flex-container {
-  display: flex;
-  justify-content: center;
-}
-
-.flex-container &gt; div {
-  margin: auto;
-  padding: 20px;
-  font-size: 30px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
-}
-
-div.gallery {
-  /* border: 1px solid #ccc; */
-  width: 60%;
-  margin-bottom: 80px;
-
-  height: 500px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-  .gallery &gt;* {
-        flex: 1 1 80px;
-    }
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.main{
-  /* background-color: red; */
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
-div.main img{
-
-  width: 70%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-
-div.gallery img {
-  /* width: 100%;
-  height: auto; */
-  width: 300px; 
-  height: 337px;
-  object-fit: cover;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
- @media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 80%;
-  }
-} 
-
-.clearfix:after {
-  content: &quot;&quot;;
-  display: table;
-  clear: both;
-}
-&lt;/style&gt;
-
-&lt;!-- 
-
-
-
-
- --&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-title-of-my-page&quot; id=&quot;markdown-toc-the-title-of-my-page&quot;&gt;The title of my page&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-subtitle-of-my-page&quot; id=&quot;markdown-toc-the-subtitle-of-my-page&quot;&gt;The Subtitle of my page&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hi&quot; id=&quot;markdown-toc-hi&quot;&gt;hi&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#2&quot; id=&quot;markdown-toc-2&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#second-oone&quot; id=&quot;markdown-toc-second-oone&quot;&gt;Second oone&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hello&quot; id=&quot;markdown-toc-hello&quot;&gt;hello&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;the-title-of-my-page&quot;&gt;The title of my page&lt;/h1&gt;
-&lt;h2 id=&quot;the-subtitle-of-my-page&quot;&gt;The Subtitle of my page&lt;/h2&gt;
-&lt;h2 id=&quot;hi&quot;&gt;hi&lt;/h2&gt;
-&lt;h2 id=&quot;2&quot;&gt;2&lt;/h2&gt;
-&lt;h1 id=&quot;second-oone&quot;&gt;Second oone&lt;/h1&gt;
-&lt;h1 id=&quot;hello&quot;&gt;hello&lt;/h1&gt;
-
-&lt;div class=&quot;main&quot;&gt;
-
-## 1st one
-## Second one
-    &lt;img src=&quot;/images/arcaneneon/banner.png&quot; alt=&quot;Cinque Terre&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- comment --&gt;
-
-&lt;!-- &lt;div class=&quot;flex-container&quot;&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-b.jpg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-b.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week1-c.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt; --&gt;
-
-&lt;div class=&quot;flex-container&quot;&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneneon/banner.png&quot;&gt;
-    &lt;img src=&quot;/images/arcaneneon/banner.png&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-a.jpeg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-b.jpg&quot;&gt;
-    &lt;img src=&quot;/images/satmorningsoulsborne/BloodborneTober2022/Week2-b.jpg&quot; alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  &lt;div class=&quot;desc&quot;&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 05 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/arcane-neon.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/arcane-neon.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Bloodborne - Bloodborne in Wonderland</title>
+        <title>Bloodborne</title>
         <description>&lt;script&gt;
 function myFunction(imgs) {
   var expandImg = document.getElementById(&quot;expandedImg&quot;);
@@ -2728,6 +1242,468 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
         
         
         <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Elden Ring</title>
+        <description>&lt;hr /&gt;
+&lt;style&gt;
+    small{
+    font-size: 10px;
+  }
+  .social-media-icons {
+    width: 20px;
+  }
+  .centertext{  
+    align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+ .flex-container {
+  display: flex;
+  justify-content: center;
+}
+.flex-container &gt; div {
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+}
+
+div.gallery {
+  /* border: 1px solid #ccc; */
+  width: 60%;
+  margin-bottom: 80px;
+
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+  .gallery &gt;* {
+        flex: 1 1 80px;
+    }
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.main{
+  /* background-color: red; */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+div.main img{
+
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.displayImage{
+  /* width: 100%;
+  height: auto; */
+  width: 300px; 
+  height: 337px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+ @media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 80%;
+  }
+} 
+
+.clearfix:after {
+  content: &quot;&quot;;
+  display: table;
+  clear: both;
+}
+&lt;/style&gt;
+
+&lt;p&gt;“On the Nature of Tarnished Souls” is a meticulously curated anthology from the personal libraries of Sir Gideon Ofnir the All-Knowing. It is an amaglamation of accounts and translations of various Tarnished that have travelled to the Lands Between over the centuries that have followed the Shattering.&lt;/p&gt;
+
+&lt;p&gt;Within its leather-bound pages lies a repository of reflections and unearthed secrets, showcasing this world of the Lands Between in the accounts of the innumerable Tarnished Souls that have passed through here in the quest to become the Elden Lord.&lt;/p&gt;
+
+&lt;!-- 2. --&gt;
+&lt;div class=&quot;flex-container&quot;&gt;
+
+&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; &gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis.png&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br&gt;&lt;i&gt;&quot;The Last of Us&quot;&lt;/i&gt;&lt;br&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;&quot;02 - Cal Kestis&quot;&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/CucqBoGRHiH/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg&quot;&gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg&quot; alt=&quot;Page 01&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;&quot;Translation: &quot;&lt;/i&gt;&lt;br /&gt;
+ &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot; &gt;
+    &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot;  alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
+  &lt;/a&gt;
+  
+  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br&gt;&lt;i&gt;&quot;Horizon Zero Dawn&quot;&lt;/i&gt;&lt;br&gt;
+    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 22 Jul 2023 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/elden-ring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/elden-ring.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Sorceress Sellen</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+
+
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;!-- 
+
+
+
+
+ --&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#elden-ring---sorceress-sellen&quot; id=&quot;markdown-toc-elden-ring---sorceress-sellen&quot;&gt;Elden Ring - Sorceress Sellen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quotes&quot; id=&quot;markdown-toc-quotes&quot;&gt;Quotes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;elden-ring---sorceress-sellen&quot;&gt;Elden Ring - Sorceress Sellen&lt;/h2&gt;
+
+&lt;p&gt;June 17, 2023&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Tarnished, are we? A wonder you should turn up here. I am Sellen, a sorcerer, quite plainly. Why are you here?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20230617-Sellen.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
+&lt;p&gt;Young apprentice, first things first. You are a tadpole when it comes to magic. Infantile. Without the legs to walk. So, to become a sorcerer, first, you must face your ignorance. Now, shall we start learning?
+&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 17 Jun 2023 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/elden-ring/sorceress-sellen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/elden-ring/sorceress-sellen.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>elden-ring</category>
+        
+      </item>
+    
+      <item>
+        <title>Commissions - Julianna The Rest Giver</title>
+        <description>&lt;style&gt;
+  img {
+  float: left;
+  margin-right: 20px;
+}
+a {
+    color: lightgrey;
+    text-decoration: underline;
+}
+  &lt;/style&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/commissions/Julianna-Rest-Giver/full.png&quot; width=&quot;50%&quot; /&gt;
+&lt;i&gt;
+“Julianna, The Rest Giver” 
+&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;A Dreamer of The Madland Dreamscape. Knighted as a granter of True Rest, she holds the knowledge to cease the long-lived and bring an earned resolution to those who yearn for it.”
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you for trusting me to bring your stories to life, my original reason for picking up drawing was to add visual elements to the rpg and fantasy worlds our friend group would play in. Best of luck on the stories!&lt;/p&gt;
+
+&lt;h2&gt;Pricing Chart&lt;/h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+  &lt;th&gt;Step&lt;/th&gt;
+  &lt;th&gt;Cost&lt;/th&gt;
+  &lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;Brainstorming&lt;/td&gt;
+  &lt;td&gt;Free&lt;/td&gt;
+  &lt;td&gt;Pitching the drawing, ideas, examples&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;Formal Draft (process)&lt;/td&gt;
+  &lt;td&gt;25 USD &lt;/td&gt;
+  &lt;td&gt;Charcoal + Lighting + Text Placement. I'm thinking I most post this on social media on Mondays just for accountability&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;Full Image File(s)&lt;/td&gt;
+  &lt;td&gt;75 USD&lt;/td&gt;
+  &lt;td&gt;Photo (capture full layout with natural lighting and staged images) delivered by email from archives@technomancer-01.com. This is the culmination of actually drawing the piece + the labor of actually going out to stage the photos&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+  &lt;td&gt;Digital Copy&lt;/td&gt;
+  &lt;td&gt;25 USD&lt;/td&gt;
+  &lt;td&gt;Digitized version (scan it in, clean it up, and make it available to print)&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+  &lt;td&gt;Parchment Printout&lt;/td&gt;
+  &lt;td&gt;25 USD&lt;/td&gt;
+  &lt;td&gt;8x11 Cotton Parchment either White or Aged. This requires digital cleanup of the pencil/pen work. Please let me know if you want the pages folded like a page or just a full 8x11 &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 27 Feb 2023 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/topics/commissions-julianna.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/commissions-julianna.html</guid>
+        
+        
+        <category>topics</category>
+        
+      </item>
+    
+      <item>
+        <title>Kindling Maiden</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+
+
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;!-- 
+
+
+
+
+ --&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#elden-ring---kindling-maiden&quot; id=&quot;markdown-toc-elden-ring---kindling-maiden&quot;&gt;Elden Ring - Kindling Maiden&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quotes&quot; id=&quot;markdown-toc-quotes&quot;&gt;Quotes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;elden-ring---kindling-maiden&quot;&gt;Elden Ring - Kindling Maiden&lt;/h2&gt;
+
+&lt;p&gt;February 4, 2023&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I can play the role of maiden. Turning rune fragments into strength. To aid you in your search for the Elden Ring. You need only take me with you.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/02042023-melina-full.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 04 Feb 2023 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/elden-ring/melina-kindling-maiden.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/elden-ring/melina-kindling-maiden.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>elden-ring</category>
         
       </item>
     
