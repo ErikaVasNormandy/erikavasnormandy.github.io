@@ -10,7 +10,7 @@ categories:
   - works
   - bloodborne
 
-background-image: gallery/bloodborne/2025-winterlantern/bloodborne-winter-lantern-2.png
+background-image: gallery/bloodborne/2025-winterlantern/bloodborne-winter-lantern-3.png
 
 ---
 ---
