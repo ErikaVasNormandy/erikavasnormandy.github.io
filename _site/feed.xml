@@ -5,9 +5,318 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Jan 2025 15:35:38 -0800</pubDate>
-    <lastBuildDate>Sun, 12 Jan 2025 15:35:38 -0800</lastBuildDate>
+    <pubDate>Sat, 15 Mar 2025 13:10:28 -0700</pubDate>
+    <lastBuildDate>Sat, 15 Mar 2025 13:10:28 -0700</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Dark Souls - Bonfire</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+
+
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;!-- 
+
+
+
+
+ --&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#dark-souls---bonfire&quot; id=&quot;markdown-toc-dark-souls---bonfire&quot;&gt;Dark Souls - Bonfire&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;dark-souls---bonfire&quot;&gt;Dark Souls - Bonfire&lt;/h2&gt;
+
+&lt;p&gt;March 14, 2025&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250315-dark-souls-bonfire-2.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/p&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 16 Mar 2025 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/dark%20souls/darksouls-bonfire.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/dark%20souls/darksouls-bonfire.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>dark souls</category>
+        
+      </item>
+    
+      <item>
+        <title>Dark Souls - Praise the Sun</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+
+
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;!-- 
+
+
+
+
+ --&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#dark-souls---solaire-of-astora&quot; id=&quot;markdown-toc-dark-souls---solaire-of-astora&quot;&gt;Dark Souls - Solaire of Astora&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quotes&quot; id=&quot;markdown-toc-quotes&quot;&gt;Quotes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;dark-souls---solaire-of-astora&quot;&gt;Dark Souls - Solaire of Astora&lt;/h2&gt;
+
+&lt;p&gt;March 15, 2025&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I am a warrior of the sun! Spot my summon signature easily by its brilliant aura. If you miss it, you must be blind”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250315-dark-souls-praise-the-sun.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
+&lt;p&gt;&quot;We are amidst strange beings, in a strange land.The flow of time itself is convoluted; with heroes centuries old phasing in and out. 
+
+The very fabric wavers, and relations shift and obscure.There's no telling how much longer your world and mine will remain in contact.
+
+But, use this, to summon one another as spirits, cross the gaps between the worlds, and engage in jolly co-operation!&quot;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 15 Mar 2025 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/dark-souls/dark%20souls/darksouls-praise-the-sun.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/dark-souls/dark%20souls/darksouls-praise-the-sun.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>dark-souls</category>
+        
+        <category>dark souls</category>
+        
+      </item>
+    
+      <item>
+        <title>Blood Moon</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+
+
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;!-- 
+
+
+
+
+ --&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#blood-moon&quot; id=&quot;markdown-toc-blood-moon&quot;&gt;Blood Moon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;blood-moon&quot;&gt;Blood Moon&lt;/h2&gt;
+
+&lt;p&gt;March 13, 2025&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The red moon hangs low, and beasts rule the streets. Are we left no other choice, than to burn it all to cinders?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250313-bloodmoon.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+An earlier piece I did to practice comic book drawing, based on the lovely work from Piotr Kowalski and Brad Simpson when I first found that there was a Bloodborne comic at my local comic book shop
+
+This was just in time to grab dat total Lunar Eclipse in North America
+&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 13 Mar 2025 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/bloodborne/blood-moon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/bloodborne/blood-moon.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>bloodborne</category>
+        
+      </item>
     
       <item>
         <title>Winter Lantern</title>
@@ -1432,286 +1741,6 @@ div.desc {
         
         
         <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Sorceress Sellen</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-
-
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;!-- 
-
-
-
-
- --&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#elden-ring---sorceress-sellen&quot; id=&quot;markdown-toc-elden-ring---sorceress-sellen&quot;&gt;Elden Ring - Sorceress Sellen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quotes&quot; id=&quot;markdown-toc-quotes&quot;&gt;Quotes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;elden-ring---sorceress-sellen&quot;&gt;Elden Ring - Sorceress Sellen&lt;/h2&gt;
-
-&lt;p&gt;June 17, 2023&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Tarnished, are we? A wonder you should turn up here. I am Sellen, a sorcerer, quite plainly. Why are you here?”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20230617-Sellen.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
-&lt;p&gt;Young apprentice, first things first. You are a tadpole when it comes to magic. Infantile. Without the legs to walk. So, to become a sorcerer, first, you must face your ignorance. Now, shall we start learning?
-&lt;/p&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 17 Jun 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/elden-ring/sorceress-sellen.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/elden-ring/sorceress-sellen.html</guid>
-        
-        
-        <category>works</category>
-        
-        <category>elden-ring</category>
-        
-      </item>
-    
-      <item>
-        <title>Commissions - Julianna The Rest Giver</title>
-        <description>&lt;style&gt;
-  img {
-  float: left;
-  margin-right: 20px;
-}
-a {
-    color: lightgrey;
-    text-decoration: underline;
-}
-  &lt;/style&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/commissions/Julianna-Rest-Giver/full.png&quot; width=&quot;50%&quot; /&gt;
-&lt;i&gt;
-“Julianna, The Rest Giver” 
-&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;A Dreamer of The Madland Dreamscape. Knighted as a granter of True Rest, she holds the knowledge to cease the long-lived and bring an earned resolution to those who yearn for it.”
-&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;Thank you for trusting me to bring your stories to life, my original reason for picking up drawing was to add visual elements to the rpg and fantasy worlds our friend group would play in. Best of luck on the stories!&lt;/p&gt;
-
-&lt;h2&gt;Pricing Chart&lt;/h2&gt;
-&lt;table&gt;
-&lt;tr&gt;
-  &lt;th&gt;Step&lt;/th&gt;
-  &lt;th&gt;Cost&lt;/th&gt;
-  &lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-  &lt;td&gt;Brainstorming&lt;/td&gt;
-  &lt;td&gt;Free&lt;/td&gt;
-  &lt;td&gt;Pitching the drawing, ideas, examples&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-  &lt;td&gt;Formal Draft (process)&lt;/td&gt;
-  &lt;td&gt;25 USD &lt;/td&gt;
-  &lt;td&gt;Charcoal + Lighting + Text Placement. I'm thinking I most post this on social media on Mondays just for accountability&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-  &lt;td&gt;Full Image File(s)&lt;/td&gt;
-  &lt;td&gt;75 USD&lt;/td&gt;
-  &lt;td&gt;Photo (capture full layout with natural lighting and staged images) delivered by email from archives@technomancer-01.com. This is the culmination of actually drawing the piece + the labor of actually going out to stage the photos&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-  &lt;td&gt;Digital Copy&lt;/td&gt;
-  &lt;td&gt;25 USD&lt;/td&gt;
-  &lt;td&gt;Digitized version (scan it in, clean it up, and make it available to print)&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-  &lt;td&gt;Parchment Printout&lt;/td&gt;
-  &lt;td&gt;25 USD&lt;/td&gt;
-  &lt;td&gt;8x11 Cotton Parchment either White or Aged. This requires digital cleanup of the pencil/pen work. Please let me know if you want the pages folded like a page or just a full 8x11 &lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 27 Feb 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/topics/commissions-julianna.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/commissions-julianna.html</guid>
-        
-        
-        <category>topics</category>
-        
-      </item>
-    
-      <item>
-        <title>Kindling Maiden</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-
-
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;!-- 
-
-
-
-
- --&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#elden-ring---kindling-maiden&quot; id=&quot;markdown-toc-elden-ring---kindling-maiden&quot;&gt;Elden Ring - Kindling Maiden&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quotes&quot; id=&quot;markdown-toc-quotes&quot;&gt;Quotes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;elden-ring---kindling-maiden&quot;&gt;Elden Ring - Kindling Maiden&lt;/h2&gt;
-
-&lt;p&gt;February 4, 2023&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“I can play the role of maiden. Turning rune fragments into strength. To aid you in your search for the Elden Ring. You need only take me with you.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/02042023-melina-full.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
-&lt;p&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 04 Feb 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/elden-ring/melina-kindling-maiden.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/elden-ring/melina-kindling-maiden.html</guid>
-        
-        
-        <category>works</category>
-        
-        <category>elden-ring</category>
         
       </item>
     
