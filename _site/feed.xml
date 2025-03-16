@@ -5,9 +5,90 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Mar 2025 15:20:16 -0700</pubDate>
-    <lastBuildDate>Sun, 16 Mar 2025 15:20:16 -0700</lastBuildDate>
+    <pubDate>Sun, 16 Mar 2025 16:53:21 -0700</pubDate>
+    <lastBuildDate>Sun, 16 Mar 2025 16:53:21 -0700</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Coffee Pour Over Instructions</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+
+
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;pour-over-instructions&quot;&gt;Pour Over Instructions&lt;/h2&gt;
+&lt;p&gt;February 5, 2022&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/Coffee-instructions-pg1.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/topics/coffee/barista/cafe/works/Coffee-PourOver-Instructions.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/coffee/barista/cafe/works/Coffee-PourOver-Instructions.html</guid>
+        
+        
+        <category>topics</category>
+        
+        <category>coffee</category>
+        
+        <category>barista</category>
+        
+        <category>cafe</category>
+        
+        <category>works</category>
+        
+      </item>
     
       <item>
         <title>Dark Souls - Bonfire</title>
@@ -1556,188 +1637,6 @@ The Hunter surged forward like a tempest, his footsteps as swift as the night. J
         <pubDate>Sat, 29 Jul 2023 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/works/bloodborne.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/bloodborne.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Elden Ring</title>
-        <description>&lt;hr /&gt;
-&lt;style&gt;
-    small{
-    font-size: 10px;
-  }
-  .social-media-icons {
-    width: 20px;
-  }
-  .centertext{  
-    align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
- .flex-container {
-  display: flex;
-  justify-content: center;
-}
-.flex-container &gt; div {
-  margin: auto;
-  padding: 20px;
-  font-size: 30px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
-}
-
-div.gallery {
-  /* border: 1px solid #ccc; */
-  width: 60%;
-  margin-bottom: 80px;
-
-  height: 500px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-  .gallery &gt;* {
-        flex: 1 1 80px;
-    }
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.main{
-  /* background-color: red; */
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
-div.main img{
-
-  width: 70%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-.displayImage{
-  /* width: 100%;
-  height: auto; */
-  width: 300px; 
-  height: 337px;
-  object-fit: cover;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-div.desc {
-  padding: 10px;
-  text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
- @media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 80%;
-  }
-} 
-
-.clearfix:after {
-  content: &quot;&quot;;
-  display: table;
-  clear: both;
-}
-&lt;/style&gt;
-
-&lt;p&gt;“On the Nature of Tarnished Souls” is a meticulously curated anthology from the personal libraries of Sir Gideon Ofnir the All-Knowing. It is an amaglamation of accounts and translations of various Tarnished that have travelled to the Lands Between over the centuries that have followed the Shattering.&lt;/p&gt;
-
-&lt;p&gt;Within its leather-bound pages lies a repository of reflections and unearthed secrets, showcasing this world of the Lands Between in the accounts of the innumerable Tarnished Souls that have passed through here in the quest to become the Elden Lord.&lt;/p&gt;
-
-&lt;!-- 2. --&gt;
-&lt;div class=&quot;flex-container&quot;&gt;
-
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; &gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis.png&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Mar 25, 2023&lt;br&gt;&lt;i&gt;&quot;The Last of Us&quot;&lt;/i&gt;&lt;br&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CqN-sOorHWO/?igshid=Mzc1MmZhNjY=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/02-StarWars-Cal-Kestis1.jpeg&quot; alt=&quot;Page 02&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;&quot;02 - Cal Kestis&quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/CucqBoGRHiH/?igshid=MTIzZWMxMTBkOA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/dKK3O3&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/The-Last-of-Us-955137784&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg&quot;&gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/arcaneink/coruscant-library/01-aurabesh-close.jpeg&quot; alt=&quot;Page 01&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;July 8, 2023&lt;br /&gt;&lt;i&gt;&quot;Translation: &quot;&lt;/i&gt;&lt;br /&gt;
- &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-     &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-
-&lt;!-- &lt;div class=&quot;gallery&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/images/banner-horizon-zero-dawn.jpg&quot; &gt;
-    &lt;img class=&quot;displayImage&quot; src=&quot;/images/banner-horizon-zero-dawn.jpg&quot;  alt=&quot;Forest&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;
-  &lt;/a&gt;
-  
-  &lt;div class=&quot;desc&quot;&gt;&lt;small&gt;Dec 17, 2022&lt;br&gt;&lt;i&gt;&quot;Horizon Zero Dawn&quot;&lt;/i&gt;&lt;br&gt;
-    &lt;a href=&quot;https://www.instagram.com/p/Cl_tpurOTqD/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-instagram.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.artstation.com/artwork/b59Kqm&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-artstation.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Erdtree-Burial-Watchdog-940526663&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-deviantart.png&quot;&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;https://raw.githubusercontent.com/ErikaVasNormandy/erikavasnormandy.github.io/master/img/social-media-icons/social-media-icon-redbubble.png&quot;&gt;&lt;/a&gt; &lt;/small&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 22 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/elden-ring.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/elden-ring.html</guid>
         
         
         <category>works</category>
