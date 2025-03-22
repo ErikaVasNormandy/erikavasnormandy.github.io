@@ -102,7 +102,7 @@ This spectacle, at first seemingly mundane, did not perturb the Hunter. Nor did 
     <img class="inktoberdisplay"  src="/images/arcaneink/bloodborneinwonderland/20230722-bloodborneinwonderland2.jpeg" onclick="myFunction(this);">
     </p>
   <h2 style="padding-top: 20px"> The Plain Doll</h2>
-  <i>The Plain Doll thought she had never seen such a curious Great One in her existence: its body was sleek and grey, like that of a slug, although from its ‬head sprouted a great many append-ages that twitched when her wooden hands brushed the damp skin.
+  <i>The Plain Doll thought she had never seen such a curious Great One in her existence: its body was sleek and grey, like that of a slug, although from its head sprouted a great many append-ages that twitched when her wooden hands brushed the damp skin.
 <br><br>
 “Are you cold?”
 <br><br>
