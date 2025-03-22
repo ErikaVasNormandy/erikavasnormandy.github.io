@@ -2,8 +2,6 @@
 title: Blood Moon
 author: technomancer-01
 excerpt: When the Great One descends, the red moon hangs low
-priority: 10
-# tags: featured
 skills:
   - ink
 categories:

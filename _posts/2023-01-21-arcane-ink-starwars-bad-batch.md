@@ -2,7 +2,6 @@
 title: Star Wars - Bad Batch
 author: technomancer-01
 excerpt: Because stories about found families are the best
-priority: 1
 skills:
   - ink
 categories:

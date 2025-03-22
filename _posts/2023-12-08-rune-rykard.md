@@ -2,7 +2,6 @@
 title: Rykard's Rune
 author: technomancer-01
 excerpt: A Great Rune of the shardbearer Rykard. Its blessing restores health on attacking enemies.
-priority: 10
 # tags: featured
 skills:
   - ink

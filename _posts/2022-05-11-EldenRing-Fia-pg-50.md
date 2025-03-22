@@ -2,7 +2,6 @@
 title: Fia, Deathbed Companion
 author: technomancer-01
 excerpt: "Greetings, great champion called by grace. I am Fia. Circumstances have compelled my stay at the Roundtable Hold."
-priority: 10
 # tags: featured
 skills:
   - ink

@@ -2,7 +2,6 @@
 title: Kindling Maiden
 author: technomancer-01
 excerpt: I can play the role of maiden. Turning rune fragments into strength. To aid you in your search for the Elden Ring. You need only take me with you.
-priority: 10
 # tags: featured
 skills:
   - ink

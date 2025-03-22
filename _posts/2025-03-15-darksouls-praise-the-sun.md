@@ -2,7 +2,6 @@
 title: Dark Souls - Praise the Sun
 author: technomancer-01
 excerpt: Esteemed Academic at Raya Lucaria
-priority: 10
 # tags: featured
 skills:
   - ink

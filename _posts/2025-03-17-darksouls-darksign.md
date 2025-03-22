@@ -1,18 +1,16 @@
 ---
-title: Coffee Pour Over Instructions
+title: Dark Sign
 author: technomancer-01
-excerpt: Pour Over Instructions
+excerpt: The Darksign signifies an accursed Undead. Those branded with it are reborn after death, but will one day lose their mind and go Hollow. Death triggers the Darksign, which returns its bearer to the last bonfire rested at, but at the cost of all humanity and souls.
 # tags: featured
 skills:
   - ink
 categories:
-  - topics
-  - coffee
-  - barista
-  - cafe
   - works
+  - dark souls
+  - soulsborne
 
-background-image: Coffee-instructions-pg1.jpeg
+background-image: /satmorningsoulsborne/20250315-dark-souls-darksign-2-preview.png
 
 ---
 ---
@@ -70,10 +68,13 @@ function myFunction(imgs) {
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-## Pour Over Instructions
-February 5, 2022
+## Dark Sign
+March 17, 2025
 
 
-<img class="imageDisplay" src="/images/Coffee-instructions-pg1.jpeg" onclick="myFunction(this);">
+<img class="imageDisplay" src="/images/satmorningsoulsborne/20250315-dark-souls-darksign-2.png" onclick="myFunction(this);">
+<img class="imageDisplay" src="/images/satmorningsoulsborne/20250315-dark-souls-darksign-3.png" onclick="myFunction(this);">
 
+"The Darksign signifies an accursed Undead. Those branded with it are reborn after death, but will one day lose their mind and go Hollow."
 
+"Death triggers the Darksign, which returns its bearer to the last bonfire rested at, but at the cost of all humanity and souls."

@@ -2,7 +2,6 @@
 title: Abductor Virgins
 author: technomancer-01
 excerpt: Elden Ring 
-priority: 10
 # tags: featured
 skills:
   - ink

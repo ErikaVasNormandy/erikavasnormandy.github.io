@@ -2,7 +2,6 @@
 title: Winter Lantern
 author: technomancer-01
 excerpt: Grotesque creatures known for their eerie song
-priority: 10
 # tags: featured
 skills:
   - ink

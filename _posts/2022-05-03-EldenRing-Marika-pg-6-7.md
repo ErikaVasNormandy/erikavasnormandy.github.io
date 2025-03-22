@@ -2,7 +2,6 @@
 title: Marika the Eternal
 author: technomancer-01
 excerpt: "Return to the Lands Between, wage war, and brandish the Elden Ring. Grow strong in the face of death. Warriors of my lord."
-priority: 10
 # tags: featured
 skills:
   - ink

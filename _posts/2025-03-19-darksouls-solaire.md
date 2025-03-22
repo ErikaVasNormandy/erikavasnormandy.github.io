@@ -1,18 +1,15 @@
 ---
-title: Coffee Pour Over Instructions
+title: Solaire
 author: technomancer-01
-excerpt: Pour Over Instructions
-# tags: featured
+excerpt: “…I will stay behind, to gaze at the sun. The sun is a wondrous body. Like a magnificent father! If only I could be so grossly incandescent!"
 skills:
   - ink
 categories:
-  - topics
-  - coffee
-  - barista
-  - cafe
   - works
+  - dark souls
+  - soulsborne
 
-background-image: Coffee-instructions-pg1.jpeg
+background-image: /satmorningsoulsborne/20250315-dark-souls-solaire-1-preview.png
 
 ---
 ---
@@ -70,10 +67,10 @@ function myFunction(imgs) {
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-## Pour Over Instructions
-February 5, 2022
+## Solaire
+March 19, 2025
 
 
-<img class="imageDisplay" src="/images/Coffee-instructions-pg1.jpeg" onclick="myFunction(this);">
+<img class="imageDisplay" src="/images/satmorningsoulsborne/20250315-dark-souls-solaire-1-preview.png" onclick="myFunction(this);">
 
 

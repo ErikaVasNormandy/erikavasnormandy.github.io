@@ -2,7 +2,6 @@
 title: A Bloodborne-Tober (2022)
 author: technomancer-01
 excerpt: A Return to Yharnam for Spooky Vibes
-priority: 1
 skills:
   - ink
 categories:

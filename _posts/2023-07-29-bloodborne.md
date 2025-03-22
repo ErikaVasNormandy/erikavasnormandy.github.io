@@ -2,7 +2,6 @@
 title: Bloodborne
 author: technomancer-01
 excerpt: Beyond the Hunters' Dream and Through the Paleblood Looking Glass
-priority: 8
 skills:
   - ink
 categories:
