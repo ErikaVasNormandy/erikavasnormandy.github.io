@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Mar 2025 13:52:18 -0700</pubDate>
-    <lastBuildDate>Sat, 22 Mar 2025 13:52:18 -0700</lastBuildDate>
+    <pubDate>Thu, 27 Mar 2025 14:00:09 -0700</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 14:00:09 -0700</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -85,6 +85,71 @@ function myFunction(imgs) {
         <category>barista</category>
         
         <category>cafe</category>
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Mini Books</title>
+        <description>&lt;style&gt;
+img {
+    display: inline-flex;
+    margin: 20px;
+}
+.imageDisplay {
+  object-fit:contain; 
+  width: 400px;
+}
+&lt;/style&gt;
+
+&lt;h2 id=&quot;mini-books&quot;&gt;Mini Books&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/shop/previews/mini-books/IMG_0459.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“A tiny book, fitting right into the palm of your hand. Notes scrawled on the tea-stained pages describe many worlds and peoples, with illustrations to brighten however you choose to add to them.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;stats&quot;&gt;Stats&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2”x3” inches&lt;/li&gt;
+  &lt;li&gt;A8 Paper Size designed to fit in the palm of your hand&lt;/li&gt;
+  &lt;li&gt;About 90-120 pages total&lt;/li&gt;
+  &lt;li&gt;Tea-stained paper&lt;/li&gt;
+  &lt;li&gt;Illustrations and text to decorate pages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Each book is handcrafted, making every copy unique.&lt;/li&gt;
+  &lt;li&gt;Features illustrations to make it feel like you’re traversing the Lands Between or out and about in Anor Londo&lt;/li&gt;
+  &lt;li&gt;Pages are in random order, but guaranteed to have content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;acquisition&quot;&gt;Acquisition&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.etsy.com/listing/1673521600/handbound-mini-soulsborne-grimoire-basic&quot;&gt;Etsy Shop Listing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://technomancer01.etsy.com/listing/1794521603/mini-bloodborne-grimoire-handbound&quot;&gt;Bloodborne&lt;/a&gt;&lt;/strong&gt; Shop Link&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://technomancer01.etsy.com/listing/1780325542/mini-elden-ring-grimoire-handbound&quot;&gt;Elden Ring&lt;/a&gt;&lt;/strong&gt; Shop Link&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;gallery&quot;&gt;Gallery&lt;/h2&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/shop/previews/mini-books/IMG_0422.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+&lt;img class=&quot;imageDisplay&quot; src=&quot;/shop/previews/mini-books/F77D0564-9CA4-49C9-BD08-B07744F1ABD2.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+&lt;img class=&quot;imageDisplay&quot; src=&quot;/shop/previews/mini-books/IMG_9378-black-brown-book-preview.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Mar 2025 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/mini-books.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/mini-books.html</guid>
+        
         
         <category>works</category>
         
@@ -835,109 +900,6 @@ function myFunction(imgs) {
         <category>works</category>
         
         <category>bloodborne</category>
-        
-      </item>
-    
-      <item>
-        <title>Rykard's Rune</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-
-
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;!-- 
-
-
-
-
- --&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#elden-ring---abductor-virgins&quot; id=&quot;markdown-toc-elden-ring---abductor-virgins&quot;&gt;Elden Ring - Abductor Virgins&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;elden-ring---abductor-virgins&quot;&gt;Elden Ring - Abductor Virgins&lt;/h2&gt;
-
-&lt;p&gt;January 14, 2023&lt;/p&gt;
-
-&lt;p&gt;A Great Rune of the shardbearer Rykard. Its blessing restores health on attacking enemies.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard-Rune.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
- Rykard was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon’s union with Queen Marika.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/01282023-Rykard-Rune-full.jpeg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;But Rykard fed himself to the blasphemous serpent, Great Rune and all.&lt;/p&gt;
-
-&lt;p&gt;&amp;lt;/p&amp;gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/Cn93xvbPo5p/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Abductor-Virgins-945152278&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 08 Dec 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/elden-ring/rune-rykard.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/elden-ring/rune-rykard.html</guid>
-        
-        
-        <category>works</category>
-        
-        <category>elden-ring</category>
         
       </item>
     
