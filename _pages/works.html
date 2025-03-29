@@ -10,7 +10,7 @@ background-image: pic02.jpg
 ---
 
 
-{%
+<!-- {%
   if site.social.linkedin-square %}
   <div class="table-wrapper">
     <table class="alt"><tbody><tr><td style="text-align: center;">Visit my
@@ -18,22 +18,19 @@ background-image: pic02.jpg
   
     </tr></tbody></table>
   </div>{%
-  endif %}
+  endif %} -->
 
 
 
 
 <div class="table-wrapper">
   {% if site.categories.works %}
-
     {% include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'%}
     {%  for work in sorted_list %} 
-
     
     <div class="tableImage" style="background-image: url('{{ site.url }}/images/{{ work.background-image }}');">
       <a  href="{{ work.url | prepend: site.baseurl }}">
         <div class="innerTableImage">
-
         {{work.title}}
       
     
@@ -48,43 +45,10 @@ background-image: pic02.jpg
          
             <td style="max-width: 30vw"><img src="  {{ site.url }}/images/{{ work.background-image }} " style="float: right; width: 50%; margin-bottom: -30px" /></td> -->
         {%endfor %}
-
-
-     
     {%endif %}
 
   </div>
 
 
-<!--
-  {%
-  if site.categories.works %}
-  <div class="table-wrapper">
-    <table>
-      <tbody>{%
-        include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
-  %}{%  for work in sorted_list %} 
-        <tr>
-          <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
-          <td>{{ work.date | date: "%b %Y" }}</td>
-          <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
-           <td>   {{ site.url }}/images/{{ work.background-image }}</td> -->
-
-          <!-- <td>
-            {% include techlist.html %}
-          </td> 
-          <td style="max-width: 30vw"><img src="  {{ site.url }}/images/{{ work.background-image }} " style="float: right; width: 50%; margin-bottom: -30px" /></td>
-        </tr>{%
-        endfor %}
-      </tbody>
-    </table>
-  </div>{%
-    if site.works_in_progress %}
-    <div class="works_inprogress">In-progress, more to come.</div>{%
-    endif %}{%
-  endif
-  %}
-
-    -->
 
   

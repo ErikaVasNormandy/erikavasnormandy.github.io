@@ -45,11 +45,8 @@ width: 10%;
 
 	object-fit: cover;
 	display: block;
-
 	
 }
-
-
 
 
 .imageContainer{
@@ -120,8 +117,9 @@ width: 10%;
 	@-ms-viewport {
 		width: device-width;
 	}
-
+	
 	body {
+		overflow-x: hidden;
 		font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
 
 	/*	background: _palette(bg);*/
@@ -130,10 +128,14 @@ width: 10%;
 		&.is-loading {
 			*, *:before, *:after {
 				// @include vendor('animation', 'none !important');
-				@include vendor('transition', 'none !important');
+				// commented out on march 29 2025
+				// @include vendor('transition', 'none !important');
 			}
 		}
 	}
+
+
+
 	@font-face {
 		// font-family: myFirstFont;
 		font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
@@ -147,6 +149,8 @@ width: 10%;
 		src: url(Mina-Bold.ttf)
 	  }
 	  
+
+
 	body, input, select, textarea {
 		p{
 			font-family: _font(ctrl-family);
@@ -1786,7 +1790,7 @@ width: 10%;
 
 
 	.wrapper {
-		@include padding(3em, 0); //6
+		// @include padding(3em, 0); //6
 
 		.minihead {
 			@include padding(1em, 0);
@@ -1796,7 +1800,9 @@ width: 10%;
 			// width: 60em;
 			width: 80em;
 
-			margin: 0 auto;
+			// margin: 0 auto;
+			margin-left: auto;
+			margin-right: auto;
 
 			&.fullwidth {
 				width: 100%;

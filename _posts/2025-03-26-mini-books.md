@@ -7,7 +7,7 @@ skills:
 categories:
   - works
 
-background-image: /shop/previews/mini-books/IMG_9378-black-brown-book-preview.png
+background-image: ../shop/previews/mini-books/IMG_9378-black-brown-book-preview.png
 ---
 <style>
 img {
@@ -22,7 +22,7 @@ img {
 
 ## Mini Books
 
-<img  src="/shop/previews/mini-books/IMG_0459.png" onclick="myFunction(this);">
+<img  src="../shop/previews/mini-books/IMG_0459.png" onclick="myFunction(this);">
 
 
 
