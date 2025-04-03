@@ -5,9 +5,9 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Mar 2025 10:18:30 -0700</pubDate>
-    <lastBuildDate>Sat, 29 Mar 2025 10:18:30 -0700</lastBuildDate>
-    <generator>Jekyll v4.3.3</generator>
+    <pubDate>Thu, 03 Apr 2025 14:04:23 -0700</pubDate>
+    <lastBuildDate>Thu, 03 Apr 2025 14:04:23 -0700</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
     
       <item>
         <title>Coffee Pour Over Instructions</title>
@@ -493,7 +493,7 @@ function myFunction(imgs) {
 &lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
 &lt;p&gt;&quot;We are amidst strange beings, in a strange land.The flow of time itself is convoluted; with heroes centuries old phasing in and out. 
 
-The very fabric wavers, and relations shift and obscure.There's no telling how much longer your world and mine will remain in contact.
+The very fabric wavers, and relations shift and obscure.There&apos;s no telling how much longer your world and mine will remain in contact.
 
 But, use this, to summon one another as spirits, cross the gaps between the worlds, and engage in jolly co-operation!&quot;
 &lt;/p&gt;

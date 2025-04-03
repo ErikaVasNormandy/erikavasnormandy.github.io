@@ -14,6 +14,15 @@ bundle install
 bundle add jekyll 
 
 
+  Server running... press ctrl-c to stop.
+^C%                                                                                                                                                                       (base) ➜  bundle -v
+Bundler version 2.4.10
+(base) ➜  erikavasnormandy.github.io git:(master) ✗ ruby -v
+ruby 3.2.2 (2023-03-30 revision e51014f9c0) [x86_64-darwin23]
+(base) ➜  erikavasnormandy.github.io git:(master) ✗ rbenv -v
+rbenv 1.3.2
+
+
 (you might need to install the individual components)
 bundle exec jekyll serve
 
