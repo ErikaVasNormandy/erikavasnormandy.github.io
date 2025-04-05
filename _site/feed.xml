@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Apr 2025 14:04:23 -0700</pubDate>
-    <lastBuildDate>Thu, 03 Apr 2025 14:04:23 -0700</lastBuildDate>
+    <pubDate>Sat, 05 Apr 2025 12:33:42 -0700</pubDate>
+    <lastBuildDate>Sat, 05 Apr 2025 12:33:42 -0700</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -609,86 +609,6 @@ function myFunction(imgs) {
       </item>
     
       <item>
-        <title>Amygdalan Arm</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;h2 id=&quot;amygdalan-arm&quot;&gt;Amygdalan Arm&lt;/h2&gt;
-&lt;p&gt;March 13, 2025&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250313-bloodborne-Amygdalan-Arm-preview.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-“The arm of a small Amygdala Great One.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250313-bloodborne-Burial-Blade-7.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;“Strictly speaking, the Amygdalan Arm is no trick weapon of any sort, but certain madmen wield them like clubs. Starts as a large, tough blunt weapon formed of bone, but when extended, the hand quivers as if it were still alive.&lt;/p&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-
-</description>
-        <pubDate>Thu, 13 Mar 2025 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/bloodborne/bloodborne-amygdalan-arm.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/bloodborne/bloodborne-amygdalan-arm.html</guid>
-        
-        
-        <category>works</category>
-        
-        <category>bloodborne</category>
-        
-      </item>
-    
-      <item>
         <title>Blood Moon</title>
         <description>&lt;hr /&gt;
 &lt;script&gt;
@@ -789,6 +709,41 @@ This was just in time to grab dat total Lunar Eclipse in North America
         <category>works</category>
         
         <category>bloodborne</category>
+        
+      </item>
+    
+      <item>
+        <title>Reiterpallasch</title>
+        <description>&lt;style&gt;
+img {
+    display: inline-flex;
+    margin: 20px;
+}
+.imageDisplay {
+  object-fit:contain; 
+  width: 400px;
+}
+&lt;/style&gt;
+
+&lt;h2 id=&quot;reiterpallasch&quot;&gt;Reiterpallasch&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/satmorningsoulsborne/20250117-Reiter-preview.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“A weapon of Cainhurst design, combining the elegance of a rapier with the stopping power of a firearm. Those who wield it dance between thrust and shot, wearing down foes with aristocratic precision.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;gallery&quot;&gt;Gallery&lt;/h2&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250117-Reiterpallasch-02.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250117-Reiterpallasch-01.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jan 2025 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/cainhurst-reiterpallasch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/cainhurst-reiterpallasch.html</guid>
+        
+        
+        <category>works</category>
         
       </item>
     
