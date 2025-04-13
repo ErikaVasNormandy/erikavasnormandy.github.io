@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Apr 2025 12:33:42 -0700</pubDate>
-    <lastBuildDate>Sat, 05 Apr 2025 12:33:42 -0700</lastBuildDate>
+    <pubDate>Sat, 12 Apr 2025 16:39:12 -0700</pubDate>
+    <lastBuildDate>Sat, 12 Apr 2025 16:39:12 -0700</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -87,6 +87,89 @@ function myFunction(imgs) {
         <category>cafe</category>
         
         <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Oedon Chapel</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+
+
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;oedon-chapel&quot;&gt;Oedon Chapel&lt;/h2&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20200404-Oedon-Chapel.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;“These hunts have everyone all locked up inside. Waiting for it to end… It always does, always has, y’know. Since forever. But it won’t end very nicely, not this time. Even some folks hiding inside are going’bad. The screams of womenfolk, the stench of blood, the snarls of beasts… none of em’s too uncommon now. Yharnam’s done fer. I tell ya. But if you spot anyone with their wits about ‘em… Tell’em about this here Oedon Chapel. They’ll be safe here. The incense wards of the beasts”
+&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20240427-Oedon-Chapel-Dweller.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA==&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.deviantart.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 10 Apr 2025 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/bloodborne/Oedon-Chapel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/bloodborne/Oedon-Chapel.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>bloodborne</category>
         
       </item>
     
@@ -744,117 +827,6 @@ img {
         
         
         <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Winter Lantern</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-
-
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;!-- 
-
-
-
-
- --&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#bloodborne---winter-lanterns&quot; id=&quot;markdown-toc-bloodborne---winter-lanterns&quot;&gt;Bloodborne - Winter Lanterns&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bloodborne---winter-lanterns&quot;&gt;Bloodborne - Winter Lanterns&lt;/h2&gt;
-
-&lt;p&gt;January 4, 2025&lt;/p&gt;
-
-&lt;p&gt;These unsettling beings hum haunting tunes as they wander the Nightmare of Mensis bringing Frenzy and ruin to any who come too close.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/gallery/bloodborne/2025-winterlantern/bloodborne-winter-lantern-1.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Winter Lanterns appear as grotesque amalgamations, part brain and part doll-like figure, their gaze alone a harbinger of death.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/gallery/bloodborne/2025-winterlantern/bloodborne-winter-lantern-2.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Beware their hypnotic draw, for Frenzy will overwhelm those unprepared.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/gallery/bloodborne/2025-winterlantern/bloodborne-winter-lantern-3.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/gallery/bloodborne/2025-winterlantern/bloodborne-winter-lantern-4.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/gallery/bloodborne/2025-winterlantern/bloodborne-winter-lantern-5.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/gallery/bloodborne/2025-winterlantern/bloodborne-winter-lantern-6.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/gallery/bloodborne/2025-winterlantern/bloodborne-winter-lantern-7.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/WinterLanternsFrenzy/?igshid=YmMyMTA2M2Y=&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-instagram.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.artstation.com/technomancer-01&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-artstation.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://www.deviantart.com/technomancer-01/art/Winter-Lanterns-945152278&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-deviantart.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 Jan 2025 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/bloodborne/winter-lantern.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/bloodborne/winter-lantern.html</guid>
-        
-        
-        <category>works</category>
-        
-        <category>bloodborne</category>
         
       </item>
     
