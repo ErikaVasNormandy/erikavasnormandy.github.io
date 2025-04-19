@@ -8,7 +8,7 @@ skills:
   - ink
 categories:
   - works
-  - bloodborne
+  - eldenring
 
 background-image: satmorningsoulsborne/20250313-Vargram-preview.png
 
@@ -69,7 +69,7 @@ function myFunction(imgs) {
 
 
 
-## Oedon Chapel
+## Vargram The Raging Wolf
 
 <img class="imageDisplay" src="/images/satmorningsoulsborne/20250313-Vargram-The-Raging-Wolf-1.png" onclick="myFunction(this);">
 
