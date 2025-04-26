@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Apr 2025 08:03:41 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Apr 2025 08:03:41 -0700</lastBuildDate>
+    <pubDate>Sat, 26 Apr 2025 09:38:29 -0700</pubDate>
+    <lastBuildDate>Sat, 26 Apr 2025 09:38:29 -0700</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -87,6 +87,83 @@ function myFunction(imgs) {
         <category>cafe</category>
         
         <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Memoirs of Forsaken Cainhurst</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;the-vileblood-register---memoirs-of-forsaken-cainhurst&quot;&gt;The Vileblood Register - Memoirs of Forsaken Cainhurst&lt;/h2&gt;
+&lt;p&gt;April 25, 2025&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250426-forsaken-cainhurst.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250117-Cainhurst-sigil-03.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+</description>
+        <pubDate>Sat, 26 Apr 2025 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/bloodborne/forsaken-cainhurst.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/bloodborne/forsaken-cainhurst.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>bloodborne</category>
         
       </item>
     
@@ -787,93 +864,6 @@ This was just in time to grab dat total Lunar Eclipse in North America
         <pubDate>Thu, 13 Mar 2025 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/works/bloodborne/blood-moon.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/bloodborne/blood-moon.html</guid>
-        
-        
-        <category>works</category>
-        
-        <category>bloodborne</category>
-        
-      </item>
-    
-      <item>
-        <title>Vargram The Raging Wolf</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-
-
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;h2 id=&quot;oedon-chapel&quot;&gt;Oedon Chapel&lt;/h2&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250313-Vargram-The-Raging-Wolf-1.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;“One of the first Tarnished to arrive at the Roundtable, Vargram was named after the white wolf pelt on his helm.”
-&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250313-Vargram-The-Raging-Wolf-2.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;“According to the old legends, wolves are the shadows of the Empyrean. Vargram aspired to such a state himself.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250313-Vargram-The-Raging-Wolf-3.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.etsy.com/listing/1673521600/handbound-mini-soulsborne-grimoire&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-etsy.png&quot; /&gt;Etsy Shop&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.redbubble.com/people/technomancer-01/shop/&quot;&gt;&lt;img class=&quot;social-media-icons&quot; src=&quot;/images/social-media-icons/social-media-icon-redbubble.png&quot; /&gt;Redbubble&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 13 Mar 2025 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/bloodborne/Vargram-The-Raging-Wolf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/bloodborne/Vargram-The-Raging-Wolf.html</guid>
         
         
         <category>works</category>
