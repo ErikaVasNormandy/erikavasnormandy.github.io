@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Apr 2025 09:38:29 -0700</pubDate>
-    <lastBuildDate>Sat, 26 Apr 2025 09:38:29 -0700</lastBuildDate>
+    <pubDate>Sat, 07 Jun 2025 11:12:30 -0700</pubDate>
+    <lastBuildDate>Sat, 07 Jun 2025 11:12:30 -0700</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -150,6 +150,8 @@ function myFunction(imgs) {
 &lt;p&gt;April 25, 2025&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250426-forsaken-cainhurst.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The old nobles, long-time imbibers of blood, are no strangers to the sanguine plague, and the disposal of beasts was a discrete task left to their servants, or knights, as they were called for the sake of appearances.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/satmorningsoulsborne/20250117-Cainhurst-sigil-03.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
 

@@ -70,6 +70,7 @@ April 25, 2025
 
 <img class="imageDisplay" src="/images/satmorningsoulsborne/20250426-forsaken-cainhurst.jpg" onclick="myFunction(this);">
 
+The old nobles, long-time imbibers of blood, are no strangers to the sanguine plague, and the disposal of beasts was a discrete task left to their servants, or knights, as they were called for the sake of appearances.
 
 <img class="imageDisplay" src="/images/satmorningsoulsborne/20250117-Cainhurst-sigil-03.png" onclick="myFunction(this);">
 
