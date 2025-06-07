@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>http://localhost:4000/</loc>
-      <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+      <lastmod>2025-06-07T13:18:32-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
     </url>
@@ -175,6 +175,18 @@
         <priority>0.9</priority>
     </url>
     <url>
+      <loc>http://localhost:4000/works/elden-ring/malenia/tarnished/tome/book/EldenRing-Malenia-1-pg-16.html</loc>
+        <lastmod>2022-05-24T00:00:00-07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://localhost:4000/works/elden-ring/malenia/tarnished/tome/book/demigod/runes/EldenRing-Malenia-1-pg-15.html</loc>
+        <lastmod>2022-05-24T00:00:00-07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
       <loc>http://localhost:4000/works/elden-ring/acrossthefog/tome/book/EldenRing-AcrossTheFog-pg-2-3.html</loc>
         <lastmod>2022-05-18T00:00:00-07:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -206,67 +218,67 @@
     </url>
     <url>
       <loc>http://localhost:4000/404.html</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/credits/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/other-projects/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/shop/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/support/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/webcomics/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/works/</loc>
-        <lastmod>2025-06-07T11:12:30-07:00</lastmod>
+        <lastmod>2025-06-07T13:18:32-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
