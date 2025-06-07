@@ -103,8 +103,6 @@ function myFunction(imgs) {
 
 ## Links
 <a href="https://www.etsy.com/shop/Technomancer01"><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-etsy.png"></a>
-
 <a href="https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA=="><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-instagram.png"></a>
 <a href="https://www.artstation.com/artwork/5BobZW"><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-artstation.png"></a>
-
 
