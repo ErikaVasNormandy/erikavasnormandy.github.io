@@ -7,4 +7,6 @@ git_source(:github) { |repo_name| "https://github.com/arkadianriver/spectral.git
 gem 'jekyll', '>= 4.1.2'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
-gem 'jekyll-toc'
+gem 'jekyll-toc', '>= 0.19.0'
+
+gem 'nokogiri', '>=1.16.4'

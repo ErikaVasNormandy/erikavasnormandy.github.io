@@ -1412,6 +1412,9 @@ body {
   font-family: mySecondFont;
   src: url(Mina-Bold.ttf);
 }
+body p, input p, select p, textarea p {
+  font-family: "Open Sans", Helvetica, sans-serif;
+}
 body, input, select, textarea {
   color: #fff;
   /*font-family: _font(ctrl-family);*/
@@ -1421,9 +1424,6 @@ body, input, select, textarea {
   font-weight: 400;
   letter-spacing: 0.075em;
   line-height: 1.65em;
-}
-body p, input p, select p, textarea p {
-  font-family: "Open Sans", Helvetica, sans-serif;
 }
 @media screen and (max-width: 1680px) {
   body, input, select, textarea {
@@ -1755,8 +1755,6 @@ textarea:focus {
 
 .select-wrapper {
   text-decoration: none;
-  display: block;
-  position: relative;
 }
 .select-wrapper:before {
   -moz-osx-font-smoothing: grayscale;
@@ -1765,6 +1763,10 @@ textarea:focus {
   font-style: normal;
   font-weight: normal;
   text-transform: none !important;
+}
+.select-wrapper {
+  display: block;
+  position: relative;
 }
 .select-wrapper:before {
   -moz-pointer-events: none;
@@ -1813,14 +1815,6 @@ input[type=radio] {
 input[type=checkbox] + label,
 input[type=radio] + label {
   text-decoration: none;
-  color: #fff;
-  cursor: pointer;
-  display: inline-block;
-  font-size: 1em;
-  font-weight: 400;
-  padding-left: 2.4em;
-  padding-right: 0.75em;
-  position: relative;
 }
 input[type=checkbox] + label:before,
 input[type=radio] + label:before {
@@ -1830,6 +1824,17 @@ input[type=radio] + label:before {
   font-style: normal;
   font-weight: normal;
   text-transform: none !important;
+}
+input[type=checkbox] + label,
+input[type=radio] + label {
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1em;
+  font-weight: 400;
+  padding-left: 2.4em;
+  padding-right: 0.75em;
+  position: relative;
 }
 input[type=checkbox] + label:before,
 input[type=radio] + label:before {
@@ -1910,8 +1915,6 @@ input[type=radio] + label:before {
 /* Icon */
 .icon {
   text-decoration: none;
-  border-bottom: none;
-  position: relative;
 }
 .icon:before {
   -moz-osx-font-smoothing: grayscale;
@@ -1920,6 +1923,10 @@ input[type=radio] + label:before {
   font-style: normal;
   font-weight: normal;
   text-transform: none !important;
+}
+.icon {
+  border-bottom: none;
+  position: relative;
 }
 .icon > .label {
   display: none;
@@ -2660,11 +2667,6 @@ button:disabled,
   /*background-color: _palette($p, bg);*/
   background-color: rgba(0, 0, 0, 0.8);
   color: rgb(200, 200, 200);
-  /*
-  code {
-  	background: _palette($p, border-bg);
-  }
-  */
 }
 .breadcrumb strong, .breadcrumb b {
   color: rgb(200, 200, 200);
@@ -2677,6 +2679,13 @@ button:disabled,
 }
 .breadcrumb blockquote {
   border-color: #dfdfdf;
+}
+.breadcrumb {
+  /*
+  code {
+  	background: _palette($p, border-bg);
+  }
+  */
 }
 .breadcrumb header p {
   color: rgb(200, 200, 200);
@@ -2986,11 +2995,6 @@ button:disabled,
   /*background-color: _palette($p, bg);*/
   background-color: rgba(0, 0, 0, 0.8);
   color: rgb(200, 200, 200);
-  /*
-  code {
-  	background: _palette($p, border-bg);
-  }
-  */
 }
 .wrapper.style1 strong, .wrapper.style1 b {
   color: rgb(200, 200, 200);
@@ -3003,6 +3007,13 @@ button:disabled,
 }
 .wrapper.style1 blockquote {
   border-color: rgba(0, 0, 0, 0.125);
+}
+.wrapper.style1 {
+  /*
+  code {
+  	background: _palette($p, border-bg);
+  }
+  */
 }
 .wrapper.style1 header p {
   color: rgb(200, 200, 200);
@@ -3256,11 +3267,6 @@ button:disabled,
   /*background-color: _palette($p, bg);*/
   background-color: rgba(0, 0, 0, 0.8);
   color: rgb(200, 200, 200);
-  /*
-  code {
-  	background: _palette($p, border-bg);
-  }
-  */
 }
 .wrapper.style3 strong, .wrapper.style3 b {
   color: rgb(200, 200, 200);
@@ -3273,6 +3279,13 @@ button:disabled,
 }
 .wrapper.style3 blockquote {
   border-color: rgba(0, 0, 0, 0.125);
+}
+.wrapper.style3 {
+  /*
+  code {
+  	background: _palette($p, border-bg);
+  }
+  */
 }
 .wrapper.style3 header p {
   color: rgb(200, 200, 200);
@@ -3525,12 +3538,6 @@ button:disabled,
   /*background-color: _palette($p, bg);*/
   background-color: rgba(0, 0, 0, 0.8);
   color: rgb(200, 200, 200);
-  /*
-  code {
-  	background: _palette($p, border-bg);
-  }
-  */
-  background-color: rgba(30, 32, 36, 0.75);
 }
 .wrapper.style5 strong, .wrapper.style5 b {
   color: rgb(200, 200, 200);
@@ -3543,6 +3550,13 @@ button:disabled,
 }
 .wrapper.style5 blockquote {
   border-color: #dfdfdf;
+}
+.wrapper.style5 {
+  /*
+  code {
+  	background: _palette($p, border-bg);
+  }
+  */
 }
 .wrapper.style5 header p {
   color: rgb(200, 200, 200);
@@ -3787,6 +3801,9 @@ button:disabled,
 }
 .wrapper.style5 .inner > .techlist {
   margin-bottom: 2em;
+}
+.wrapper.style5 {
+  background-color: rgba(30, 32, 36, 0.75);
 }
 @media screen and (max-width: 980px) {
   .wrapper {
