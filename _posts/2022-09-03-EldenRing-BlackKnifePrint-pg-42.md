@@ -80,11 +80,6 @@ function myFunction(imgs) {
 
 
 
-
-
-
-
-
 ## Links
 <a href="https://www.instagram.com/p/CvAZM6YOjJ_/?igshid=MzRlODBiNWFlZA=="><img class="social-media-icons" src="/images/social-media-icons/social-media-icon-instagram.png"></a>
 
