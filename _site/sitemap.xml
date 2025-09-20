@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>http://localhost:4000/</loc>
-      <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+      <lastmod>2025-09-20T10:49:09-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
     </url>
@@ -224,67 +224,67 @@
     </url>
     <url>
       <loc>http://localhost:4000/404.html</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/credits/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/other-projects/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/shop/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/support/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/webcomics/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/works/</loc>
-        <lastmod>2025-09-16T15:24:43-07:00</lastmod>
+        <lastmod>2025-09-20T10:49:09-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
