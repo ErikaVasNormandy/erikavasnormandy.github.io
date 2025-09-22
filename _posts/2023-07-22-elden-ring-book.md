@@ -8,7 +8,7 @@ skills:
 categories:
   - works
 
-background-image: ../shop/previews/medium-books/EldenRing-BookMedium+Large-Preview-1.png
+background-image: ../shop/medium-books/EldenRing-BookMedium+Large-Preview-1.png
 #date/lastmod are optional
 #date: 2022-05-07 16:02:16 -0700
 #lastmod: 2022-05-07 16:02:16 -0700
@@ -44,6 +44,6 @@ background-image: ../shop/previews/medium-books/EldenRing-BookMedium+Large-Previ
 
 Within its leather-bound pages lies a repository of reflections and unearthed secrets, showcasing this world of the Lands Between in the accounts of the innumerable Tarnished Souls that have passed through here in the quest to become the Elden Lord. 
 
-<img class="imageDisplay" src="/shop/previews/medium-books/EldenRing-BookMedium+Large-Preview-1.png
+<img class="imageDisplay" src="/shop/medium-books/EldenRing-BookMedium+Large-Preview-1.png
 " onclick="myFunction(this);">
  

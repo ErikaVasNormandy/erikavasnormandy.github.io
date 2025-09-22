@@ -5,8 +5,8 @@
     <description>Netrunning, Illustrations, Concept Art</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Sep 2025 11:44:37 -0700</pubDate>
-    <lastBuildDate>Sat, 20 Sep 2025 11:44:37 -0700</lastBuildDate>
+    <pubDate>Sat, 20 Sep 2025 11:53:37 -0700</pubDate>
+    <lastBuildDate>Sat, 20 Sep 2025 11:53:37 -0700</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -186,7 +186,7 @@ img {
 
 &lt;h2 id=&quot;mini-books&quot;&gt;Mini Books&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;../shop/previews/mini-books/IMG_0459.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../shop/mini-books/IMG_0459.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;“A tiny book, fitting right into the palm of your hand. Notes scrawled on the tea-stained pages describe many worlds and peoples, with illustrations to brighten however you choose to add to them.”&lt;/em&gt;&lt;/p&gt;
 
@@ -223,9 +223,9 @@ img {
 
 &lt;h2 id=&quot;gallery&quot;&gt;Gallery&lt;/h2&gt;
 
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/shop/previews/mini-books/IMG_0422.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-&lt;img class=&quot;imageDisplay&quot; src=&quot;/shop/previews/mini-books/F77D0564-9CA4-49C9-BD08-B07744F1ABD2.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
-&lt;img class=&quot;imageDisplay&quot; src=&quot;/shop/previews/mini-books/IMG_9378-black-brown-book-preview.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/shop/mini-books/IMG_0422.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+&lt;img class=&quot;imageDisplay&quot; src=&quot;/shop/mini-books/F77D0564-9CA4-49C9-BD08-B07744F1ABD2.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+&lt;img class=&quot;imageDisplay&quot; src=&quot;/shop/mini-books/IMG_9378-black-brown-book-preview.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Mar 2025 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/works/mini-books.html</link>

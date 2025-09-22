@@ -7,7 +7,7 @@ skills:
 categories:
   - works
 
-background-image: ../shop/previews/mini-books/IMG_9378-black-brown-book-preview.png
+background-image: ../shop/mini-books/IMG_9378-black-brown-book-preview.png
 ---
 <style>
 img {
@@ -22,7 +22,7 @@ img {
 
 ## Mini Books
 
-<img  src="../shop/previews/mini-books/IMG_0459.png" onclick="myFunction(this);">
+<img  src="../shop/mini-books/IMG_0459.png" onclick="myFunction(this);">
 
 
 
@@ -55,6 +55,6 @@ img {
 
 ## Gallery
 
-<img class="imageDisplay" src="/shop/previews/mini-books/IMG_0422.png" onclick="myFunction(this);">
-<img class="imageDisplay" src="/shop/previews/mini-books/F77D0564-9CA4-49C9-BD08-B07744F1ABD2.png" onclick="myFunction(this);">
-<img class="imageDisplay" src="/shop/previews/mini-books/IMG_9378-black-brown-book-preview.png" onclick="myFunction(this);">
+<img class="imageDisplay" src="/shop/mini-books/IMG_0422.png" onclick="myFunction(this);">
+<img class="imageDisplay" src="/shop/mini-books/F77D0564-9CA4-49C9-BD08-B07744F1ABD2.png" onclick="myFunction(this);">
+<img class="imageDisplay" src="/shop/mini-books/IMG_9378-black-brown-book-preview.png" onclick="myFunction(this);">
