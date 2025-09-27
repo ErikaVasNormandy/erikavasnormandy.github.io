@@ -11,7 +11,7 @@ categories:
   - Tome
   - Book
 
-background-image: satmorningsoulsborne/EldenRing-pg8-90-Godfrey/elden-ring-godfrey-1-preview.png
+background-image: satmorningsoulsborne/EldenRing-pg8-9-Godfrey/elden-ring-godfrey-1-preview.png
 
 ---
 ---
@@ -71,20 +71,20 @@ function myFunction(imgs) {
 
 > "Then, after thy death, I will give back what I once claimed. Return to the Lands Between, wage war, and brandish the Elden Ring. Grow strong in the face of death. Warriors of my lord. Lord Godfrey."
 
-<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg8-90-Godfrey/elden-ring-godfrey-3.png
+<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg8-9-Godfrey/elden-ring-godfrey-3.png
 " onclick="myFunction(this);">
  
 
 >  When Godfrey, first Elden Lord, was robbed of his grace, becoming Tarnished, he took with him his kinfolk and left the Lands Between. After the Long March of the Tarnished came to an end, Godfrey divested himself of kingship, becoming a simple warrior once more.
 
 
-<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg8-90-Godfrey/elden-ring-godfrey-1.png
+<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg8-9-Godfrey/elden-ring-godfrey-1.png
 " onclick="myFunction(this);">
  
 
 > After killing the great red bear in a blood-soaked bout, he became fascinated by the untainted glory of its naked strength. "I wish to be a bear, no more, and no less.
 
-<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg8-90-Godfrey/elden-ring-godfrey-2.png
+<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg8-9-Godfrey/elden-ring-godfrey-2.png
 " onclick="myFunction(this);">
  
 
@@ -92,7 +92,7 @@ function myFunction(imgs) {
 I will take thee in mine arms once more!.
 
 
-<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg8-90-Godfrey/elden-ring-godfrey-4.png
+<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg8-9-Godfrey/elden-ring-godfrey-4.png
 " onclick="myFunction(this);">
  
 
